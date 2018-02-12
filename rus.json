@@ -45,13 +45,13 @@
     "preICO": "PRE-ICO открыто!",
     "preIcoStartsIn": "Старт ICO Pre-sale",
     "icoStartsIn": "Старт ICO <b>9 февраля</b>",
-    "icoStarted": "Token sale live!",
+    "icoStarted": "Продажа токенов открыта!",
     "tokenSaleIsOpen": "Public token sale<br> is open now!",
     "days": "Дни",
     "hours": "Часы",
     "minutes": "Минуты",
     "seconds": "Секунды",
-    "bonus%%%EndsIn": "Bonus %%% ends in"
+    "bonus%%%EndsIn": "Бонус %%% заканчивается через"
   },
   "documents": {
     "heading": "Документы",
@@ -171,12 +171,12 @@
     "bountyCampaign": "Баунти кампания",
     "betaProduct": "Бета версия",
     "USAResidentsCannotParticipate": "Участие для граждан и резидентов США запрещено",
-    "softCapReached": "Soft cap reached"
+    "softCapReached": "СОБРАНО soft cap"
   },
   "landing":{
     "about": {
       "first": {
-        "title": "Первый децентрализированный маркетплейс, объединяющий блогеров и рекламодателей",
+        "title": "Первый децентрализованный маркетплейс, объединяющий блогеров и рекламодателей",
         "description": "SocialMedia.Market откроет новые возможности для монетизации контента, активного вовлечения аудитории и решит основные проблемы маркетинга влияния. Новая экосистема, основанная на технологии блокчейн и обеспеченная собственной криптовалютой - Social Media токеном, упростит маркетинговые взаимодействия между бизнесом и блогерами."
       },
       "second": {
@@ -184,7 +184,7 @@
         "description": "Исследования показывают, что 92% потребителей более склонны доверять рекламе, которую транслируют блогеры. Более того, такая реклама эффективнее, чем традиционная, и приводит к более выскому доверию бренду. Сегодня Маркетинг Влияния стал наиболее эффективной маркетинговой стратегией."
       },
       "actions": {
-        "readShorter": "Короткая презентация",
+        "readShorter": "Презентация",
         "checkWhitePaper": "Белая Бумага",
         "joinCommunity": "Присоединяйтесь к сообществу"
       }
@@ -706,7 +706,7 @@
         {
           "background": "./assets/img/landing/benefits/benefit4.png",
           "image": "./assets/img/landing/benefits/benefit4-bg.png",
-          "title": "децентрализированное решение споров"
+          "title": "децентрализованное решение споров"
         },
         {
           "background": "./assets/img/landing/benefits/benefit5.png",
@@ -736,35 +736,35 @@
           "name": "David Meerman Scott",
           "status": "Автор бестселлера \"Новые правила маркетинга и PR\"",
           "company": "",
-          "description": "Blockchain technology shows promise to finally bring transparency for brands that work with social influencers."
+          "description": "Технология Blockchain демонстрирует обещание наконец обеспечить прозрачность для брендов, которые работают с лидерами мнения."
         },
         {
           "avatar": "./assets/img/landing/experts/werner.png",
           "name": "Werner Geyser",
           "status": "Основатель Influencer Marketing Hub",
           "company": "./assets/img/landing/experts/imh.jpg",
-          "description": "Influencer marketing provides a huge opportunity for brands to deliver their messages to a broader audience. With help of SocialMeida.Market blockchain technology will provide regulation means for this blooming market, ensuring transparency and security for everyone involved."
+          "description": "Маркетинг Влияния дает огромную возможность для брендов доносить информацию более широкой аудитории. С помощью SocialMedia.Market технология blockchain предоставляет средства регулирования для развивающегося рынка, обеспечивая прозрачность и безопасность для всех участников."
         },
         {
           "avatar": "./assets/img/landing/experts/peter.png",
           "name": "Peter Zhalov",
           "status": "Бывший вице-президент по маркетингу и рекламе на Wargaming.net",
           "company": "./assets/img/landing/experts/wargaming.jpg",
-          "description": "Today consumers use ad-blockers and ignore traditional digital advertisements. Influencer and eSports Marketing are becoming two most effective ways to reach Millenials and Generation Z audience. Socialmedia.market has the solution of creating a transparent marketplace for Influencer Marketing that we need."
+          "description": "Сегодня пользователи все чаще используют блокировщики рекламы и игнорируют традиционную онлайн рекламу. Самыми эффективными способами добраться до аудиторий Миллениалов и поколения Z становится реклама через блоггеров и киберспорт. SocialMedia.Market имеет решение как создать открытый маркетплейс для Маркетинга Влияния, который нам нужен."
         },
         {
           "avatar": "./assets/img/landing/experts/alex.png",
           "name": "Alex Yastremski",
           "status": "Главный юридический консультант Bitfury Group Ltd",
           "company": "./assets/img/landing/experts/bitfury.jpg",
-          "description": "The project impressed me with its ambitious goals that could increase value for market participants and maximize sales for marketers. With the team’s expertise, this project can become a successful and effective all-in-one solution for digital advertising."
+          "description": "Проект впечатлил меня своими амбициозными целями, которые могут повысить эффективность инструмента для участников рынка и максимизировать продажи для маркетологов. Благодаря опыту команды, этот проект может стать успешным и эффективным решением для рынка цифровой рекламы"
         },
         {
           "avatar": "./assets/img/landing/experts/slavik.png",
           "name": "Slavik Nenaydokh",
           "status": "Управляющий директор компании Centuria Natural Foods",
           "company": "",
-          "description": "SocialMedia.Market is wisely leveraging their know-how in a bid to enact social marketing change. I am humbled to participate in this vision with the SocialMedia.Market team and am looking forward to walking along side them throughout its stages of corporate maturity."
+          "description": "SocialMedia.Market разумно применяют свои знания для качественного изменения в сфере социального маркетинга. Для меня большая честь участвовать в этом проекте вместе с командой SocialMedia.Market и я не могу дождаться того момента, когда мы вместе пройдем через все этапы корпоративного развития."
         }
       ]
     },
@@ -1038,7 +1038,7 @@
             }
           ],
           "position": "Испольнительный председатель венчурной компании Accelerated Digital Ventures ",
-          "description": "Keith Teare recently advised on the successful ICOs of ICOBox (4000 BTC) and Crypterium ($51mln+). Previously he was a founder of TechCrunch and the first consumer Internet Service Provider in Europe - EasyNet.",
+          "description": "Кит Тир недавно был советником на успешных ICO: ICOBox (4000 BTC) и Crypterium ($51 млн +). Ранее он основал TechCrunch и первый потребительский интернет-провайдер в Европе - EasyNet. EasyNet и RealNames достигли уникального статуса в конце 1990-х годов.",
           "logos": [
             {
               "alt": "",
@@ -1058,7 +1058,7 @@
             }
           ],
           "position": "Старший вице-президент по операциям, Sonic Foundry, Inc",
-          "description": "Prior to Sonic Foundry, Andrew ran operations for Think New Ideas, another NASDAQ listed company that acquired and combined digital marketing and web development companies. Think New Ideas was ultimately acquired for more than $250mm.",
+          "description": "До Sonic Foundry Andrew управлял операциями для Think New Ideas, еще одной зарегистрированной на NASDAQ компании, которая приобретала и объедининяла компании по цифровому маркетингу и веб-разработке. Think New Ideas была в конечном счете приобретена за более чем на $250 миллионов.",
           "logos": [
             {
               "alt": "",
@@ -1078,7 +1078,7 @@
             }
           ],
           "position": "Генеральный директор, Value Brain Co., Ltd. (Япония) Генеральный директор, Beducate.ltd (Гонконг)",
-          "description": "Автор \"Волнение зарабатывает деньги\" Kadokawa Foresta.  In December 2017, Tatsunari Ono made a speech to 2,500 guests at a cryptocurrency seminar where well-known speakers such as Jay Abraham, James Skinner, Anthony Mink were also on the same stage.",
+          "description": "Бизнесмен, который активно занимается инвестиционной деятельностью в сфере недвижимости, акций, операций Airbnb, а также криптовалюты. Он проводил встречи в Токио с известными криптовалютными фирмами, такими как NEO, LISK, Quantum и Ardor.",
           "logos": [
             {
               "alt": "",
@@ -1097,8 +1097,8 @@
               "link": "https://co.linkedin.com/in/gabrielzanko/"
             }
           ],
-          "position": "Fintech entrepreneur-Advisor. Founder of MobileyourLife and involved in the AI-Fintech space providing solutions in the B2B space.",
-          "description": "ICO advisory in Fundraising Capital and International Business Development.",
+          "position": "Финтех предприниматель-консультант. Основатель MobileyourLife, участвует в AI-Fintech пространстве, предоставляя решения в пространстве B2B.",
+          "description": "ICO консультант в Fundraising Capital и International Business Development.",
           "logos": [
             {
               "alt": "",
@@ -1117,8 +1117,8 @@
               "link": "https://www.linkedin.com/in/daria-generalova-842a3a85/"
             }
           ],
-          "position": "Co-Founder, ICOBox",
-          "description": "Marketing, PR & communications specialist with 10+ years of experience. Having joined blockchain industry nearly two years ago, worked as a consultant to Argon Group and helped launch ICO platform Cryptonomos.",
+          "position": "Соучредитель, ICOBox",
+          "description": "Специалист по маркетингу, связям с общественностью и коммуникации с 10-летним опытом. Присоединившись к блокчейн индустрии около 2 лет назад, работал консультантом в Argon Group и помог запустить ICO платформу Cryptonomos.",
           "logos": [
             {
               "alt": "",
@@ -1137,8 +1137,8 @@
               "link": "https://www.linkedin.com/in/chafikabdellaouiacbmc/"
             }
           ],
-          "position": "Entrepreneur, the founder ACBMC, Bizzant, and XEDYAS IT HYBRID SOLUTIONS.",
-          "description": "The person behind G2A explosive growth, as well as contributor to Mobile Go ICO success. Chafik is an accomplished business development professional with an extensive experience in eCommerce, gaming and electronic payments.",
+          "position": "Предприниматель, основатель ACBMC, Bizzant и XEDYAS IT HYBRID SOLUTIONS. ",
+          "description": "Человек, стоящий за взрывным ростом G2A, также сделавший вклад в успех Mobile Go ICO. Chafik - совершенный профессионал в сфере развития бизнеса, обладающий обширным опытом в области электронной коммерции, гейминга и электронных платежей.",
           "logos": [
             {
               "alt": "",
@@ -1157,8 +1157,8 @@
               "link": "https://www.linkedin.com/in/peter-zhalov-35149225/"
             }
           ],
-          "position": "Former VP Marketing & Advertising at Wargaming.net, eSports and blockchain enthusiast",
-          "description": "",
+          "position": "Бывший вице-президент по маркетингу и рекламе на Wargaming.net, киберспорт- и блокчейн-энтузиаст",
+          "description": "Опытный исполнительный директор, профессиональный маркетолог с показательным опытом работы в игровой индустрии. Отлично разбирается в киберспорте, маркетинге и блокчейне.",
           "logos": [
             {
               "alt": "",
@@ -1177,8 +1177,8 @@
               "link": "https://www.linkedin.com/in/dima-zaitsev/"
             }
           ],
-          "position": "Head of International PR & Business Analytics Department Chief at ICOBox",
-          "description": "2017 Dima became interested in blockchain and cryptocurrencies and started conducting limited-scope market research. He has his own columns on several Media Outlets in the U.S. including FXStreet.com, CoinSpeaker.com, and others.",
+          "position": "Глава отдела международного PR и бизнес-аналитики, ICOBox",
+          "description": "В 2017 Дима заинтересовался блокчейном и криптовалютами и начал проводить исследования рынка с ограниченным охватом. У него есть свои колонки на нескольких медиа-площадках в США, включая FXStreet.com, CoinSpeaker.com и другие.",
           "logos": [
             {
               "alt": "",
@@ -1197,8 +1197,8 @@
               "link": "https://www.linkedin.com/in/alex-yastremski-b1889514/"
             }
           ],
-          "position": "Legal Counsel San Francisco, California Blockchain regulatory/compliance expert",
-          "description": "General counsel at Bitfury Group Ltd <br/> Fintech counsel Bingham McCutchen LLP",
+          "position": "Юридический консультант Сан-Франциско, Калифорния Эксперт по нормативно-правовым вопросам блокчейн индустрии",
+          "description": "Главный юридический консультант Bitfury Group Ltd <br/> Финтех консультант Bingham McCutchen LLP",
           "logos": [
             {
               "alt": "",
@@ -1217,8 +1217,8 @@
               "link": "https://www.linkedin.com/in/slavik-nenaydokh-7785492/"
             }
           ],
-          "position": "COO, Centuria Natural Foods San Francisco, CA",
-          "description": "Head of M&A Emerging Markets, Exigen Capital <br/> Principal, Delphi Software International",
+          "position": "COO, Centuria Natural Foods Сан-Франциско, Калифорния",
+          "description": "Глава M&A Emerging Markets, Exigen Capital <br/> Principal, Delphi Software International",
           "logos": [
             {
               "alt": "",
@@ -1232,9 +1232,9 @@
     "howItWorks": {
       "sectionTitle": "Как это работает?",
       "sectionDescription": "SocialMedia.Market создаст глобальный маркетплейс для рекламодателей и лидеров мнений в рамках всех крупных социальных сетей, предоставляя удобные и прозрачные инструменты для взаимодействия любых участников. Для поддержания коммерческих отношений между участниками SocialMedia.Market будет использовать технологию блокчейн, которая позволит упростить интеграцию, снизить мошенничество и затраты для всех участников рынка.",
-      "descriptionLeft": "No entry barrier for content monitization for influencer of any kind",
-      "descriptionRight": "Unlimited access to influencers all over the world for advertisers",
-      "tryOurPlatform": "Попробуйте нашу платформу"
+      "descriptionLeft": "Нет входного барьера для монетизации контента для лидера мнений любого типа",
+      "descriptionRight": "Неограниченный доступ для рекламодателей к лидерам мнений по всему миру",
+      "tryOurPlatform": "БЕТА ВЕРСИЯ ПЛАТФОРМЫ"
     },
     "tokenFunctionality": {
       "sectionTitle": "ФУНКЦИОНАЛ ТОКЕНА",
@@ -1242,7 +1242,7 @@
     },
     "roadmap": {
       "sectionTitle": "Дорожная карта",
-      "sectionDescription": "Дорожная карта SocialMedia.Market фокусируется на разработке технологий, инфраструктуре операций, новых партнерских отношениях и маркетинговых инициативах.",
+      "sectionDescription": "Дорожная карта SocialMedia.Market направлена на разработку технологий, инфраструктуру взаимодействия пользователей платформы, развитие партнерских отношениях и маркетинг.",
       "points": [
         {
           "title": "С 2015",
@@ -1293,7 +1293,7 @@
     },
     "useOfFunds": {
       "sectionTitle": "РАСПРЕДЕЛЕНИЕ СРЕДСТВ",
-      "sectionDescription": "Средства, собранные в рамках кампании по продаже токенов, будут выделены для всех функций платформы SocialMedia.Market, доступных для всех участников экосистемы, а также для мощной маркетинговой поддержки с целью быстрого роста числа пользователей платформы и упрощения процесса использования новых инструментов рекламодателями и блогерами."
+      "sectionDescription": "Средства, привлеченные в рамках кампании по продаже токенов, будут распределены между всеми функциями платформы SocialMedia.Market, доступными для всех участников экосистемы, а также для мощной маркетинговой поддержки с целью быстрого роста числа пользователей платформы и упрощения процесса использования новых инструментов рекламодателями и блогерами."
     },
     "tokenDistribution": {
       "sectionTitle": "РАСПРЕДЕЛЕНИЕ ТОКЕНОВ",
