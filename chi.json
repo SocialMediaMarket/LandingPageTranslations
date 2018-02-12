@@ -45,13 +45,13 @@
     "preICO": "PRE-ICO IS LIVE!",
     "preIcoStartsIn": "ICO Pre-sale starts in",
     "icoStartsIn": "ICO starts <b>february 9</b>",
-    "icoStarted": "Token sale live!",
+    "icoStarted": "令牌销售直播！",
     "tokenSaleIsOpen": "Public token sale<br> is open now!",
     "days": "天",
     "hours": "时",
     "minutes": "分",
     "seconds": "秒",
-    "bonus%%%EndsIn": "Bonus %%% ends in"
+    "bonus%%%EndsIn": "奖金%%%结束"
   },
   "documents": {
     "heading": "文档",
@@ -170,8 +170,8 @@
     "referralProgram": "推荐计划",
     "bountyCampaign": "赏金活动",
     "betaProduct": "BETA版平台",
-    "USAResidentsCannotParticipate": "USA citizens and residents are not allowed to participate",
-    "softCapReached": "Soft cap reached"
+    "USAResidentsCannotParticipate": "美国公民和居民不得参加",
+    "softCapReached": "已达到软顶！"
   },
   "landing":{
     "about": {
@@ -194,7 +194,7 @@
       "videosList": [
         {
           "id": "projectReviews",
-          "title": "Project reviews",
+          "title": "项目评论",
           "videos": [
             {
               "channelName": "Coin Bloq",
@@ -698,7 +698,7 @@
       ]
     },
     "benefits": {
-      "sectionTitle": "<strong><span class=\"market\">Socialmedia.Market</span></strong> benefits",
+      "sectionTitle": "<strong><span class=\"market\">Socialmedia.Market</span></strong> 的优势",
       "benefitsList": [
         {
           "background": "./assets/img/landing/benefits/benefit1.png",
@@ -741,7 +741,7 @@
           "name": "Chafik Abdellaoui",
           "status": "企业家，创始人ACBMC，Bizzant和XEDYAS IT融合解决方案。",
           "company": "./assets/img/landing/experts/g2a.jpg",
-          "description": "由于电子竞技对网络视频播放器和流媒体的依赖度很高，我相信有组织的影响力营销生态系统将成为业界的一个切入点。我们不能忽视，SocialMedia将为市场创造下一个机会。"
+          "description": "影响者营销为品牌向更广泛的受众提供信息提供了巨大的机会。 区块链技术为这个蓬勃发展的市场提供了监管手段，确保每个参与者的透明度和安全性。"
         },
         {
           "avatar": "./assets/img/landing/experts/david.png",
@@ -784,7 +784,7 @@
       "sectionTitle": "我们的队伍",
       "sectionDesc": "现在有31个成员参与了这个项目，我们正在招聘更多的市场专员，区块链工程师来增强我们的开发团队。我们期待在接下来的4个月内会有70名工作人员加入到SocialMedia.Market",
       "fullTeam": "完整的团队",
-      "hideFullTeam": "Hide full team",
+      "hideFullTeam": "隐藏整个团队",
       "teamList": [
         {
           "id": "dmitryShishov",
@@ -1090,7 +1090,7 @@
             }
           ],
           "position": "Value Brain 有限公司。（日本）首席执行官Beducate.ltd首席执行官（香港） 作者“”担心赚钱“”角川森林“",
-          "description": "Author Worries Make Money Kadokawa Foresta <br/><br/>  In December 2017, Tatsunari Ono made a speech to 2,500 guests at a cryptocurrency seminar where well-known speakers such as Jay Abraham, James Skinner, Anthony Mink were also on the same stage.",
+          "description": "积极从事房地产，股权，Airbnb业务以及加密货币投资活动的商人。他为NEO，LISK，Quantum和Ardor等知名加密货币公司举办了在东京的线下聚会。",
           "logos": [
             {
               "alt": "",
@@ -1129,8 +1129,8 @@
               "link": "https://www.linkedin.com/in/daria-generalova-842a3a85/"
             }
           ],
-          "position": "Co-Founder, ICOBox",
-          "description": "Marketing, PR & communications specialist with 10+ years of experience. Having joined blockchain industry nearly two years ago, worked as a consultant to Argon Group and helped launch ICO platform Cryptonomos.",
+          "position": "ICOBox的联合创始人",
+          "description": "市场营销，公共关系和沟通专家，拥有10年的经验。 大约两年前加入行业大片后，他在Argon集团担任顾问，并帮助推出ICO平台Cryptonomos。",
           "logos": [
             {
               "alt": "",
@@ -1341,7 +1341,7 @@
     "media": {
       "sectionTitle": "关于socialmedia.market媒体推广",
       "moreMedia": "更多的媒体推广",
-      "lessMedia": "Less media",
+      "lessMedia": "媒体较少",
       "mediaList": [
         {
           "id": "influencermarketinghub",
