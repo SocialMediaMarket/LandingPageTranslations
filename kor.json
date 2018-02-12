@@ -1,0 +1,1542 @@
+{
+  "lang": "ko",
+  "links": {
+    "termsAndConditions": "이용 약관",
+    "privacyPolicy": "개인정보 보호 정책",
+    "subscribe": "구독",
+    "commitForPresale": "사전 판매 신청하기",
+    "commitForPresaleHeader": "JOIN PRESALE WITH 30% BONUS",
+    "commitWith30bonus": "JOIN TOKEN SALE WITH 30% BONUS",
+    "commitWith10bonus": "Join pre-ico with 10% bonus",
+    "commitWith7bonus": "Join pre-ico with 7% bonus",
+    "commitWith5bonus": "Join pre-ico with 5% bonus",
+    "commitWith3bonus": "Join pre-ico with 3% bonus",
+    "commit": "Join ico",
+    "tokenSale": "토큰 판매",
+    "whitepaper": "백서",
+    "documents": "문서",
+    "stateOfMarket": "시장 현황",
+    "howItWorks": "사업 소개",
+    "tokenDistribution": "토큰 배당",
+    "roadmap": "로드맵",
+    "media": "미디어",
+    "ourTeam": "팀",
+    "about": "우리에 대하여",
+    "myProfile": "내 프로필",
+    "myAccount": "내 계정",
+    "mainPage": "메인 페이지",
+    "community": "커뮤니티",
+    "logout": "로그아웃",
+    "signin": "로그인",
+    "cryptoKittie": "Free cryptokitty",
+    "signUpAndSubscribe": "토큰 구매",
+    "tryBeta": "베타 플랫폼",
+    "tryPlatformBeta": "플랫폼 베타 테스트",
+    "joinTokenSale": "토큰 세일 참여",
+    "buyTokens": "Buy tokens"
+  },
+  "presaleLive": {
+    "headingLarge": "프리세일이 지금 진행 중입니다!",
+    "heading": "토큰 구매",
+    "joinNow": "토큰 구매",
+    "bonus%%%EndsIn": "Bonus %%% ends in"
+  },
+  "countdown": {
+    "title": "토큰 프리 세일 끝남",
+    "preICO": "PRE-ICO IS LIVE!",
+    "preIcoStartsIn": "ICO Pre-sale starts in",
+    "icoStartsIn": "2월 9일 ICO 시작",
+    "icoStarted": "Token sale live!",
+    "tokenSaleIsOpen": "Public token sale<br> is open now!",
+    "days": "날짜",
+    "hours": "시간",
+    "minutes": "분",
+    "seconds": "초"
+  },
+  "documents": {
+    "heading": "문서",
+    "documents": [
+      {
+        "id": "SMM_Shorter",
+        "title": "요약서",
+        "languages": [
+          "eng",
+          "rus"
+        ]
+      },
+      {
+        "id": "SMM_White-Paper",
+        "title": "백서",
+        "languages": [
+          "eng",
+          "rus"
+        ]
+      },
+      {
+        "id": "SMM_Marketing-Research",
+        "title": "마케팅 연구",
+        "languages": [
+          "eng"
+        ]
+      },
+      {
+        "id": "SMM_SEC-Howey-Test",
+        "title": "SEC 규제 테스트",
+        "languages": [
+          "eng"
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "Copyright © 2017 by SocialMedia.Market. All rights reserved."
+  },
+  "popup": {
+    "messages": {
+      "invalidEmail": "유효한 이메일 주소를 입력해주시기 바랍니다.",
+      "alreadySubscribed": "이미 등록 중입니다. 이메일을 확인해 주세요",
+      "fillInTheField": "빈칸을 작성해주시기 바랍니다.",
+      "success": "성공적으로 등록되었습니다.",
+      "choosePaymentMethod": "지불 방법을 선택해 주세요"
+    },
+    "subscribe": {
+      "title": "토큰 판매 참여 신청",
+      "description": "토큰 판매의 시작 시간을 알리는 알림 메시지를 받으시려면 아래에 이메일 주소를 입력해주세요",
+      "email": "이메일",
+      "name": "이름",
+      "receive": "판매 이벤트 시작일 푸시알림 받기",
+      "toCalendar": "당신의 구글 캘린더에 이벤트 추가하기",
+      "thankYou": {
+        "title": "감사합니다!",
+        "description": "SocialMedia.Market 뉴스와 퍼블릭 토큰 세일을 구독해 주셔서 감사합니다!",
+        "telegramChatDescription": "문의가 있다면, 텔래그램 채널에 남겨주시기 바랍니다:",
+        "joinTelegram": "Join telegram chat"
+      }
+    },
+    "presale": {
+      "title": "토큰 사전 판매 참여 신청",
+      "description": "Join Token Presale with special bonuses: <br/> • contribution less than 100 ETH +20% SMT <br/> • contribution more than 100 ETH +30% SMT",
+      "firstName": "이름",
+      "lastName": "성",
+      "email": "이메일",
+      "industry": "종사하는 산업",
+      "chooseField": "당신의 분야를 고르세요",
+      "chooseAmount": "Choose amount",
+      "industryOptions": [
+        "개인투자자",
+        "펀드 대표",
+        "브랜드",
+        "마케팅 에이전시",
+        "인플루언서"
+      ],
+      "amountOptions": [
+        "less than 25 000",
+        "25 000 - 50 000",
+        "50 000 - 100 000",
+        "100 000 - 300 000",
+        "300 000+"
+      ],
+      "paymentMethod": "결제 방식",
+      "estimated": "추정치(미화)",
+      "mandatory": "Mandatory fields",
+      "confirm": "Hereby I confirm that I'm not a citizen or resident of the United States of America or Singapore or acting on behalf of a resident of the United States of America or Singapore",
+      "receive": "판매 이벤트 시작일 푸시알림 받기",
+      "toCalendar": "당신의 구글 캘린더에 이벤트 추가하기",
+      "join": "Join white list",
+      "thankYou": {
+        "title": "감사합니다!",
+        "description": "Thank you for joining SocialMedia.Market token presale White List. <br/> We will send you all necessary details on your email.",
+        "telegramChatDescription": "문의가 있다면, 텔래그램 채널에 남겨주시기 바랍니다:",
+        "joinTelegram": "Join telegram chat"
+      }
+    }
+  },
+  "firstScreen": {
+    "heading": "당신의 영향력에서 수익을 올리세요.",
+    "subheading": "영향력 광고 시장",
+    "joinTokenSale": "토큰 세일에 참여",
+    "projectRatings": "프로젝트 점수",
+    "subscribe": "뉴스를 구독하세요",
+    "description": "우리의 커뮤니티",
+    "joinPresale": "프리세일에 참여",
+    "technicalPartner": "Technical partner",
+    "mediaPartner": "Media partner",
+    "joinBounty": "Join<br> bounty <span>campaign</span>",
+    "backers": "Backers",
+    "tokenSold": "Tokens sold during pre-ico",
+    "fundsRaised": "Funds raised",
+    "ourPartners": "Our partners",
+    "projectInfo": "Project info",
+    "referralProgram": "Referral program",
+    "bountyCampaign": "Bounty campaign",
+    "betaProduct": "Beta platform",
+    "USAResidentsCannotParticipate": "USA citizens and residents are not allowed to participate",
+    "softCapReached": "Soft cap reached"
+  },
+  "landing":{
+    "about": {
+      "first": {
+        "title": "소셜 미디어 블로거와 광고주를 연결하는 최초의 탈중앙화 시장",
+        "description": "영향을 미치는 주요 마케팅 문제 해결 SocialMedia.Market은 콘텐츠의 수익 창출, 커뮤니티 참여 및 구독자에 대한 노출을 위한 새로운 기회를 창조합니다. 블록 체인 기술과 소셜 미디어 토큰에 의해 추진되는 새로운 에코 시스템은 비즈니스와 영향력 간의 마케팅의 상호 작용을 단순화 합니다."
+      },
+      "second": {
+        "title": "영향력 마케팅은 브랜드를 위한 가장 효율적이고 전략적인 방법입니다",
+        "description": "조사에 따르면 소비자의 92%가 영향력 마케팅을 사용하여 광고를 게재하는 것을 신뢰하고 그 수가 많아지고 있습니다. 또한 유료 광고보다 비용 효율적이고 믿을 수 있는 브랜드의 추천으로 이어집니다. 이러한 이유로 영향력 마케팅은 아마도 가장 효과적이고 장기적인 마케팅 전략이 되었습니다."
+      },
+      "actions": {
+        "readShorter": "요약서 확인",
+        "checkWhitePaper": "백서 확인",
+        "joinCommunity": "커뮤니티 참여"
+      }
+    },
+    "videos": {
+      "sectionTitle": "우리에 대한 훌륭한 비디오를 확인해 보세요",
+      "videosList": [
+        {
+          "id": "projectReviews",
+          "title": "프로젝트 어드바이저",
+          "videos": [
+            {
+              "channelName": "Coin Bloq",
+              "date": "26.12.17",
+              "country": "-",
+              "video": "https://www.youtube.com/watch?v=l6zicPYDsK0&t=3693s",
+              "thumb": "https://img.youtube.com/vi/l6zicPYDsK0/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=l6zicPYDsK0&t=3693s",
+              "title": "Coin Bloq | ICO Review: Social Media.Market, Bee Token, X8, SocialX and other",
+              "desc": "From decentralized housing rentals on the blockchain to Ethereum-based lending platforms ICOs offer investors a high-octane strategy that has the potential to net them untold riches or mire them in loss and despair."
+            },
+            {
+              "channelName": "Crypto Camacho",
+              "date": "29.01.17",
+              "country": "United States",
+              "video": "https://www.youtube.com/watch?v=EWcd_X2esXw",
+              "thumb": "https://img.youtube.com/vi/EWcd_X2esXw/mqdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=EWcd_X2esXw",
+              "title": "Crypto Camacho | Influencers and Advertisers On The Blockchain - Match Made in Heaven?",
+              "desc": "Hi! I'm Dan and I run CryptoCamacho.com - I teach people how to profitably trade Cryptocurrency like Bitcoin, Ethereum, Litecoin, etc. We are in the early days of this train and those who get on will significantly profit. Join me on this crypto journey. I hope you enjoy the videos!"
+            },
+            {
+              "channelName": "RICH TV LIVE",
+              "date": "17.01.18",
+              "country": "Canada",
+              "video": "https://www.youtube.com/watch?v=MzPDHBCdmMg&feature=youtu.be",
+              "thumb": "https://img.youtube.com/vi/MzPDHBCdmMg/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=MzPDHBCdmMg&feature=youtu.be",
+              "title": "RICH TV LIVE | SocialMedia.Market ICO Review",
+              "desc": "Today i look at a social media platform that may improve the blockchain."
+            },
+            {
+              "channelName": "ICO Talk TV - interviews with ICO projects",
+              "date": "02.02.18",
+              "country": "United States",
+              "video": "https://www.youtube.com/watch?v=TiPbK4zO7uI&feature=youtu.be",
+              "thumb": "https://img.youtube.com/vi/TiPbK4zO7uI/sddefault.jpg",
+              "share": "https://www.youtube.com/watch?v=TiPbK4zO7uI&feature=youtu.be",
+              "title": "ICO Talk TV | \"SOCIALMEDIA.MARKET\" interview with Dmitry Shyshov",
+              "desc": "SocialMedia.Market will create a global marketplace for Advertisers and Influencers among every major social network, providing convenient and transparent tools for the interaction of any party involved. For maintaining commercial relationships between participants, SocialMedia.Market will use Blockchain technology to simplify integration, reduce fraud and costs for all market participants. Token value is going to be upheld not only by transaction means within platform services, but also supported with the ability to participate in the decentralized dispute solution system gaining additional earnings for token holders. Project: SOCIALMEDIA.MARKET"
+            },
+            {
+              "channelName": "The Cryptoniac",
+              "date": "07.11.17",
+              "country": "United States",
+              "video": "https://www.youtube.com/watch?v=HU1tWqSYCV0&t=6s",
+              "thumb": "https://img.youtube.com/vi/HU1tWqSYCV0/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=HU1tWqSYCV0&t=6s",
+              "title": "The Cryptoniac | Socialmedia.market ICO Review: A blockchain based Influencer Marketing Platform",
+              "desc": "Based on blockchain technology, SocialMedia.Market bring marketing activities between brands and social media bloggers to a whole new level of transparency, safety, and interaction."
+            },
+            {
+              "channelName": "Crypto Hype",
+              "date": "11.11.17",
+              "country": "United Kingdom",
+              "video": "https://www.youtube.com/watch?v=nyJHXR4A5qk",
+              "thumb": "https://img.youtube.com/vi/nyJHXR4A5qk/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=nyJHXR4A5qk",
+              "title": "Crypto Hype | The First Blockchain Based On Influencer Marketing?",
+              "desc": "Please watch this video to unlock my system I use for deciding which cryptocurrencies are the best investment today and which are worth selling?"
+            },
+            {
+              "channelName": "CryptoCoinShow",
+              "date": "03.11.17",
+              "country": "Canada",
+              "video": "https://www.youtube.com/watch?v=coM7oX_tBrg",
+              "thumb": "https://img.youtube.com/vi/coM7oX_tBrg/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=coM7oX_tBrg",
+              "title": "CryptoCoinShow | SocialMedia.Market Overview",
+              "desc": "The tech team leading socialmedia.market, including CEO and Founder Dmitry Shyshov, who has over 15 years experience in the tech and game industry, and founded R.Games which has sold over 10 million games in the past 3 years."
+            },
+            {
+              "channelName": "Investor Town Hall Show",
+              "date": "16.11.17",
+              "country": "United States",
+              "video": "https://www.youtube.com/watch?v=Dk4vglTGu-o",
+              "thumb": "https://img.youtube.com/vi/Dk4vglTGu-o/sddefault.jpg",
+              "share": "https://www.youtube.com/watch?v=Dk4vglTGu-o",
+              "title": "Investor Town Hall | First Blockchain Online Advertising Platform",
+              "desc": "SocialMedia.Market's Founder and CEO Dmitry Shyshov was on Investor Town Hall Show today talking about the company's ICO token sale project, the first blockchain-base online advertising platform that takes influencer marketing to the next level."
+            },
+            {
+              "channelName": "Сообщество Онлайн Инвесторов iTuber",
+              "date": "17.11.17",
+              "country": "Russia",
+              "video": "https://www.youtube.com/watch?v=tgqOYSzmR_0",
+              "thumb": "https://img.youtube.com/vi/tgqOYSzmR_0/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=tgqOYSzmR_0",
+              "title": "iTuber | ИНТЕРВЬЮ с ОСНОВАТЕЛЕМ ДМИТРИЙ ШИШОВ",
+              "desc": "Все подробности о проекте в интервью с Основателем и СЕО проекта Дмитрием Шишовым."
+            },
+            {
+              "channelName": "Pro3xplain",
+              "date": "30.01.18",
+              "country,": "Morocco",
+              "video": "https://www.youtube.com/watch?v=tOHZr_xdynQ",
+              "thumb": "https://img.youtube.com/vi/tOHZr_xdynQ/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=tOHZr_xdynQ",
+              "title": "Pro3xplain | شرح منصة SocialMedia Market للإستفادة ماديا من مواقع التواصل الإجتماعي و الإستثمار",
+              "desc": "موقع محترفو الشرح هو عبار عن مدونة جديدة في عالم الانترنات العربي عامة و التونسي خاصة تحتوي على العديد من الدروس التعليمية التقتية و المعلوماتية الى جانب العديد من الاخبار التي تهم الشباب العربي ."
+            },
+            {
+              "channelName": "Krypto Raport",
+              "date": "13.11.17",
+              "country": "Poland",
+              "video": "https://www.youtube.com/watch?v=4qE27tjDlfM",
+              "thumb": "https://img.youtube.com/vi/4qE27tjDlfM/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=4qE27tjDlfM",
+              "title": "Krypto Raport| Jak zarobić na reklamach?",
+              "desc": "SocialMedia.Market jest to decentralizowana platforma do tworzenia, wykonywania i analizowania kampanii reklamowych za pomocą mediów społecznościowych"
+            },
+            {
+              "channelName": "Investupscale Академия криптовалют",
+              "date": "01.11.17",
+              "country": "Russia",
+              "video": "https://www.youtube.com/watch?v=pG5Y5KdbmMQ&feature=em-share_video_user",
+              "thumb": "https://img.youtube.com/vi/pG5Y5KdbmMQ/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=pG5Y5KdbmMQ&feature=em-share_video_user",
+              "title": "Investupscale | Socialmedia.market ICO. Обзор проекта",
+              "desc": "Биткоин и криптовалюты завоевывают мир, не оставайтесь в стороне - начните инвестировать уже сейчас, станьте одними из первых на этом рынке."
+            },
+            {
+              "channelName": "Perfect Bitcoiner Monty",
+              "date": "02.11.17",
+              "country": "India",
+              "video": "https://www.youtube.com/watch?v=JW7ADM0CJKo&feature=youtu.be",
+              "thumb": "https://img.youtube.com/vi/JW7ADM0CJKo/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=JW7ADM0CJKo&feature=youtu.be",
+              "title": "Perfect Bitcoiner Monty | Social Media ICO Review",
+              "desc": "The first blockchain based influencer marketing platform. Join SocialMedia.Market Token Sale."
+            },
+            {
+              "channelName": "CryptoView - ICO Reviews & News",
+              "date": "10.11.17",
+              "country": "Russia",
+              "video": "https://www.youtube.com/watch?v=ssBqgQn4EHQ&feature=youtu.be",
+              "thumb": "https://img.youtube.com/vi/ssBqgQn4EHQ/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=ssBqgQn4EHQ&feature=youtu.be",
+              "title": "CryptoView | SOCIAL MEDIA MARKET - НОВЫЙ вид РЕКЛАМЫ на БЛОКЧЕЙНЕ!",
+              "desc": "Присоединяйтесь к продаже токенов на SocialMedia.Market!"
+            },
+            {
+              "channelName": "CRYPTODEALERS",
+              "date": "18.11.17",
+              "country": "Russia",
+              "video": "https://www.youtube.com/watch?v=iJnDe3EmmiY&feature=youtu.be",
+              "thumb": "https://img.youtube.com/vi/iJnDe3EmmiY/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=iJnDe3EmmiY&feature=youtu.be",
+              "title": "CRYPTODEALERS | Обзор платформы для блогеров и рекламодателей на блокчейне.",
+              "desc": "Рынок Маркетинга Влияния имеет ряд существенных проблем, связанных с непрозрачностью ценообразования, хаотичностью взаимодействия между участниками, посредничеством, а также мошенничеством. https://socialmedia.market - упростит взаимодействие между участниками рынка и уменьшит их затраты, а также значительно "
+            },
+            {
+              "channelName": "MiningMin",
+              "date": "02.11.17",
+              "country": "Russia",
+              "video": "https://www.youtube.com/watch?v=l6ZUeDOyNd4",
+              "thumb": "https://img.youtube.com/vi/l6ZUeDOyNd4/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=l6ZUeDOyNd4",
+              "title": "MiningMin | SocialMedia.Market обзор сервиса",
+              "desc": "SocialMedia.Market – первая децентрализованная экосистема для планирования, создания, запуска и анализа рекламных кампаний у лидеров мнений. Платформа создаст безопасные и прозрачные условия на рынке маркетинга влияния."
+            },
+            {
+              "channelName": "Копеечка в кошельке",
+              "date": "13.11.17",
+              "country": "Russia",
+              "video": "https://www.youtube.com/watch?v=Vhg1PeVk1y8",
+              "thumb": "https://img.youtube.com/vi/Vhg1PeVk1y8/sddefault.jpg",
+              "share": "https://www.youtube.com/watch?v=Vhg1PeVk1y8",
+              "title": "SocialMedia.Market Новое поколение рекламы. Умная экосистема.",
+              "desc": "Основанная на технологии блокчейн, платформа SocialMediamarket выведет маркетинговые отношения между брендами и лидерами мнений на новый уровень взаимодействия, обеспечивая прозрачность и безопасность."
+            },
+            {
+              "channelName": "Open4Profit",
+              "date": "08.12.17",
+              "country": "India",
+              "video": "https://www.youtube.com/watch?v=M4s22HYfB6s",
+              "thumb": "https://img.youtube.com/vi/M4s22HYfB6s/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=M4s22HYfB6s",
+              "title": "Open4Profit | MAKE MONEY ONLINE - MONETIZE YOUR INFLUENCE INFLUENCERS ADVERTISING MARKETPLACE",
+              "desc": "SocialMedia.Market is a decentralized ecosystem to discover, create, perform and analyze advertising campaigns with social media influencers. Join SocialMedia.Market Token Sale - https://goo.gl/Y4hEKm"
+            },
+            {
+              "channelName": "PRO BLOCKCHAIN",
+              "date": "02.11.17",
+              "country": "Russia",
+              "video": "https://www.youtube.com/watch?v=dG1lPuFDT6o&feature=youtu.be",
+              "thumb": "https://img.youtube.com/vi/dG1lPuFDT6o/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=dG1lPuFDT6o&feature=youtu.be",
+              "title": "PRO BLOCKCHAIN | СОЗДАЕМ НОВОЕ ПОКОЛЕНИЕ ОНЛАЙН РЕКЛАМЫ",
+              "desc": "Обзор SocialMedia.Market. Основанная на технологии блокчейн, платформа SocialMedia.market выведет маркетинговые отношения между брендами и лидерами мнений на новый уровень взаимодействия, обеспечивая прозрачность и безопасность."
+            },
+            {
+              "channelName": "420BitcoinsTV",
+              "date": "20.01.18",
+              "country": "Ukraine",
+              "video": "https://www.youtube.com/watch?v=rYkKSu5CUBs",
+              "thumb": "https://img.youtube.com/vi/rYkKSu5CUBs/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=rYkKSu5CUBs",
+              "title": "420BitcoinsTV | Маркетплейс для блогеров и рекламодателей",
+              "desc": "SocialMedia.Market – децентрализованная платформа, позволяющая создавать, запускать и анализировать рекламные кампании у блогеров. Работает на базе технологии блокчейна, что обеспечивает прозрачность и безопасность взаимоотношений блогеров и рекламодателей."
+            },
+            {
+              "channelName": "Sit On My Bits",
+              "date": "05.12.17",
+              "country": "-",
+              "video": "https://www.youtube.com/watch?v=ETRUEb6LnhI",
+              "thumb": "https://img.youtube.com/vi/ETRUEb6LnhI/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=ETRUEb6LnhI",
+              "title": "Sit On My Bits | What Is Going On With Bitcoin + Social Media Market New ICO",
+              "desc": "Welcome to Sit On My Bits and this is a review on an ICO called Social Media Market and also all the latest in the markets."
+            },
+            {
+              "channelName": "Михаил Каплунов",
+              "date": "29.01.18",
+              "country": "Russia",
+              "video": "https://www.youtube.com/watch?v=CeUIzLzrSOo",
+              "thumb": "https://img.youtube.com/vi/CeUIzLzrSOo/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=CeUIzLzrSOo",
+              "title": "Skychain, Dether и SocialMedia.Market / ICO АЛЬМАНАХ №15",
+              "desc": "Skychain, Dether и Socialmedia.market — в этом выпуске «ICO АЛЬМАНАХ», вы узнаете о том, чем занимаются эти компании, чтобы принять верное решение об инвестировании в ICO."
+            },
+            {
+              "channelName": "IT FIRM BD",
+              "date": "29.01.18",
+              "country": "Bangladesh",
+              "video": "https://www.youtube.com/watch?v=UDijziFcqC8",
+              "thumb": "https://img.youtube.com/vi/UDijziFcqC8/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=UDijziFcqC8",
+              "title": "IT FIRM BD | ICO-New Expert Rated Legitimate ICO!",
+              "desc": "SocialMedia.Market has a good potentiality like any other good rated ico by ICO bench and other ICO rated sites. I hope it is our next good decision about legitimate ICO. More Legitimate ICO: https://scorumcoins.com/en-us/affilia... More help: facebook:https://www.facebook.com/itfirmbd Google plus: https://plus.google.com/1111836980418... twitter:https://twitter.com/itfirmbd Thank you to watch my video and don't miss to subscribe my channel and don't forget to like my facebook page. Thanks to all again."
+            },
+            {
+              "channelName": "Crypto Max",
+              "date": "08.01.18",
+              "country": "Russia",
+              "video": "https://www.youtube.com/watch?v=5mxCxftWKgk",
+              "thumb": "https://img.youtube.com/vi/5mxCxftWKgk/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=5mxCxftWKgk",
+              "title": "Crypto Max | Social media market-биржа рекламы для блогеров|•|#ЧЕСТНЫЙОБЗОР ПРОЕКТА|•|",
+              "desc": "Сервис создаст безопасные и прозрачные условия для работы на рынке Маркетинга Влияния. Это откроет возможности для роста и развития миллионам начинающих блогеров, а также малому и среднему бизнесу по всему миру. Их платформа займет весомую долю рынка Маркетинга Влияния и онлайн рекламы в целом, благодаря высокой востребованности, удобству и постоянному развитию блокчейн технологий."
+            },
+            {
+              "channelName": "Крипто День",
+              "date": "24.01.18",
+              "country": "Russia",
+              "video": "https://www.youtube.com/watch?v=J17rMFbShjY",
+              "thumb": "https://img.youtube.com/vi/J17rMFbShjY/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=J17rMFbShjY",
+              "title": "Ревью  SocialMedia.Market от \"Крипто День\"",
+              "desc": ""
+            },
+            {
+              "channelName": "Đầu Tư 4.0",
+              "date": "29.01.18",
+              "country": "Vietnam",
+              "video": "https://www.youtube.com/watch?v=JIT54sbtSIc",
+              "thumb": "https://img.youtube.com/vi/JIT54sbtSIc/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=JIT54sbtSIc",
+              "title": "Review dự án Socialmedia market ico (SMT) - Đầu tư 4.0.",
+              "desc": "Chanel chia sẻ các thông tin về thị trường Cryptocurrency. Các cơ hội đầu tư đồng Coin tiềm năng được các chuyên gia hàng đầu kiểm duyệt."
+            }
+          ]
+        },
+        {
+          "id": "bloggers",
+          "title": "Bloggers about the project",
+          "videos": [
+            {
+              "channelName": "Brandon Kelly Crypto Trader",
+              "date": "05.12.17",
+              "country": "United States",
+              "video": "https://www.youtube.com/watch?v=iVoiR1Ar4hc",
+              "thumb": "https://img.youtube.com/vi/iVoiR1Ar4hc/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=iVoiR1Ar4hc",
+              "title": "Brandon Kelly | ICO Spotlight: Social Media Market (SMT)",
+              "desc": "Brandon Kelly is a cryptocurrency consultant and one of the industry's top crypto traders, who outpaced the market over 1000% in 2017 with his patent-pending method.  He specializes in digital technology, design thinking, fintech, and business innovation."
+            },
+            {
+              "channelName": "Donnyboy8",
+              "date": "25.01.18",
+              "country": "United States",
+              "video": "https://www.youtube.com/watch?v=o5t--KMpibM&feature=youtu.be",
+              "thumb": "https://img.youtube.com/vi/o5t--KMpibM/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=o5t--KMpibM&feature=youtu.be",
+              "title": "Donnyboy8 | SocialMedia Marketing ICO starting soon will change online advertising",
+              "desc": "Staying up to date with many new investment opportunities. Very interested in Bitcoin and the crypto currencies - I really think this will change the world and the future of how we use money and invest. Also continually growing my commercial cleaning company and learning any where I can."
+            },
+            {
+              "channelName": "Ronnie Sen",
+              "date": "31.01.18",
+              "country": "India",
+              "video": "https://www.youtube.com/watch?v=gbGI24QolHQ&feature=youtu.be",
+              "thumb": "https://img.youtube.com/vi/gbGI24QolHQ/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=gbGI24QolHQ&feature=youtu.be",
+              "title": "Ronnie Sen | SocialMedia.Market ICO Social MONETIZE YOUR INFLUENCE",
+              "desc": "Affiliate Marketer / Network Marketer / Crypto Currency Enthusiast. Let's Ride the Revolution To Success"
+            },
+            {
+              "channelName": "Bitcoin Criptomonedas",
+              "date": "01.02.18",
+              "country": "Spain",
+              "video": "https://www.youtube.com/watch?v=91Poh_ya83Y",
+              "thumb": "https://img.youtube.com/vi/91Poh_ya83Y/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=91Poh_ya83Y",
+              "title": "Bitcoin Criptomonedas | MONETICE SU INFLUENCIA con Socialmedia.market",
+              "desc": "Blockchain Based Influencer Marketing Platform entra en: https://goo.gl/8GHWqe y obten una bonificación del 3% en los tokens que compres."
+            },
+            {
+              "channelName": "BalkanTech",
+              "date": "03.11.17",
+              "country": "Serbia",
+              "video": "https://www.youtube.com/watch?v=URMPidtYx-g",
+              "thumb": "https://img.youtube.com/vi/URMPidtYx-g/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=URMPidtYx-g",
+              "title": "BalkanTech | Nova Platforma Za YouTube Zaradu",
+              "desc": ""
+            },
+            {
+              "channelName": "ЮТУБЕР",
+              "date": "15.11.17",
+              "country": "Russia",
+              "video": "https://www.youtube.com/watch?v=4EvOAckr1pA&feature=youtu.be&t=3m57s",
+              "thumb": "https://img.youtube.com/vi/4EvOAckr1pA/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=4EvOAckr1pA&feature=youtu.be&t=3m57s",
+              "title": "ЮТУБЕР | ДЕВОЧКА ИЗ \"ЛАЙК ТВ ШОУ\" ОБОГНАЛА PewDiePie ПО ПОДПИСЧИКАМ",
+              "desc": "Когда я сел писать сценарий к этому видео, на канале Алины “ЛайкТВ шоу” было уже 400 тысяч подписчиков. Кто-то радуется за внезапный успех ребенка, кто-то недоумевает, считает, что она не заслужила эту аудиторию. Груз ответственности на ее плечи только упал, поэтому время покажет, сможет ли она справиться. А пока, я же предлагаю проанализировать, какие фундаментальные изменения произошли за последние 7 дней у неё. Потому что я уверен, это была самая насыщенная на события неделя в ее жизни."
+            },
+            {
+              "channelName": "Дмитрий Гриценко. Криптовалюты",
+              "date": "22.01.18",
+              "country": "Russia",
+              "video": "https://www.youtube.com/watch?v=aajTmO0KtHQ",
+              "thumb": "https://img.youtube.com/vi/aajTmO0KtHQ/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=aajTmO0KtHQ",
+              "title": "Дмитрий Гриценко | ICO Social Media Market - площадка для взаимодействия блогеров и рекламодателей",
+              "desc": "Меня зовут Дмитрий Гриценко, и на этом канале я рассказываю про криптовалюты и другие виды заработка в интернете."
+            }
+          ]
+        },
+        {
+          "id": "platform",
+          "title": "How the Platform Works?",
+          "videos": [
+            {
+              "channelName": "SocialMedia.Market",
+              "date": "16.11.17",
+              "country": "Kiev",
+              "video": "https://www.youtube.com/watch?v=k5XUH_KQEUY",
+              "thumb": "https://img.youtube.com/vi/k5XUH_KQEUY/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=k5XUH_KQEUY",
+              "title": "SocialMedia.Market - Blockchain Based Influencer Marketing Platform",
+              "desc": "We are building SocialMedia.market – the first decentralized ecosystem to discover, create, perform and analyze advertising campaigns with"
+            },
+            {
+              "channelName": "SocialMedia.Market",
+              "date": "25.01.18",
+              "country": "Kiev",
+              "video": "https://www.youtube.com/watch?v=AfUlYnaQMRQ",
+              "thumb": "https://img.youtube.com/vi/AfUlYnaQMRQ/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=AfUlYnaQMRQ",
+              "title": "Q&A with Founder of Socialmedia.Market — Dmitry Shyshov",
+              "desc": "Our founder Dmitry Shyshov will be holding a Q&A-session with our users. During the stream Dmitry will tell about the main changes in the Social Media token economy, our referral program and will answer all your questions!"
+            },
+            {
+              "channelName": "SocialMedia.Market",
+              "date": "16.11.17",
+              "country": "Kiev",
+              "video": "https://www.youtube.com/watch?v=o0s14UyNcig",
+              "thumb": "https://img.youtube.com/vi/o0s14UyNcig/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=o0s14UyNcig",
+              "title": "Aleksandra Morozova about Influencer Marketing. SocialMedia.Market ICO",
+              "desc": "Learn about the project from Co-founder and CMO - Aleksandra Morozova."
+            },
+            {
+              "channelName": "SocialMedia.Market",
+              "date": "08.12.17",
+              "country": "Kiev",
+              "video": "https://www.youtube.com/watch?v=JUx6XMRUVwQ",
+              "thumb": "https://img.youtube.com/vi/JUx6XMRUVwQ/mqdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=JUx6XMRUVwQ",
+              "title": "Q&A session with SocialMedia.Market CEO - Dmitry Shyshov and BDM - Viktor Perekhod",
+              "desc": "Project news from founder and CEO - Dmitry Shyshov and business development manager - Viktor Perekhod"
+            },
+            {
+              "channelName": "SocialMedia.Market",
+              "date": "16.11.17",
+              "country": "Kiev",
+              "video": "https://www.youtube.com/watch?v=G4N-BDqYTX0",
+              "thumb": "https://img.youtube.com/vi/G4N-BDqYTX0/mqdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=G4N-BDqYTX0",
+              "title": "SocialMedia.Market - Первая децентрализованая площадка, объединяющая блогеров и рекламодателей",
+              "desc": "Мы создаем первую децентрализованую площадку, которая объединит социальные медиа, блогеров и рекламодателей."
+            },
+            {
+              "channelName": "SocialMedia.Market",
+              "date": "06.12.17",
+              "country": "Kiev",
+              "video": "https://www.youtube.com/watch?v=EvCSiTTR1Ds",
+              "thumb": "https://img.youtube.com/vi/EvCSiTTR1Ds/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=EvCSiTTR1Ds",
+              "title": "Александра Морозова про Маркетинг Влияния. SocialMedia.Market ICO",
+              "desc": "Узнайте подробности о проекте от ко-фаундера и директора по маркетингу проекта - Александры Морозовой!"
+            },
+            {
+              "channelName": "SocialMedia.Market",
+              "date": "08.12.17",
+              "country": "Kiev",
+              "video": "https://www.youtube.com/watch?v=b71Fh3Dol0w",
+              "thumb": "https://img.youtube.com/vi/b71Fh3Dol0w/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=b71Fh3Dol0w",
+              "title": "Вебинар с основателем проекта SocialMedia.Market - Дмитрием Шишовым",
+              "desc": "Вебинар с основателем - Дмитрием Шишовым, и менеджером по развитию бизнеса - Виктором Переходом. Узнайте подробности об экономике проекта и итогах presale Pre-ICO."
+            },
+            {
+              "channelName": "SocialMedia.Market",
+              "date": "28.12.17",
+              "country": "Kiev",
+              "video": "https://www.youtube.com/watch?v=fe72wwhr-2E",
+              "thumb": "https://img.youtube.com/vi/fe72wwhr-2E/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=fe72wwhr-2E",
+              "title": "Q&A-сессия с основателем и руководителем отдела разработки SocialMedia.Market",
+              "desc": "Заработай на влиянии вместе с SocialMedia.Market - https://goo.gl/BZHbvT Facebook: https://www.facebook.com/Socialmedia...."
+            },
+            {
+              "channelName": "SocialMedia.Market",
+              "date": "25.01.18",
+              "country": "Kiev",
+              "video": "https://www.youtube.com/watch?v=5qOB1MBYd14",
+              "thumb": "https://img.youtube.com/vi/5qOB1MBYd14/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=5qOB1MBYd14",
+              "title": "Q&A сессия с основателем Socialmedia.Market — Дмитрием Шишовым",
+              "desc": "Q&A сессия с основателем Socialmedia.Market Дмитрием Шишовым. Во время трансляции Дмитрий расскажет об основных изменениях в экономике Social Media токена, нашей реферальной программе и ответит на все ваши вопросы! Будем рады пообщаться!"
+            }
+          ]
+        },
+        {
+          "id": "tokens",
+          "title": "How to buy tokens?",
+          "videos": [
+            {
+              "channelName": "SocialMedia.Market",
+              "date": "06.12.17",
+              "country": "Kiev",
+              "video": "https://www.youtube.com/watch?v=dp5fiUwxScE",
+              "thumb": "https://img.youtube.com/vi/dp5fiUwxScE/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=dp5fiUwxScE",
+              "title": "How to create new Ethereum wallet on MyEtherWallet?",
+              "desc": "Everything you need to know on how to create ETH wallet. Simple and quick guide from our team."
+            },
+            {
+              "channelName": "SocialMedia.Market",
+              "date": "06.12.17",
+              "country": "Kiev",
+              "video": "https://www.youtube.com/watch?v=TZfSnlXZCGg",
+              "thumb": "https://img.youtube.com/vi/TZfSnlXZCGg/mqdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=TZfSnlXZCGg",
+              "title": "Как создать кошелек Ethereum на MyeEtherWallet? SocialMedia.Market",
+              "desc": "Все что нужно знать о том как создать кошелек MyeEtherWallet. Простой гайд от нашей команды."
+            }
+          ]
+        }
+      ],
+      "share": "Share video",
+      "cardTitle": "The first blockchain based on influancer marketing?"
+    },
+    "partners": {
+      "sectionTitle": "우리의 파트너",
+      "partnersList": [
+        {
+          "alt": "Civic",
+          "img": "./assets/img/landing/partner/civic.jpg"
+        },
+        {
+          "alt": "Crypterium",
+          "img": "./assets/img/landing/partner/crypterium.jpg"
+        },
+        {
+          "alt": "Icobox",
+          "img": "./assets/img/landing/partner/icobox.jpg"
+        },
+        {
+          "alt": "Imh",
+          "img": "./assets/img/landing/partner/imh.jpg"
+        },
+        {
+          "alt": "Stox",
+          "img": "./assets/img/landing/partner/stox.jpg"
+        }
+      ]
+    },
+    "benefits": {
+      "sectionTitle": "<strong><span class=\"market\">socialmedia.market의 장점</span></strong>",
+      "benefitsList": [
+        {
+          "background": "./assets/img/landing/benefits/benefit1.png",
+          "image": "./assets/img/landing/benefits/benefit1-bg.png",
+          "title": "사기 방지"
+        },
+        {
+          "background": "./assets/img/landing/benefits/benefit2.png",
+          "image": "./assets/img/landing/benefits/benefit2-bg.png",
+          "title": "운영 비용 감소"
+        },
+        {
+          "background": "./assets/img/landing/benefits/benefit3.png",
+          "image": "./assets/img/landing/benefits/benefit3-bg.png",
+          "title": "빠르고 안전한 트랜잭션"
+        },
+        {
+          "background": "./assets/img/landing/benefits/benefit4.png",
+          "image": "./assets/img/landing/benefits/benefit4-bg.png",
+          "title": "탈중앙화 혁신 솔루션"
+        },
+        {
+          "background": "./assets/img/landing/benefits/benefit5.png",
+          "image": "./assets/img/landing/benefits/benefit5-bg.png",
+          "title": "쉬운 글로벌 결제"
+        },
+        {
+          "background": "./assets/img/landing/benefits/benefit6.png",
+          "image": "./assets/img/landing/benefits/benefit6-bg.png",
+          "title": "쉬운 참여"
+        }
+      ],
+      "joinTokenSale": "토큰 세일 참여"
+    },
+    "experts": {
+      "sectionTitle": "Socialmedia.market에 관한 전문가",
+      "expertsList": [
+        {
+          "avatar": "./assets/img/landing/experts/chafik.png",
+          "name": "Chafik Abdellaoui",
+          "status": "기업가, ACBMC, Bizzant, XEDYAS IT HYBRID SOLUTIONS의 창업자",
+          "company": "./assets/img/landing/experts/g2a.jpg",
+          "description": "이스포츠는 블로그와 스트리머에 크게 의존하고 있기 때문에 영향력 마케팅이 업계의 전환 포인트가 되리라고 나는 믿습니다. SocialMedia.Market는 기회를 창조하고, 누구도 이를 무시 할 수 없습니다."
+        },
+        {
+          "avatar": "./assets/img/landing/experts/david.png",
+          "name": "David Meerman Scott",
+          "status": "베스트셀러인 The New Rules of Marketing and PR의 저자",
+          "company": "",
+          "description": "블록체인 기술은 사회적 영향력들과 협력하는 브랜드에 마지막으로 투명성을 가져올 것을 약속하고 있습니다."
+        },
+        {
+          "avatar": "./assets/img/landing/experts/werner.png",
+          "name": "Werner Geyser",
+          "status": "Influencer Marketing Hub의 설립자",
+          "company": "./assets/img/landing/experts/imh.jpg",
+          "description": "영향력있는 마케팅은 브랜드가 다양한 사용자에게 메시지를 전하는 큰 기회를 제공합니다. SocialMeida.Market은 블록 체인 기술의 도움으로 이 떠오르는 시장에 규격을 제공하고 관련된 모든 사람에게 투명성과 보안을 보장합니다."
+        },
+        {
+          "avatar": "./assets/img/landing/experts/peter.png",
+          "name": "Peter Zhalov",
+          "status": "Wargaming.net의 전 마케팅 & 광고 부서 부회장",
+          "company": "./assets/img/landing/experts/wargaming.jpg",
+          "description": "오늘날의 소비자는 애드블록을 사용하여 기존의 디지털 광고를 무시하고 있습니다. 영향력과 이스포츠 마케팅 업계에는 밀레니얼과 새로운 시대 사용자에게 접근하기 위한 더 효과적인 방법이 있습니다. 우리가 필요로하는 것은 영향력 마케팅을 위한 투명한 시장을 창조하는 것입니다."
+        },
+        {
+          "avatar": "./assets/img/landing/experts/alex.png",
+          "name": "Alex Yastremski",
+          "status": "Bitfury Group Ltd의 일반 어드바이저",
+          "company": "./assets/img/landing/experts/bitfury.jpg",
+          "description": "이 프로젝트는 시장 참가자의 가치를 높이고, 마케터의 매출을 극대화 할 수 있는 야심 찬 목표로 저를 감동 시켰습니다. 팀의 전문성과 함께 이 프로젝트는 디지털 광고의 성공과 효과적인 올인원 솔루션이 될 수 있습니다."
+        },
+        {
+          "avatar": "./assets/img/landing/experts/slavik.png",
+          "name": "Slavik Nenaydokh",
+          "status": "Centuria Natural Foods의 COO",
+          "company": "",
+          "description": "SocialMedia.Market은 소셜 마케팅의 변화를 만들기 위한 노하우를 현명하게 활용하고 있습니다. 나는 SocialMedia.Market 팀의 비전에 참여하는 것을 바라고 있습니다. 나는 기업의 성숙 단계를 따라 걸어 나갈 것을 기대하고 있습니다."
+        }
+      ]
+    },
+    "ourTeam": {
+      "sectionTitle": "우리의 팀",
+      "sectionDesc": "현재 31명의 회원들이 프로젝트에 참여하고 있으며, 마케팅 전문가, 블록 체인 엔지니어, 개발팀을 늘리고 있습니다. 향후 4 개월 동안 SocialMedia.Market 팀을 70 명 늘릴 예정입니다.",
+      "fullTeam": "전체 팀원",
+      "hideFullTeam": "Hide 전체 팀원",
+      "teamList": [
+        {
+          "id": "dmitryShishov",
+          "linkedIn": "https://www.linkedin.com/in/dmitryshyshov/",
+          "avatar": "./assets/img/landing/team/team1.png",
+          "name": "Dmitry<br>Shyshov",
+          "jobTitle": "설립자, CEO",
+          "description": "기업가, CEO, 이스포츠 업계에서 성공한 두 가지 제품의 설립자. SocialMedia.Market의 비전을 제공. 2012년 Bitcoin을 처음 샀습니다."
+        },
+        {
+          "id": "alexandraMorozova",
+          "linkedIn": "https://www.linkedin.com/in/aleksandramorozova/",
+          "avatar": "./assets/img/landing/team/team2.png",
+          "name": "Aleksandra<br>Morozova",
+          "jobTitle": "Co-founder, CMO",
+          "description": "비즈니스와 제품의 창조적인 솔루션을 항상 찾고 있습니다. SocialMedia.Market의 마음과 영혼."
+        },
+        {
+          "id": "maksymChurkin",
+          "linkedIn": "https://www.linkedin.com/in/maksym-churkin/",
+          "avatar": "./assets/img/landing/team/team3.png",
+          "name": "Maksym<br>Churkin",
+          "jobTitle": "Tech Lead",
+          "description": "8 년 이상의 개발 경험을 가진 숙련 된 전문가. 최상의 결과를 얻기 위한 모범 사례와 최상의 프레임 워크를 항상 선택합니다."
+        },
+        {
+          "id": "viktorPerehod",
+          "linkedIn": "https://www.linkedin.com/in/viktor-perekhod-100103b1/",
+          "avatar": "./assets/img/landing/team/team4.png",
+          "name": "Viktor<br>Perekhod",
+          "jobTitle": "BDM",
+          "description": "전략 프로젝트의 성장을 위해 노력하고 있습니다. SocialMedia.Market을 전진시키는 사람."
+        },
+        {
+          "id": "yehorShyshov",
+          "linkedIn": "https://www.linkedin.com/in/yehorshyshov/",
+          "avatar": "./assets/img/landing/team/team5.png",
+          "name": "Yehor<br>Shyshov",
+          "jobTitle": "BDM",
+          "description": "컴퓨터 게임과 이스포츠 업계에서 일해온 경험 많은 사업 개발 매니저"
+        },
+        {
+          "id": "evgeniyIvasko",
+          "linkedIn": "https://www.linkedin.com/in/evgeniy-ivashko-54680736/",
+          "avatar": "./assets/img/landing/team/team6.png",
+          "name": "Evgeniy<br>Ivashko",
+          "jobTitle": "Senior Software Engineer",
+          "description": "우리가 자랑스럽게 공유 할 수 있는 해결책을 만들어내는 코드의 달인."
+        },
+        {
+          "id": "dimaMedvedchuk",
+          "linkedIn": "https://www.linkedin.com/in/dima-medvedchuk-10726b124/",
+          "avatar": "./assets/img/landing/team/team7.png",
+          "name": "Dima<br>Medvedchuk",
+          "jobTitle": "Software Engineer",
+          "description": "SocialMedia.Market 플랫폼을 만든 열성적인 개발자"
+        },
+        {
+          "id": "alexanderGrechanyk",
+          "linkedIn": "https://www.linkedin.com/in/alexander-grechanyk-6bab98121/",
+          "avatar": "./assets/img/landing/team/team8.png",
+          "name": "Alexander<br>Grechanyk",
+          "jobTitle": "Art Director",
+          "description": "창의적인 문제 해결, 뛰어난 디자인을 이끄는 경험 많은 아이디어"
+        },
+        {
+          "id": "maxShevchenko",
+          "linkedIn": "https://www.linkedin.com/in/max-shevchenko-5176a562/",
+          "avatar": "./assets/img/landing/team/team9.png",
+          "name": "Max<br>Shevchenko",
+          "jobTitle": "UI/UX Designer",
+          "description": "직관적이고 사용하기 쉬운 SocialMedia.Market을 만든 사람"
+        },
+        {
+          "id": "takaSuphler",
+          "linkedIn": "https://www.linkedin.com/in/suphler/",
+          "avatar": "./assets/img/landing/team/team10.png",
+          "name": "Taka<br>Suphler",
+          "jobTitle": "Senior Frontend Engineer",
+          "description": "플랫폼을 만드는 방법"
+        },
+        {
+          "id": "nikolayKravchenko",
+          "linkedIn": "https://www.linkedin.com/in/nick-kravchenko/",
+          "avatar": "./assets/img/landing/team/team11.png",
+          "name": "Nikolay<br>Kravchenko",
+          "jobTitle": "Frontend Engineer",
+          "description": "멋지고 생생한 디자인을 제작"
+        },
+        {
+          "id": "yanBondarenko",
+          "linkedIn": "https://www.linkedin.com/in/yan-bondarenko-31096016/",
+          "avatar": "./assets/img/landing/team/team12.png",
+          "name": "Yan<br>Bondarenko",
+          "jobTitle": "Automation Engineer",
+          "description": "플랫폼의 모든 프로세스를 자동화하는 사람"
+        },
+        {
+          "id": "nikitaMedvedev",
+          "linkedIn": "https://www.linkedin.com/in/nikita-medvedev-sjfenix/",
+          "avatar": "./assets/img/landing/team/team13.png",
+          "name": "Nikita<br>Medvedev",
+          "jobTitle": "Head of SEO",
+          "description": "경험이 풍부한 검색 엔진 최적화의 책임자는 정보 기술 및 서비스 업계에서 일해온 실적을 가지고 있습니다"
+        },
+        {
+          "id": "alexeyIgnatov",
+          "linkedIn": "https://www.linkedin.com/in/alexey-ignatov-bb053271/",
+          "avatar": "./assets/img/landing/team/team14.png",
+          "name": "Alexey<br>Ignatov",
+          "jobTitle": "Marketing Lead",
+          "description": "마케팅의 왕이자 광고 천재. Alexey는 당신이 시도 할 모든 것이 전무 가능하다고 생각합니다"
+        },
+        {
+          "id": "maksymKrupets",
+          "linkedIn": "https://www.linkedin.com/in/maksym-krupets-7a2b12102/",
+          "avatar": "./assets/img/landing/team/team15.png",
+          "name": "Maksym<br>Krupets",
+          "jobTitle": "Head of PPC",
+          "description": "SocialMedia.Market로 트래픽을 촉진합니다. 우리의 광고를 본 적이 있나요?"
+        },
+        {
+          "id": "yevhenPylypenko",
+          "linkedIn": "https://www.linkedin.com/in/yevhen-pylypenko-33198b116/",
+          "avatar": "./assets/img/landing/team/team16.png",
+          "name": "Yevhen<br>Pylypenko",
+          "jobTitle": "Media Buyer",
+          "description": "SocialMedia.Market을 웹에서 보여주는 사람."
+        },
+        {
+          "id": "zlataTkachenko",
+          "linkedIn": "https://www.linkedin.com/in/zlata-tkachenko-497412152/",
+          "avatar": "./assets/img/landing/team/team17.png",
+          "name": "Zlata<br>Tkachenko",
+          "jobTitle": "고객 지원 전문가",
+          "description": "문제나 문의가 있나요? Zlata에게 문의하세요"
+        },
+        {
+          "id": "alexanderGorbach",
+          "linkedIn": "https://www.linkedin.com/in/alexandr-gorbach-97580014b/",
+          "avatar": "./assets/img/landing/team/team18.png",
+          "name": "Alexandr<br>Gorbach",
+          "jobTitle": "고객 지원 전문가",
+          "description": "모든 문제를 지원할 수 있는 경험 많은 고객 지원 전문가"
+        },
+        {
+          "id": "olegOliynik",
+          "linkedIn": "https://www.linkedin.com/in/oleg-oliynyk-77381114b/",
+          "avatar": "./assets/img/landing/team/team19.png",
+          "name": "Oleg<br>Oliynyk",
+          "jobTitle": "고객 지원 전문가",
+          "description": "Oleg는 SocialMedia.Market에 대한 모든 것을 알고 있으며 항상 모든 질문에 대답 할 수 있습니다"
+        },
+        {
+          "id": "ivanBabiuk",
+          "linkedIn": "https://www.linkedin.com/in/ivan-babiuk-06a429152/",
+          "avatar": "./assets/img/landing/team/team20.png",
+          "name": "Ivan<br>Babiuk",
+          "jobTitle": "Junior Media Buyer",
+          "description": "밝은 미래를 약속하는 주니어 미디어 구매 전문가."
+        },
+        {
+          "id": "nikNovik",
+          "linkedIn": "https://www.linkedin.com/in/nik-novik-ab2139149/",
+          "avatar": "./assets/img/landing/team/team21.png",
+          "name": "Nik<br>Novik",
+          "jobTitle": "Senior Media Buyer",
+          "description": "그의 소매 속에 많은 트릭을 가진 미디어 구매 제다이"
+        },
+        {
+          "id": "tatianaSapa",
+          "linkedIn": "https://www.linkedin.com/in/tatiana-sapa-848530146/",
+          "avatar": "./assets/img/landing/team/team22.png",
+          "name": "Tatiana<br>Sapa",
+          "jobTitle": "SEO Expert",
+          "description": "검색 엔진 최적화의 마법사"
+        },
+        {
+          "id": "viktorAndes",
+          "linkedIn": "https://www.linkedin.com/in/andesviktor/",
+          "avatar": "./assets/img/landing/team/team23.png",
+          "name": "Viktor<br>Andes",
+          "jobTitle": "Marketing Expert",
+          "description": "마케팅의 왕, 광고의 천재"
+        },
+        {
+          "id": "yehorSklyarov",
+          "linkedIn": "https://www.linkedin.com/in/esklyarov/",
+          "avatar": "./assets/img/landing/team/team24.png",
+          "name": "Yehor<br>Sklyarov",
+          "jobTitle": "Content Writer",
+          "description": "SocialMedia.Market 대해 읽은 적이 있습니까? Yehor이 작성한 것입니다."
+        },
+        {
+          "id": "maksimKovalenko",
+          "linkedIn": "https://www.linkedin.com/in/maksim-kovalenko-509350148/",
+          "avatar": "./assets/img/landing/team/team25.png",
+          "name": "Maksim<br>Kovalenko",
+          "jobTitle": "Back End Developer",
+          "description": "무대 뒤에서 SocialMedia.Market을 동작시켜, 모든 데이터가 확실히 전달되도록 합니다."
+        },
+        {
+          "id": "yuriiKovalenko",
+          "linkedIn": "https://www.linkedin.com/in/yurii-kovalenko-4a581614b/",
+          "avatar": "./assets/img/landing/team/team26.png",
+          "name": "Yurii<br>Kovalenko",
+          "jobTitle": "Quality Assurance Engineer",
+          "description": "버그를 잡고 모든 것을 원활하게 만듬"
+        },
+        {
+          "id": "alexKobizhskyj",
+          "linkedIn": "",
+          "avatar": "./assets/img/landing/team/team27.png",
+          "name": "Alex<br>Kobizhskyj",
+          "jobTitle": "Customer Support Specialist",
+          "description": "SocialMedia.Market에 대한 지식을 공유하는 것은 항상 행복합니다. 주저하지 않습니다."
+        },
+        {
+          "id": "oksanaPodkamennay",
+          "linkedIn": "",
+          "avatar": "./assets/img/landing/team/team28.png",
+          "name": "Oksana<br>Podkamennay",
+          "jobTitle": "Financial officer",
+          "description": "SocialMedia.Market 팀의 무한한 아이디어를 위한 예산을 계산하는 사람"
+        },
+        {
+          "id": "dmitriyKuzmin",
+          "linkedIn": "https://www.linkedin.com/in/dmitriy-kuzmin-94b593157/",
+          "avatar": "./assets/img/landing/team/team29.png",
+          "name": "Dmitriy<br>Kuzmin",
+          "jobTitle": "Customer Support Specialist",
+          "description": "채굴자이자 항상 준비되어 있는 지원 매니저"
+        },
+        {
+          "id": "romanBuriy",
+          "linkedIn": "https://www.linkedin.com/in/roman-buriy-6360a0157/",
+          "avatar": "./assets/img/landing/team/team30.png",
+          "name": "Roman<br>Buriy",
+          "jobTitle": "Customer Support Specialist",
+          "description": "우수한 고객 경험을 얻고 있는지 확인"
+        },
+        {
+          "id": "bogdanMoroz",
+          "linkedIn": "https://www.linkedin.com/in/ba-mz/",
+          "avatar": "./assets/img/landing/team/team31.png",
+          "name": "Bogdan<br>Moroz",
+          "jobTitle": "Python developer",
+          "description": "달변가. 파이썬 언어로 깨끗한 코드를 만듭니다"
+        }
+      ]
+    },
+    "ourAdvisors": {
+      "sectionTitle": "우리의 어드바이저",
+      "advisorsList": [
+        {
+          "id": "keithTeare",
+          "name": "Keith Teare",
+          "photo": "./assets/img/advisors/keith-teare.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "http://linkedin.com/in/kteare/"
+            }
+          ],
+          "position": "영국 벤처 Accelerated Digital Ventures의 최고 의장",
+          "description": "Keith Teare는 최근 ICOBox (4000 BTC)와 Crypterium (5 천만 달러)의 성공적인 ICO에 대해 조언했습니다. 이전에는 TechCrunch의 설립자이자 유럽 최초의 인터넷 서비스 공급자이기도 했습니다 (EasyNet). EasyNet과 RealNames 모두 1990 년대 후반에 Unicorn의 지위를 획득했습니다.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/teare.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "andrewPlayford",
+          "name": "Andrew Playford",
+          "photo": "./assets/img/advisors/andrew-playford.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/andrewplayford/"
+            }
+          ],
+          "position": "Sonic Foundry, Inc의 운영부서 부회장",
+          "description": "Sonic Foundry 전에, 디지털 마케팅 및 웹 개발 회사를 인수 합병한 나스닥에 상장되어있는 Think New Ideas의 사업을 운영하고 있었습니다. Think New Ideas는 250 만 달러 이상에 인수되었습니다.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/sonic.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "tatsunariOno",
+          "name": "Tatsunari Ono",
+          "photo": "./assets/img/advisors/tatsunari-ono.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-facebook",
+              "link": "https://www.facebook.com/tatsunari.ono.1?ref=br_rs/"
+            }
+          ],
+          "position": "Value Brain Co., Ltd. (일본)의 CEO <br/> Beducate.ltd (홍콩)의 CEO",
+          "description": "\"Worries Make Money\" Kadokawa Foresta의 저자. 2017년 12월에, Tatsunari Ono는 Jay Abraham, James Skinner, Anthony Mink 같은 유명한 강연자와 같은 무대에서 암호화폐 세미나에 대해 2500 명의 손님에게 연설을 했습니다.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/ono.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "gabrielZanko",
+          "name": "Gabriel Zanko",
+          "photo": "./assets/img/advisors/gabriel-zanko.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://co.linkedin.com/in/gabrielzanko/"
+            }
+          ],
+          "position": "Fintech entrepreneur-Advisor. Founder of MobileyourLife and involved in the AI-Fintech space providing solutions in the B2B space.",
+          "description": "ICO advisory in Fundraising Capital and International Business Development.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/zanko.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "dariaGeneralova",
+          "name": "Daria Generalova",
+          "photo": "./assets/img/advisors/daria-generalova.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/daria-generalova-842a3a85/"
+            }
+          ],
+          "position": "Co-Founder, ICOBox",
+          "description": "Marketing, PR & communications specialist with 10+ years of experience. Having joined blockchain industry nearly two years ago, worked as a consultant to Argon Group and helped launch ICO platform Cryptonomos.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/daria.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "chafikAbdellaoui",
+          "name": "Chafik Abdellaoui",
+          "photo": "./assets/img/advisors/chafik-abdellaoui.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/chafikabdellaouiacbmc/"
+            }
+          ],
+          "position": "기업가, ACBMC, Bizzant, XEDYAS IT HYBRID SOLUTIONS의 창업자",
+          "description": "G2A의 폭발적인 성장의 배후에 있는 인물, Mobile Go ICO의 성공의 기여자. Chafic은 전자 상거래, 게임, 전자 결제에 관한 풍부한 경험을 가진 숙련 된 사업 개발 전문가입니다.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/chafic.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "peterZhalov",
+          "name": "Peter Zhalov",
+          "photo": "./assets/img/advisors/peter-zhalov.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/peter-zhalov-35149225/"
+            }
+          ],
+          "position": "Wargaming.net의 마케팅 & 광고 부서 전 부회장, 이스포츠와 블록체인에 열광",
+          "description": "",
+          "logos": [
+            {
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/jalov.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "dimaZaitsev",
+          "name": "Dima Zaitsev, PhD",
+          "photo": "./assets/img/advisors/dima-zaitsev.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/dima-zaitsev/"
+            }
+          ],
+          "position": "ICOBox의 국제 PR & 사업 분석 부서의 임원",
+          "description": "2017, Dima는 블록 체인 및 암호화폐에 참여, 제한된 범위의 시장 조사를 시작했습니다. FXStreet.com, CoinSpeaker.com 등 일부 미국 언론에 자신의 칼럼을 게재하고 있습니다.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/dima.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "alexYastremski",
+          "name": "Alex Yastremski",
+          "photo": "./assets/img/advisors/alex-yastremski.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/alex-yastremski-b1889514/"
+            }
+          ],
+          "position": "캘리포니아 샌프란시스코의 법률 고문 <br/> 블록 체인 규제 / 컴플라이언스 전문가",
+          "description": "Bitfury Group Ltd의 법률 고문 <br/> 핀테크 변호사 Bingham McCutchen LLP",
+          "logos": [
+            {
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/bitfury.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "slavikNenaydokh",
+          "name": "Slavik Nenaydokh",
+          "photo": "./assets/img/advisors/slavik-nenaydokh.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/slavik-nenaydokh-7785492/"
+            }
+          ],
+          "position": "COO, Centuria Natural Foods San Francisco, CA",
+          "description": "Centuria Natural Foods 샌프란시스코의 COO, M&A Emerging Market, Exigen Capital Principal, Delphi Software International의 대표",
+          "logos": [
+            {
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/slavik.jpg"
+            }
+          ],
+          "video": ""
+        }
+      ]
+    },
+    "howItWorks": {
+      "sectionTitle": "어떻게 동작하는가?",
+      "sectionDescription": "SocialMedia.Market은 모든 주요 소셜 네트워크 사이에서 광고주와 영향력을 위한 글로벌 시장을 만들고 관계자의 교류를 위한 편리하고 투명한 도구를 제공합니다. 참가자 간의 거래 관계를 유지하기 위해 SocialMedia.Market은 블록 체인 기술을 사용하여 통합을 간소화하고 모든 시장 참가자의 부정과 비용을 줄일 수 있습니다.",
+      "descriptionLeft": "콘텐츠 수익화, 모든 종류의 영향력 마케팅에 대한 낮은 장벽",
+      "descriptionRight": "전세계 광고주에 무제한 액세스 할 수 있습니다",
+      "tryOurPlatform": "우리의 플랫폼을 사용해 보세요"
+    },
+    "tokenFunctionality": {
+      "sectionTitle": "토큰 기능",
+      "sectionDescription": "SocialMedia.Market의 핵심 기능은 소셜 미디어 토큰 (SMT) 유틸리티 토큰에 의해 유지됩니다. 각 플랫폼의 활동은 거래를 보장하기 위해 SMT를 필요로 합니다."
+    },
+    "roadmap": {
+      "sectionTitle": "로드맵",
+      "sectionDescription": "SocialMedia.Market 로드맵은 기술, 운용 인프라, 새로운 파트너십 마케팅 이니셔티브의 개발에 중점을 두고 있습니다.",
+      "points": [
+        {
+          "title": "2015년 부터",
+          "color": "#513d78",
+          "description": "영향력 마케팅으로 자신의 프로젝트에 대응"
+        },
+        {
+          "title": "2016년 초",
+          "color": "#513d78",
+          "description": "디지털 마케팅 에이전시 설립"
+        },
+        {
+          "title": "2017년 2분기",
+          "color": "#0f7cbd",
+          "description": "SocialMedia.Market 컨셉 제작"
+        },
+        {
+          "title": "2017년 12월 7일",
+          "color": "#f23db0",
+          "description": "토큰 세일 단계 1"
+        },
+        {
+          "title": "2018년 2월",
+          "color": "#138796",
+          "description": "SocialMedia.Market 베타 런칭"
+        },
+        {
+          "title": "2018년 2월 9일",
+          "color": "#f23db0",
+          "description": "토큰 세일 단계 2"
+        },
+        {
+          "title": "2018년 3분기",
+          "color": "#0fcd9c",
+          "description": "미국, 영국, CIS 시장을 위한 플랫폼 릴리즈 <br/> 1,000 만 달러의 마케팅 예산으로 브랜드와 에이전시 참여"
+        },
+        {
+          "title": "2019년 1-2분기",
+          "color": "#0fd694",
+          "description": "활발한 브랜드 홍보 단계 <br/> 국제적 런칭"
+        },
+        {
+          "title": "2020년 1분기",
+          "color": "#15d78e",
+          "description": "6,370만 달러의 마케팅 예산으로 브랜드와 에이전시 참여"
+        }
+      ]
+    },
+    "useOfFunds": {
+      "sectionTitle": "모금액의 사용처",
+      "sectionDescription": "플랫폼을 통해 조달 된 자금은 모든 참가자가 사용할 수 있는 모든 SocialMedia.Market 플랫폼 기능에 할당되고, 광고주와 블로거를위한 새로운 도구에 익숙해지도록 프로세스를 단순화 합니다."
+    },
+    "tokenDistribution": {
+      "sectionTitle": "토큰 분배",
+      "sectionDescription": "Social Media 토큰 (SMT)은 ERC20 호환 토큰으로 발행됩니다. 토큰의 총 발행량에 따라 15%가 플랫폼의 코어 기능과 팀에 할당되고, 파트너 및 어드바이저에게 5%가 할당되어 6개월의 권리 확정 기간을 가집니다. 이 모든 것이 총 SMT 발행량을 이룹니다."
+    },
+    "tokenSale": {
+      "sectionTitle": "Token sale <small>Phase 2</small>",
+      "startDate": "시작 일자:",
+      "startDateValue": "2018년 2월 9일 12:00 PM GMT (1:00 pm CET)",
+      "endDate": "종료 일자:",
+      "endDateValue": "2018년 3월 16일 12:00 PM GMT (1:00 pm CET)",
+      "presale": "프리세일:",
+      "presaleValue": "2018년 2월 2일-9일 12:00 PM GMT (1:00 pm CET)",
+      "minimalGoal": "최소 목표:",
+      "minimalGoalValue": "REACHED DURING PRE-ICO",
+      "phaseHardCap": "단계별 하드캡:",
+      "phaseHardCapValue": "16 000 ETH",
+      "tokenExchangeRate": "토큰 가격:",
+      "tokenExchangeRateValue": "1 ETH = 2500 SMTs",
+      "minimumContributionAmount": "최소 참가 금액:",
+      "minimumContributionAmountValue": "0,1 ETH / 250 SMTs",
+      "maximumContributionAmount": "최대 참가 금액:",
+      "maximumContributionAmountValue": "300 ETH",
+      "contributionMethods": "참가 방법",
+      "contributionMethodsValue": "ETH, BTC, XRP, BCH, DASH, DOGE, ETC, NEO, XMR, ZEC",
+      "footer": {
+        "title": "Social Media 토큰의 5% 획득",
+        "subtitle": "당신의 추천 링크로 결제가 될 때마다",
+        "joinReferralProgram": "추천 프로그램 참가",
+        "learnMore": "더 알아보세요"
+      }
+    },
+    "media": {
+      "sectionTitle": "socialmedia.market에 대한 미디어 기사",
+      "moreMedia": "더 많은 미디어 기사",
+      "lessMedia": "적은 미디어 기사",
+      "mediaList": [
+        {
+          "id": "influencermarketinghub",
+          "img": "./assets/img/posts/influencermarketinghub.png",
+          "link": "https://influencermarketinghub.com/influencer-marketing-evolves-via-cryptocurrency/"
+        },
+        {
+          "id": "bitcoin",
+          "img": "./assets/img/posts/bitcoin.png",
+          "link": "https://news.bitcoin.com/pr-meet-the-new-generation-of-online-advertising-with-socialmedia-market/"
+        },
+        {
+          "id": "Nasdaq_logo",
+          "img": "./assets/img/posts/Nasdaq_logo.png",
+          "link": "http://www.nasdaq.com/article/how-blockchains-can-influence-the-influencers-cm880899"
+        },
+        {
+          "id": "news-BTC",
+          "img": "./assets/img/posts/news-BTC.png",
+          "link": "http://www.newsbtc.com/2017/10/27/blockchain-permeates-social-media-influencers-advertising-market/"
+        },
+        {
+          "id": "token-market",
+          "img": "./assets/img/posts/token-market.png",
+          "link": "https://tokenmarket.net/blockchain/ethereum/assets/socialmedia-market/"
+        },
+        {
+          "id": "LB-news",
+          "img": "./assets/img/posts/LB-news.png",
+          "link": "http://www.livebitcoinnews.com/meet-new-generation-online-advertising-socialmedia-market/"
+        },
+        {
+          "id": "bitcoinist",
+          "img": "./assets/img/posts/bitcoinist.png",
+          "link": "http://bitcoinist.com/how-blockchain-tech-will-disrupt-influencer-marketing/"
+        },
+        {
+          "id": "ME",
+          "img": "./assets/img/posts/ME.png",
+          "link": "https://themerkle.com/meet-the-new-generation-of-online-advertising-with-socialmedia-market/"
+        },
+        {
+          "id": "coin-shedule",
+          "img": "./assets/img/posts/coin-shedule.png",
+          "link": "https://www.coinschedule.com/icos/e1438/socialmedia.market-.html"
+        },
+        {
+          "id": "coin-telegraph",
+          "img": "./assets/img/posts/coin-telegraph.png",
+          "link": "https://cointelegraph.com/press-releases/meet-new-generation-of-advertising-with-socialmediamarket-ico"
+        },
+        {
+          "id": "coinspot",
+          "img": "./assets/img/posts/coinspot.png",
+          "link": "https://coinspot.io/company/socialmedia-market-blokchejn-platforma-obedinyayushhaya-reklamodatelej-i-blogerov/"
+        },
+        {
+          "id": "bit-2-the-moon",
+          "img": "./assets/img/posts/bit-2-the-moon.png",
+          "link": "https://t.me/btc2themoon"
+        },
+        {
+          "id": "coin-gecko",
+          "img": "./assets/img/posts/coin-gecko.png",
+          "link": "https://www.coingecko.com/ico/social-media-market?locale=en"
+        },
+        {
+          "id": "token-data",
+          "img": "./assets/img/posts/token-data.png",
+          "link": "https://www.tokendata.io/upcoming"
+        },
+        {
+          "id": "crypto-news",
+          "img": "./assets/img/posts/crypto-news.png",
+          "link": "https://www.cryptocoinsnews.com/meet-new-generation-online-advertising-socialmedia-market/"
+        },
+        {
+          "id": "ICO-bazaar",
+          "img": "./assets/img/posts/ICO-bazaar.png",
+          "link": "https://icobazaar.com/v2/socialmedia.market"
+        },
+        {
+          "id": "token-tops",
+          "img": "./assets/img/posts/token-tops.png",
+          "link": "https://tokentops.com/ico/socialmedia.market/"
+        },
+        {
+          "id": "blockchain-news",
+          "img": "./assets/img/posts/blockchain-news.png",
+          "link": "http://www.the-blockchain.com/2017/11/06/socialmedia-market-announced-token-sale/"
+        },
+        {
+          "id": "coinhills",
+          "img": "./assets/img/posts/coinhills.png",
+          "link": "https://www.coinhills.com/ico/view/socialmedia-market/"
+        },
+        {
+          "id": "ICO-alert",
+          "img": "./assets/img/posts/ICO-alert.png",
+          "link": "https://www.icoalert.com"
+        },
+        {
+          "id": "ico-daily",
+          "img": "./assets/img/posts/ico-daily.png",
+          "link": "https://icodaily.net"
+        },
+        {
+          "id": "ICO-tracker",
+          "img": "./assets/img/posts/ICO-tracker.png",
+          "link": "https://icotracker.net/project/socialmedia_market"
+        },
+        {
+          "id": "crypto-smile",
+          "img": "./assets/img/posts/crypto-smile.png",
+          "link": "http://www.cryptosmile.com/2017/11/social-media-market-as-solution-to-social-media-marketing.html"
+        },
+        {
+          "id": "one-news-page",
+          "img": "./assets/img/posts/one-news-page.png",
+          "link": "http://www.onenewspage.com/n/Markets/75eipusi5/PR-Meet-The-New-Generation-Of-Online.htm"
+        },
+        {
+          "id": "NCC",
+          "img": "./assets/img/posts/NCC.png",
+          "link": "http://newscryptocoin.com/2017/11/13/socialmedia-market/"
+        },
+        {
+          "id": "mining-bitcoin",
+          "img": "./assets/img/posts/mining-bitcoin.png",
+          "link": "https://mining-bitcoin.ru/obzory/it-rynok/socailmedia-market"
+        },
+        {
+          "id": "bitbetnews",
+          "img": "./assets/img/posts/bitbetnews.png",
+          "link": "https://www.bitbetnews.com/ico/platforma-dlja-marketing-vlijanija-socialmedia-market/.html"
+        },
+        {
+          "id": "token-desk",
+          "img": "./assets/img/posts/token-desk.png",
+          "link": "https://icos.tokendesk.io/blockchain-permeates-social-media-influencers-advertising-market/"
+        },
+        {
+          "id": "ituber",
+          "img": "./assets/img/posts/ituber.png",
+          "link": "https://ituber.me/socialmedia-market-blokchejn-reshenie-dlya-reklamnyx-kampanij/"
+        },
+        {
+          "id": "chipin",
+          "img": "./assets/img/posts/chipin.png",
+          "link": "https://www.chipin.com/socialmediamarket-ico-marketing-brands-influencers/"
+        },
+        {
+          "id": "golos",
+          "img": "./assets/img/posts/golos.png",
+          "link": "https://golos.io/ico/@duosre/socialmedia-market-ico"
+        },
+        {
+          "id": "btc-manager",
+          "img": "./assets/img/posts/btc-manager.png",
+          "link": "https://btcmanager.com/socialmedia-market-launch-innovative-ethereum-platform-influencer-marketing/"
+        },
+        {
+          "id": "bitcoin ecxhange",
+          "img": "./assets/img/posts/bitcoin ecxhange.png",
+          "link": "https://bitcoinexchangeguide.com/socialmedia-market/"
+        },
+        {
+          "id": "steemit",
+          "img": "./assets/img/posts/steemit.png",
+          "link": "https://steemit.com/ico/@cyberjz/socialmedia-market-blockchain-based-influencer-marketing-platform"
+        },
+        {
+          "id": "cryptorussia",
+          "img": "./assets/img/posts/cryptorussia.png",
+          "link": "https://cryptorussia.ru/zametki/osnovannyy-na-tehnologii-blokcheyn-socialmediamarket-obedinit-biznes-i-blogerov"
+        },
+        {
+          "id": "decenter",
+          "img": "./assets/img/posts/decenter.png",
+          "link": "./assets/pdf/Dcenter_review_socialmediamarket.pdf"
+        },
+        {
+          "id": "foundico",
+          "img": "./assets/img/posts/foundico.png",
+          "link": "https://foundico.com/ru/ico/socialmediamarket.html"
+        },
+        {
+          "id": "techflier",
+          "img": "./assets/img/posts/techflier.png",
+          "link": "https://www.techflier.com/2017/11/13/5-icos-to-watch-auctus-project-dmarket-aigang-aphelion-socialmedia-market/"
+        },
+        {
+          "id": "worldcoinindex",
+          "img": "./assets/img/posts/worldcoinindex.png",
+          "link": "https://www.worldcoinindex.com/ico/calendar/socialmedia-market"
+        },
+        {
+          "id": "coinjinja",
+          "img": "./assets/img/posts/coinjinja.png",
+          "link": "https://www.coinjinja.com/detail/socialmedia-market"
+        },
+        {
+          "id": "INF-UPDATE",
+          "img": "./assets/img/posts/INF-UPDATE.png",
+          "link": "http://www.influencerupdate.biz/news/66605/influencer-marketing-startup-socialmediamarket-launches-an-ico/"
+        }
+      ]
+    }
+  }
+}
