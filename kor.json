@@ -33,20 +33,20 @@
     "tryBeta": "베타 플랫폼",
     "tryPlatformBeta": "플랫폼 베타 테스트",
     "joinTokenSale": "토큰 세일 참여",
-    "buyTokens": "Buy tokens"
+    "buyTokens": "토큰 구매"
   },
   "presaleLive": {
     "headingLarge": "프리세일이 지금 진행 중입니다!",
     "heading": "토큰 구매",
     "joinNow": "토큰 구매",
-    "bonus%%%EndsIn": "Bonus %%% ends in"
+    "bonus%%%EndsIn": "보너스 %%% 종료"
   },
   "countdown": {
     "title": "토큰 프리 세일 끝남",
     "preICO": "PRE-ICO IS LIVE!",
     "preIcoStartsIn": "ICO Pre-sale starts in",
     "icoStartsIn": "2월 9일 ICO 시작",
-    "icoStarted": "Token sale live!",
+    "icoStarted": "토큰 판매가 열려 있습니다!",
     "tokenSaleIsOpen": "Public token sale<br> is open now!",
     "days": "날짜",
     "hours": "시간",
@@ -165,13 +165,13 @@
     "backers": "Backers",
     "tokenSold": "Tokens sold during pre-ico",
     "fundsRaised": "Funds raised",
-    "ourPartners": "Our partners",
-    "projectInfo": "Project info",
-    "referralProgram": "Referral program",
-    "bountyCampaign": "Bounty campaign",
-    "betaProduct": "Beta platform",
-    "USAResidentsCannotParticipate": "USA citizens and residents are not allowed to participate",
-    "softCapReached": "Soft cap reached"
+    "ourPartners": "우리의 파트너",
+    "projectInfo": "프로젝트 정보",
+    "referralProgram": "추천 프로그램",
+    "bountyCampaign": "바운티 캠페인",
+    "betaProduct": "베타 플랫폼",
+    "USAResidentsCannotParticipate": "미국 시민권 자 및 거주자는 참가할 수 없습니다.",
+    "softCapReached": "소프트캡 달성!"
   },
   "landing":{
     "about": {
@@ -460,7 +460,7 @@
         },
         {
           "id": "bloggers",
-          "title": "Bloggers about the project",
+          "title": "프로젝트 블로거",
           "videos": [
             {
               "channelName": "Brandon Kelly Crypto Trader",
@@ -536,7 +536,7 @@
         },
         {
           "id": "platform",
-          "title": "How the Platform Works?",
+          "title": "플랫폼이 어떻게 동작하는가?",
           "videos": [
             {
               "channelName": "SocialMedia.Market",
@@ -632,7 +632,7 @@
         },
         {
           "id": "tokens",
-          "title": "How to buy tokens?",
+          "title": "토큰을 어떻게 구입하는가?",
           "videos": [
             {
               "channelName": "SocialMedia.Market",
@@ -729,7 +729,7 @@
           "name": "Chafik Abdellaoui",
           "status": "기업가, ACBMC, Bizzant, XEDYAS IT HYBRID SOLUTIONS의 창업자",
           "company": "./assets/img/landing/experts/g2a.jpg",
-          "description": "이스포츠는 블로그와 스트리머에 크게 의존하고 있기 때문에 영향력 마케팅이 업계의 전환 포인트가 되리라고 나는 믿습니다. SocialMedia.Market는 기회를 창조하고, 누구도 이를 무시 할 수 없습니다."
+          "description": "영향력있는 마케팅은 브랜드가 광범위한 고객에게 메시지를 전달할 수있는 커다란 기회를 제공합니다. 블록 체인 (blockchain) 기술은 시장 개척을위한 규제 수단을 제공하여 관련자 모두에게 투명성과 보안을 보장합니다."
         },
         {
           "avatar": "./assets/img/landing/experts/david.png",
@@ -1097,8 +1097,8 @@
               "link": "https://co.linkedin.com/in/gabrielzanko/"
             }
           ],
-          "position": "Fintech entrepreneur-Advisor. Founder of MobileyourLife and involved in the AI-Fintech space providing solutions in the B2B space.",
-          "description": "ICO advisory in Fundraising Capital and International Business Development.",
+          "position": "Fintech 기업가 - 고문. MobileyourLife의 설립자이자 B2B 공간에서 솔루션을 제공하는 AI-Fintech 공간에 참여했습니다.",
+          "description": "Fundraising Capital 및 International Business Development의 ICO 자문.",
           "logos": [
             {
               "alt": "",
@@ -1117,8 +1117,8 @@
               "link": "https://www.linkedin.com/in/daria-generalova-842a3a85/"
             }
           ],
-          "position": "Co-Founder, ICOBox",
-          "description": "Marketing, PR & communications specialist with 10+ years of experience. Having joined blockchain industry nearly two years ago, worked as a consultant to Argon Group and helped launch ICO platform Cryptonomos.",
+          "position": "ICOBox 공동 설립자",
+          "description": "10 년 이상의 경력을 가진 마케팅, 홍보 및 커뮤니케이션 전문가. 거의 2 년 전에 블록 체인 업계에 합류 한 그는 Argon Group의 컨설턴트로 일하면서 ICO 플랫폼 Cryptonomos를 시작하는 데 도움을주었습니다.",
           "logos": [
             {
               "alt": "",
@@ -1158,7 +1158,7 @@
             }
           ],
           "position": "Wargaming.net의 마케팅 & 광고 부서 전 부회장, 이스포츠와 블록체인에 열광",
-          "description": "",
+          "description": "컴퓨터 게임 업계에서 경력을 쌓은 경력을 쌓은 마케팅 및 비즈니스 개발 전문가 인 Experienced Chief Executive Officer. eSports, Blockchain 및 Advertising에 숙련 된 자.",
           "logos": [
             {
               "alt": "",
@@ -1217,8 +1217,8 @@
               "link": "https://www.linkedin.com/in/slavik-nenaydokh-7785492/"
             }
           ],
-          "position": "COO, Centuria Natural Foods San Francisco, CA",
-          "description": "Centuria Natural Foods 샌프란시스코의 COO, M&A Emerging Market, Exigen Capital Principal, Delphi Software International의 대표",
+          "position": "Centuria Natural Foods 샌프란시스코의 COO, M&A",
+          "description": "Emerging Market, Exigen Capital Principal, Delphi Software International의 대표",
           "logos": [
             {
               "alt": "",
@@ -1300,7 +1300,7 @@
       "sectionDescription": "Social Media 토큰 (SMT)은 ERC20 호환 토큰으로 발행됩니다. 토큰의 총 발행량에 따라 15%가 플랫폼의 코어 기능과 팀에 할당되고, 파트너 및 어드바이저에게 5%가 할당되어 6개월의 권리 확정 기간을 가집니다. 이 모든 것이 총 SMT 발행량을 이룹니다."
     },
     "tokenSale": {
-      "sectionTitle": "Token sale <small>Phase 2</small>",
+      "sectionTitle": "토큰 세일 단계 2",
       "startDate": "시작 일자:",
       "startDateValue": "2018년 2월 9일 12:00 PM GMT (1:00 pm CET)",
       "endDate": "종료 일자:",
@@ -1308,7 +1308,7 @@
       "presale": "프리세일:",
       "presaleValue": "2018년 2월 2일-9일 12:00 PM GMT (1:00 pm CET)",
       "minimalGoal": "최소 목표:",
-      "minimalGoalValue": "REACHED DURING PRE-ICO",
+      "minimalGoalValue": "프리-ICO 중 모금액",
       "phaseHardCap": "단계별 하드캡:",
       "phaseHardCapValue": "16 000 ETH",
       "tokenExchangeRate": "토큰 가격:",
