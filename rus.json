@@ -33,7 +33,10 @@
     "tryBeta": "Бета версия",
     "tryPlatformBeta": "БЕТА версия платформы",
     "joinTokenSale": "Купить токены",
-    "buyTokens": "Купить токены"
+    "buyTokens": "Купить токены",
+    "shorter": "Shorter",
+    "whitePaper": "White paper",
+    "smartContract": "Smart contract"
   },
   "presaleLive": {
     "headingLarge": "Предпродажа токенов открыта!",

@@ -33,7 +33,10 @@
     "tryBeta": "Nền tảng Beta",
     "tryPlatformBeta": "Thử bản beta của nền tảng",
     "joinTokenSale": "Tham gia đợt bán token",
-    "buyTokens": "MUA TOKEN"
+    "buyTokens": "MUA TOKEN",
+    "shorter": "Shorter",
+    "whitePaper": "White paper",
+    "smartContract": "Smart contract"
   },
   "presaleLive": {
     "headingLarge": "Presale is now live!",

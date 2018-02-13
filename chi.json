@@ -33,7 +33,10 @@
     "tryBeta": "BETA版平台",
     "tryPlatformBeta": "体验平台测试版",
     "joinTokenSale": "加入代币销售",
-    "buyTokens": "购买代币"
+    "buyTokens": "购买代币",
+    "shorter": "Shorter",
+    "whitePaper": "White paper",
+    "smartContract": "Smart contract"
   },
   "presaleLive": {
     "headingLarge": "预售正在进行",

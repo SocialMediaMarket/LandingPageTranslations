@@ -33,7 +33,10 @@
     "tryBeta": "베타 플랫폼",
     "tryPlatformBeta": "플랫폼 베타 테스트",
     "joinTokenSale": "토큰 세일 참여",
-    "buyTokens": "토큰 구매"
+    "buyTokens": "토큰 구매",
+    "shorter": "Shorter",
+    "whitePaper": "White paper",
+    "smartContract": "Smart contract"
   },
   "presaleLive": {
     "headingLarge": "프리세일이 지금 진행 중입니다!",

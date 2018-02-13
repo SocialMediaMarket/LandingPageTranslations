@@ -33,7 +33,10 @@
     "tryBeta": "BETA版平台",
     "tryPlatformBeta": "Try platform beta",
     "joinTokenSale": "トークンセールに参加",
-    "buyTokens": "トークンを購入"
+    "buyTokens": "トークンを購入",
+    "shorter": "Shorter",
+    "whitePaper": "White paper",
+    "smartContract": "Smart contract"
   },
   "presaleLive": {
     "headingLarge": "Presale is now live!",

@@ -33,7 +33,10 @@
     "tryBeta": "Plateforme BETA",
     "tryPlatformBeta": "Essayez la beta de la plateforme ",
     "joinTokenSale": "Rejoindre la vente de token",
-    "buyTokens": "ACHETER DES TOKEN"
+    "buyTokens": "ACHETER DES TOKEN",
+    "shorter": "Shorter",
+    "whitePaper": "White paper",
+    "smartContract": "Smart contract"
   },
   "presaleLive": {
     "headingLarge": "Presale is now live!",
