@@ -33,7 +33,7 @@
     "tryBeta": "BETA-Plattform",
     "tryPlatformBeta": "Probieren Sie die Plattform Beta aus",
     "joinTokenSale": "Dem Token-Verkauf beitreten",
-    "buyTokens": "Buy tokens"
+    "buyTokens": "TOKENS KAUFEN"
   },
   "presaleLive": {
     "headingLarge": "Presale is now live!",
@@ -51,7 +51,7 @@
     "hours": "Stunden",
     "minutes": "Minuten",
     "seconds": "Sekunden",
-    "bonus%%%EndsIn": "Bonus %%% ends in"
+    "bonus%%%EndsIn": "Bonus %%% endet in"
   },
   "documents": {
     "heading": "Dokumente",
@@ -66,7 +66,7 @@
       },
       {
         "id": "SMM_White-Paper",
-        "title": "White paper",
+        "title": "Whitepaper",
         "languages": [
           "eng",
           "rus"
@@ -157,7 +157,7 @@
     "joinTokenSale": "Nimm am Tokenverkauf teil",
     "projectRatings": "Meinungen zum Projekt",
     "subscribe": "Abbonieren für Infos ",
-    "description": "Join our community",
+    "description": "Der Gemeinschaft beitreten",
     "joinPresale": "Nimm am Vorverkauf teil",
     "technicalPartner": "Technical partner",
     "mediaPartner": "Media partner",
@@ -170,8 +170,8 @@
     "referralProgram": "REFERRAL PROGRAMM",
     "bountyCampaign": "BOUNTY KAMPAGNE",
     "betaProduct": "BETA-Plattform",
-    "USAResidentsCannotParticipate": "USA citizens and residents are not allowed to participate",
-    "softCapReached": "Soft cap reached"
+    "USAResidentsCannotParticipate": "USA-Bürger und Einwohner dürfen nicht teilnehmen",
+    "softCapReached": "SOFT CAP ERREICHT!"
   },
   "landing":{
     "about": {
@@ -194,7 +194,7 @@
       "videosList": [
         {
           "id": "projectReviews",
-          "title": "Project reviews",
+          "title": "Projektberichte",
           "videos": [
             {
               "channelName": "Coin Bloq",
@@ -772,7 +772,7 @@
       "sectionTitle": "UNSER Team",
       "sectionDesc": "31 Mitglieder sind jetzt am Projekt beteiligt und wir stellen weitere Marketing-Spezialisten und Blockchain Entwickler ein und vergrößern unser Entwicklungsteam. Wir erwarten, das Social Media.Market Team um bis zu 70 Personen in den nächsten 4 Monaten zu erweitern.",
       "fullTeam": "Gesamtes Team",
-      "hideFullTeam": "Hide full team",
+      "hideFullTeam": "Verstecken Sie das ganze Team",
       "teamList": [
         {
           "id": "dmitryShishov",
@@ -1037,7 +1037,7 @@
               "link": "http://linkedin.com/in/kteare/"
             }
           ],
-          "position": "Executive Chair des britischen Venture-Unternehmens Accelerated Digital Ventures",
+          "position": "Chefsessel des britischen Venture-Unternehmens Accelerated Digital Ventures",
           "description": "Keith Teare hat kürzlich die erfolgreichen ICOs von ICOBox (4000 BTC) und Crypterium ($ 51mln +) beraten. Zuvor war er einer der Gründer von TechCrunch und der erste Internet Service Provider für Verbraucher in Europa - EasyNet. EasyNet und RealNames haben in den späten 1990er Jahren den Unicorn-Status erreicht.",
           "logos": [
             {
@@ -1057,7 +1057,7 @@
               "link": "https://www.linkedin.com/in/andrewplayford/"
             }
           ],
-          "position": "Senior Vice President of Operations bei der Sonic Foundry, Inc",
+          "position": "Leitender Vizepräsident des Betriebs bei der Sonic Foundry, Inc",
           "description": "Vor seiner Tätigkeit bei der Sonic Foundry war Andrew für Think New Ideas tätig, ein weiteres an der NASDAQ notiertes Unternehmen, das digitale Marketing- und Webentwicklungsunternehmen akquirierte und kombinierte. Think New Ideas wurde schließlich für mehr als 250 Millionen US-Dollar erworben.",
           "logos": [
             {
@@ -1078,7 +1078,7 @@
             }
           ],
           "position": "Geschäftsführer, Value Brain Co., Ltd. (Japan) <br/> CEO, Beducate.ltd (Hongkong)",
-          "description": "Autor \"Worries Make Money\" Kadokawa Foresta <br/><br/>  In December 2017, Tatsunari Ono made a speech to 2,500 guests at a cryptocurrency seminar where well-known speakers such as Jay Abraham, James Skinner, Anthony Mink were also on the same stage.",
+          "description": "Geschäftsmann, der sich aktiv in Investmentaktivitäten in Immobilien, Aktien, Airbnb-Operationen sowie Kryptowährung engagiert. Er hielt Tokyo Meetups bekannter Kryptowährungsfirmen wie NEO, LISK, Quantum und Ardor.",
           "logos": [
             {
               "alt": "",
@@ -1117,7 +1117,7 @@
               "link": "https://www.linkedin.com/in/daria-generalova-842a3a85/"
             }
           ],
-          "position": "Co-Founder, ICOBox",
+          "position": "Mitbegründer, ICOBox",
           "description": "Marketing-, PR- und Kommunikationsspezialist mit über 10 Jahren Erfahrung. Nachdem er sich vor fast zwei Jahren der Blockchain-Branche beigetreten ist, arbeitete er als Berater für die Argon Group und half beim Start der ICO-Plattform Cryptonomos.",
           "logos": [
             {
@@ -1138,7 +1138,7 @@
             }
           ],
           "position": "Entrepreneur, der Gründer von ACBMC, Bizzant und XEDYAS IT HYBRID SOLUTIONS.",
-          "description": "The person behind G2A explosive growth, as well as contributor to Mobile Go ICO success. Chafic is an accomplished business development professional with an extensive experience in eCommerce, gaming and electronic payments.",
+          "description": "Die Person hinter G2A explosives Wachstum, sowie Beitrag zu Mobile Go ICO Erfolg. Chafik ist ein versierter Business-Development-Profi mit einer umfangreichen Erfahrung in eCommerce, Gaming und elektronische Zahlungen.",
           "logos": [
             {
               "alt": "",
@@ -1309,9 +1309,9 @@
       "presaleValue": "2. bis 9. Februar 2018 12:00 Uhr GMT (13:00 Uhr MEZ)",
       "minimalGoal": "MINIMALES ZIEL:",
       "minimalGoalValue": "WÄHREND DEM PRE-ICO ERREICHT",
-      "phaseHardCap": "HARD CAP PHASE:",
+      "phaseHardCap": "Harte Cap-Phase:",
       "phaseHardCapValue": "16 000 ETH",
-      "tokenExchangeRate": "TOKEN-EXCHANGE RATE:",
+      "tokenExchangeRate": "TOKEN-UMTAUSCHRATE:",
       "tokenExchangeRateValue": "1 ETH = 2500 SMTs",
       "minimumContributionAmount": "Mindest Beitragssumme:",
       "minimumContributionAmountValue": "0,1 ETH / 250 SMTs",
@@ -1329,7 +1329,7 @@
     "media": {
       "sectionTitle": "Medien über socialmedia.market",
       "moreMedia": "MEHR Medien",
-      "lessMedia": "Less media",
+      "lessMedia": "Weniger Medien",
       "mediaList": [
         {
           "id": "influencermarketinghub",
