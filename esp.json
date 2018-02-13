@@ -1547,5 +1547,182 @@
         }
       ]
     }
+  },
+  "faq": {
+    "pageTitle": "Frequently asked questions",
+    "pageContent": [
+      {
+        "section": {
+          "title": "General questions",
+          "id": "general-questions"
+        },
+        "questions": [
+          {
+            "title": "What socialmedia.market is?",
+            "id": "1",
+            "content": "<h5>What socialmedia.market is?</h5><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium amet aspernatur autem commodi esse expedita fugit harum laborum magnam minima nihil nisi pariatur quam quasi quisquam repellat soluta totam, velit.</p><img src=\"https://cdn-images-1.medium.com/max/1600/1*bB0fl5wd7bGheMCH-OKskg.jpeg\"/><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium amet aspernatur autem commodi esse expedita fugit harum laborum magnam minima nihil nisi pariatur quam quasi quisquam repellat soluta totam, velit.</p><div class=\"iframe-wrapper\"><iframe src=\"https://youtube.com/embed/dp5fiUwxScE\"></iframe></div>"
+          },
+          {
+            "title": "Who stands behind of SocialMedia.Market? Does the team have enought experience for such big project?",
+            "id": "2",
+            "content": "Who stands behind of socialmedia.market?"
+          },
+          {
+            "title": "How does platform work? What problems does SocialMedia.Market actually solve? Why it’s needed?",
+            "id": "3",
+            "content": "What is total supply of token SMT?"
+          },
+          {
+            "title": "What is the difference between SocialMedia.Market and others? ",
+            "id": "4",
+            "content": "Will you have any discounts or bonuses?"
+          }
+        ]
+      },
+      {
+        "section": {
+          "title": "Purchase of tokens",
+          "id": "purchase-of-tokens"
+        },
+        "questions": [
+          {
+            "title": "How to participate in SocialMedia.Market token sale?",
+            "id": "1",
+            "content": "How to participate in socialmedia.market crowdsale?"
+          },
+          {
+            "title": "How to buy Social Media token?",
+            "id": "2",
+            "content": "Who stands behind of socialmedia.market?"
+          },
+          {
+            "title": "What payment methods do you accept?",
+            "id": "3",
+            "content": "What is total supply of token SMT?"
+          },
+          {
+            "title": "How long does it take for the payment to arrive?",
+            "id": "4",
+            "content": "Will you have any discounts or bonuses?"
+          },
+          {
+            "title": "How to create an ethereum wallet?",
+            "id": "5",
+            "content": "What payment methods do you accept?"
+          },
+          {
+            "title": "What are min/max purchases?",
+            "id": "6",
+            "content": "How the token can be used?"
+          },
+          {
+            "title": "Why do you not accept credit/debit card payment option?",
+            "id": "7",
+            "content": "Do you have a bounty campaign?"
+          },
+          {
+            "title": "Where to buy cryptocurrency (Bitcoins or Ethers)?",
+            "id": "8",
+            "content": "How to create an ethereum wallet?"
+          },
+          {
+            "title": "How to get money back after deposition funds into personal account? I didn’t buy Social Media tokens. ",
+            "id": "9",
+            "content": "How to buy social media token?"
+          },
+          {
+            "title": "How to get money back after deposition funds into personal account? I’ve already bought Social Media tokens.",
+            "id": "10",
+            "content": "How do i profit as member of socialmedia.market team?"
+          }
+        ]
+      },
+      {
+        "section": {
+          "title": "About token sale & token",
+          "id": "about-token-sale-and-token"
+        },
+        "questions": [
+          {
+            "title": "When will your ICO start? ",
+            "id": "1",
+            "content": "How to participate in socialmedia.market crowdsale?"
+          },
+          {
+            "title": "What is total supply of token SMT?",
+            "id": "2",
+            "content": "Who stands behind of socialmedia.market?"
+          },
+          {
+            "title": "Will you have any discounts/bonuses? ",
+            "id": "3",
+            "content": "What is total supply of token SMT?"
+          },
+          {
+            "title": "How to join your referral program? ",
+            "id": "4",
+            "content": "Will you have any discounts or bonuses?"
+          },
+          {
+            "title": "How to get a referral link?",
+            "id": "5",
+            "content": "What payment methods do you accept?"
+          },
+          {
+            "title": "Where to publish a referral link?",
+            "id": "6",
+            "content": "How the token can be used?"
+          },
+          {
+            "title": "Do you have a bounty campaign?",
+            "id": "7",
+            "content": "Do you have a bounty campaign?"
+          },
+          {
+            "title": "How the token can be used?",
+            "id": "8",
+            "content": "How to create an ethereum wallet?"
+          }
+        ]
+      },
+      {
+        "section": {
+          "title": "About socialmedia.market",
+          "id": "about-socialmedia-market"
+        },
+        "questions": [
+          {
+            "title": "What is SocialMedia.Market?",
+            "id": "1",
+            "content": "How to participate in socialmedia.market crowdsale?"
+          },
+          {
+            "title": "What features the platform will have?",
+            "id": "2",
+            "content": "Who stands behind of socialmedia.market?"
+          },
+          {
+            "title": "What is SMT token?",
+            "id": "3",
+            "content": "What is total supply of token SMT?"
+          },
+          {
+            "title": "Why are you issuing your own cryptocurrency?",
+            "id": "4",
+            "content": "Will you have any discounts or bonuses?"
+          },
+          {
+            "title": "How does the SocialMedia.Market platform work? What problems does SocialMedia.Market actually solve? Why it’s needed?",
+            "id": "5",
+            "content": "What payment methods do you accept?"
+          },
+          {
+            "title": "How do I profit as member of SocialMedia.Market team?",
+            "id": "6",
+            "content": "How the token can be used?"
+          }
+        ]
+      }
+    ]
   }
 }
