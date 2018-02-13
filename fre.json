@@ -45,7 +45,7 @@
     "preICO": "PRE-ICO IS LIVE!",
     "preIcoStartsIn": "ICO Pre-sale starts in",
     "icoStartsIn": "ICO starts <b>february 9</b>",
-    "icoStarted": "Token sale live!",
+    "icoStarted": "Vente de token EN COURS!",
     "tokenSaleIsOpen": "Public token sale<br> is open now!",
     "days": "Journées",
     "hours": "HEURES",
@@ -170,7 +170,7 @@
     "referralProgram": "PROGRAMME DE PARRAINAGE",
     "bountyCampaign": "CAMPAGNE BOUNTY",
     "betaProduct": "Plateforme BETA",
-    "USAResidentsCannotParticipate": "USA citizens and residents are not allowed to participate",
+    "USAResidentsCannotParticipate": "Les citoyens américains et les résidents ne sont pas autorisés à participer",
     "softCapReached": "SOFT CAP ATTEINT!"
   },
   "landing":{
@@ -194,7 +194,7 @@
       "videosList": [
         {
           "id": "projectReviews",
-          "title": "Project reviews",
+          "title": "Avis de projet",
           "videos": [
             {
               "channelName": "Coin Bloq",
@@ -729,7 +729,7 @@
           "name": "Chafik Abdellaoui",
           "status": "Entrepreneur, le fondateur d'ACBMC, Bizzant et XEDYAS IT HYBRID SOLUTIONS.",
           "company": "./assets/img/landing/experts/g2a.jpg",
-          "description": "Comme l'esports compte beaucoup sur les vloggers et les streamers, je crois que l'écosystème du marketing d'influenceur organisé deviendra un incontournable pour l'industrie. SocialMedia.Market crée une opportunité, on ne peut pas l'ignorer."
+          "description": "Le marketing d'influence offre une énorme opportunité aux marques de livrer leurs messages à un public plus large. La technologie blockchain fournit des moyens de régulation pour ce marché en pleine expansion, assurant la transparence et la sécurité pour toutes les personnes impliquées."
         },
         {
           "avatar": "./assets/img/landing/experts/david.png",
@@ -772,7 +772,7 @@
       "sectionTitle": "Notre équipe",
       "sectionDesc": "31 membres sont maintenant impliqués dans le projet et nous embauchons plus de spécialistes du marketing, des ingénieurs blockchain et faire grossir notre équipe de développement. Nous prévoyons d'augmenter les équipe de SocialMedia.Market jusqu'à 70 personnes dans les 4 prochains mois.",
       "fullTeam": "équipe complète",
-      "hideFullTeam": "Hide full team",
+      "hideFullTeam": "Masquer toute l'équipe",
       "teamList": [
         {
           "id": "dmitryShishov",
@@ -1329,7 +1329,7 @@
     "media": {
       "sectionTitle": "Médias sur socialmedia.market",
       "moreMedia": "PLUS de médias",
-      "lessMedia": "Less media",
+      "lessMedia": "Moins de médias",
       "mediaList": [
         {
           "id": "influencermarketinghub",
