@@ -1,8 +1,8 @@
 {
-  "lang": "en",
+  "lang": "ja",
   "links": {
-    "termsAndConditions": "Terms & conditions",
-    "privacyPolicy": "Privacy policy",
+    "termsAndConditions": "規約と条件",
+    "privacyPolicy": "プライバシーーポリシー",
     "subscribe": "Subscribe",
     "commitForPresale": "JOIN PRESALE",
     "commitForPresaleHeader": "JOIN PRESALE WITH 30% BONUS",
@@ -12,28 +12,28 @@
     "commitWith5bonus": "Join pre-ico with 5% bonus",
     "commitWith3bonus": "Join pre-ico with 3% bonus",
     "commit": "Join ico",
-    "tokenSale": "Token sale",
-    "whitepaper": "Whitepaper",
-    "documents": "Documents",
+    "tokenSale": "トークンセール",
+    "whitepaper": "ホワイトペーパー",
+    "documents": "文件",
     "stateOfMarket": "State of market",
-    "howItWorks": "How it works",
-    "tokenDistribution": "Token distribution",
-    "roadmap": "Roadmap",
+    "howItWorks": "どのように使用されるか？",
+    "tokenDistribution": "トークン配布",
+    "roadmap": "ロードマップ",
     "media": "Media",
-    "ourTeam": "team",
+    "ourTeam": "チーム",
     "about": "about",
     "myProfile": "My profile",
     "myAccount": "My account",
     "mainPage": "Main page",
-    "community": "Community",
+    "community": "社区",
     "logout": "Logout",
-    "signin": "Sign in",
+    "signin": "登录",
     "cryptoKittie": "Kitty giveaway",
     "signUpAndSubscribe": "Join pre-sale with 20% bonus",
-    "tryBeta": "Beta platform",
+    "tryBeta": "BETA版平台",
     "tryPlatformBeta": "Try platform beta",
-    "joinTokenSale": "Join token sale",
-    "buyTokens": "Buy tokens",
+    "joinTokenSale": "トークンセールに参加",
+    "buyTokens": "トークンを購入",
     "shorter": "Shorter",
     "whitePaper": "White paper",
     "smartContract": "Smart contract"
@@ -44,24 +44,24 @@
     "joinNow": "Join now"
   },
   "countdown": {
-    "title": "Token presale <span>ends in</span>",
+    "title": "Token presale <span>終了まで</span>",
     "preICO": "PRE-ICO IS LIVE!",
     "preIcoStartsIn": "ICO Pre-sale starts in",
     "icoStartsIn": "ICO starts <b>february 9</b>",
-    "icoStarted": "Token sale live!",
+    "icoStarted": "トークンセール実施中!",
     "tokenSaleIsOpen": "Public token sale<br> is open now!",
-    "days": "Days",
-    "hours": "Hours",
-    "minutes": "Minutes",
-    "seconds": "Seconds",
-    "bonus%%%EndsIn": "Bonus %%% ends in"
+    "days": "天",
+    "hours": "小时",
+    "minutes": "分",
+    "seconds": "秒",
+    "bonus%%%EndsIn": "Bonus %%% 終了まで"
   },
   "documents": {
-    "heading": "Documents",
+    "heading": "文件",
     "documents": [
       {
         "id": "SMM_Shorter",
-        "title": "Shorter",
+        "title": "要約資料",
         "languages": [
           "eng",
           "rus"
@@ -69,7 +69,7 @@
       },
       {
         "id": "SMM_White-Paper",
-        "title": "White paper",
+        "title": "ホワイトペーパー",
         "languages": [
           "eng",
           "rus"
@@ -103,7 +103,7 @@
       "choosePaymentMethod": "Please, choose payment method"
     },
     "subscribe": {
-      "title": "Join token sale",
+      "title": "トークンセールに参加",
       "description": "Please, enter your email below to receive notification about the start of the Social Media Token sale",
       "email": "Email",
       "name": "Name",
@@ -155,45 +155,45 @@
     }
   },
   "firstScreen": {
-    "heading": "Monetize your influence",
-    "subheading": "Decentralised influencer advertising marketplace",
-    "joinTokenSale": "Join token sale",
-    "projectRatings": "Project ratings",
+    "heading": "通过你的影响力来获得收益",
+    "subheading": "分散型インフルエンサー広告マーケットプレイス",
+    "joinTokenSale": "トークンセールに参加",
+    "projectRatings": "プロジェクト評価",
     "subscribe": "Subscribe to news",
-    "description": "Our community",
+    "description": "コミュニティ",
     "joinPresale": "Join presale now",
     "technicalPartner": "Technical partner",
     "mediaPartner": "Media partner",
     "joinBounty": "Join<br> bounty <span>campaign</span>",
     "backers": "Backers",
-    "tokenSold": "Tokens sold during pre-ico",
-    "fundsRaised": "Funds raised",
-    "ourPartners": "Our partners",
-    "projectInfo": "Project info",
+    "tokenSold": "プレICO期間中の調達金額",
+    "fundsRaised": "調達金額",
+    "ourPartners": "パートナー",
+    "projectInfo": "プロジェクト情報",
     "referralProgram": "Referral program",
-    "bountyCampaign": "Bounty campaign",
-    "betaProduct": "Beta platform",
+    "bountyCampaign": "バウンティキャンペーン",
+    "betaProduct": "BETA版平台",
     "USAResidentsCannotParticipate": "USA citizens and residents are not allowed to participate",
-    "softCapReached": "Soft cap reached"
+    "softCapReached": "ソフトキャップ達成"
   },
   "landing":{
     "about": {
       "first": {
-        "title": "The first decentralized marketplace connecting <strong>social media bloggers</strong> and advertisers",
-        "description": "Solving major influencer marketing problems SocialMedia.Market will create new opportunities for content monetization, community engagement and audience exposure. New ecosystem, driven by blockchain technology and Social Media Token, will simplify marketing  interaction between business and influencers."
+        "title": "The first я marketplace connecting <strong>social media bloggers</strong> and advertisers",
+        "description": "SocialMedia.Marketはマーケティングの主要な問題を解決し、コンテンツ収益化、コミュニティエンゲージメントなどの新しい機会を作り出します。新しい、ブロックチェーンとソーシャルメディアトークンによるエコシステムがビジネスとインフルエンサーの関係を単純化します。"
       },
       "second": {
-        "title": "influencer marketing is the most cost effective stragegy for <strong>brands</strong>",
-        "description": "Research shows us, that 92% of consumers are more likely to trust a brand that advertises using Influencer Marketing. More over, it is more cost-effective than paid advertising and leads to more credible brand recommendations. For these reasons, Influencer Marketing has arguably became the most effective long term marketing strategy."
+        "title": "ブランドにとって、インフルエンサーマーケティングは最も効率が良いマーケティングです。",
+        "description": "92％の消費者はインフルエンサーマーケティングで広告を行うブランドを信用するという調査結果があります。さらに、インフルエンサーマーケティングは従来型の広告よりも費用対効果がよく、より信頼できるブランドをオススメします。これらの理由からインフルエンサーマーケティングはもっとも長期的に効率的なマーケティング戦略となりました。"
       },
       "actions": {
-        "readShorter": "Read shorter",
-        "checkWhitePaper": "Check white paper",
-        "joinCommunity": "Join community"
+        "readShorter": "要約資料",
+        "checkWhitePaper": "ホワイトペーパー",
+        "joinCommunity": "コミュニティ"
       }
     },
     "videos": {
-      "sectionTitle": "Check Out Amazing Videos About Us",
+      "sectionTitle": "SMMのビデオを視聴する",
       "videosList": [
         {
           "id": "projectReviews",
@@ -462,8 +462,8 @@
           ]
         },
         {
-          "id": "bloggers",
-          "title": "Bloggers about the project",
+          "id": "ブロガー",
+          "title": "ブロガー",
           "videos": [
             {
               "channelName": "Brandon Kelly Crypto Trader",
@@ -539,7 +539,7 @@
         },
         {
           "id": "platform",
-          "title": "How the Platform Works?",
+          "title": "プラットフォームの機能",
           "videos": [
             {
               "channelName": "SocialMedia.Market",
@@ -635,7 +635,7 @@
         },
         {
           "id": "tokens",
-          "title": "How to buy tokens?",
+          "title": "トークン購入方法",
           "videos": [
             {
               "channelName": "SocialMedia.Market",
@@ -645,7 +645,7 @@
               "thumb": "https://img.youtube.com/vi/dp5fiUwxScE/maxresdefault.jpg",
               "share": "https://www.youtube.com/watch?v=dp5fiUwxScE",
               "title": "How to create new Ethereum wallet on MyEtherWallet?",
-              "desc": "Everything you need to know on how to create ETH wallet. Simple and quick guide from our team."
+              "desc": "Everything you need to know on how to create ETH wallet. Simple and quick guide from 私達のチーム."
             },
             {
               "channelName": "SocialMedia.Market",
@@ -664,7 +664,7 @@
       "cardTitle": "The first blockchain based on influancer marketing?"
     },
     "partners": {
-      "sectionTitle": "Our partners",
+      "sectionTitle": "パートナー",
       "partnersList": [
         {
           "alt": "Civic",
@@ -694,35 +694,35 @@
         {
           "background": "./assets/img/landing/benefits/benefit1.png",
           "image": "./assets/img/landing/benefits/benefit1-bg.png",
-          "title": "Fraud Protected"
+          "title": "詐欺防止"
         },
         {
           "background": "./assets/img/landing/benefits/benefit2.png",
           "image": "./assets/img/landing/benefits/benefit2-bg.png",
-          "title": "Operational Costs Reduced"
+          "title": "運営コスト削減"
         },
         {
           "background": "./assets/img/landing/benefits/benefit3.png",
           "image": "./assets/img/landing/benefits/benefit3-bg.png",
-          "title": "Safe and Fast Transactions"
+          "title": "安全で、早いトランザクション"
         },
         {
           "background": "./assets/img/landing/benefits/benefit4.png",
           "image": "./assets/img/landing/benefits/benefit4-bg.png",
-          "title": "Decentralized Dispute Solutions"
+          "title": "分散型紛争解決"
         },
         {
           "background": "./assets/img/landing/benefits/benefit5.png",
           "image": "./assets/img/landing/benefits/benefit5-bg.png",
-          "title": "Easy Global Payments"
+          "title": "グローバルでの簡単な支払"
         },
         {
           "background": "./assets/img/landing/benefits/benefit6.png",
           "image": "./assets/img/landing/benefits/benefit6-bg.png",
-          "title": "Easy Engagements"
+          "title": "簡単なエンゲージメント"
         }
       ],
-      "joinTokenSale": "Join token sale"
+      "joinTokenSale": "トークンセールに参加"
     },
     "experts": {
       "sectionTitle": "<strong>Experts</strong> About <span class='market'>Socialmedia.market</span>",
@@ -732,49 +732,49 @@
           "name": "Chafik Abdellaoui",
           "status": "Entrepreneur, the founder ACBMC, Bizzant, and XEDYAS IT HYBRID SOLUTIONS.",
           "company": "./assets/img/landing/experts/g2a.jpg",
-          "description": "Influencer marketing provides a huge opportunity for brands to deliver their messages to a broader audience. The blockchain technology provides regulation means for this blooming market, ensuring transparency and security for everyone involved."
+          "description": "vloggerやstreamerへの依存は強くあり、組織化されたインフルエンサーは業界のトリッピングポイントになると考えています。SocialMedia.Marketはその機会を作り、無視することはありません。"
         },
         {
           "avatar": "./assets/img/landing/experts/david.png",
           "name": "David Meerman Scott",
-          "status": "bestselling author of The New Rules of Marketing and PR",
+          "status": "ベストセラー「The New Rules of Marketing and PR」作者",
           "company": "",
-          "description": "Blockchain technology shows promise to finally bring transparency for brands that work with social influencers."
+          "description": "ブロックチェーン技術は、インフルエンサーとの業務において、透明性があります。"
         },
         {
           "avatar": "./assets/img/landing/experts/werner.png",
           "name": "Werner Geyser",
-          "status": "Founder, Influencer Marketing Hub",
+          "status": "創業者、インフルエンサーマーケティングハブ",
           "company": "./assets/img/landing/experts/imh.jpg",
-          "description": "Influencer marketing provides a huge opportunity for brands to deliver their messages to a broader audience. With help of SocialMeida.Market blockchain technology will provide regulation means for this blooming market, ensuring transparency and security for everyone involved."
+          "description": "インフルエンサーのマーケティングは、幅広い層の人々へ情報を届ける機会を提供します。SocialMeida.Marketのブロックチェーン技術により、このブルーミング市場への手段を提供し、透明性とセキュリティを確保します。"
         },
         {
           "avatar": "./assets/img/landing/experts/peter.png",
           "name": "Peter Zhalov",
-          "status": "Former VP Marketing & Advertising at Wargaming.net",
+          "status": "前Wargaming.netマーケティング&広告VP",
           "company": "./assets/img/landing/experts/wargaming.jpg",
-          "description": "Today consumers use ad-blockers and ignore traditional digital advertisements. Influencer and eSports Marketing are becoming two most effective ways to reach Millenials and Generation Z audience. Socialmedia.market has the solution of creating a transparent marketplace for Influencer Marketing that we need."
+          "description": "今日おいて、顧客は広告ブロックを使い、デジタル広告を無視し続けています。インフルエンサーとeSportsマーケティングは、若年層からの大衆に対し、効果的な２つの方法となっています。Socialmedia.marketには、インフルエンサーマーケティングに必要な透明な市場を創り出す方法があります。"
         },
         {
           "avatar": "./assets/img/landing/experts/alex.png",
           "name": "Alex Yastremski",
-          "status": "General counsel at Bitfury Group Ltd",
+          "status": "Bitfury Group Ltdジェネラルカウンセル",
           "company": "./assets/img/landing/experts/bitfury.jpg",
-          "description": "The project impressed me with its ambitious goals that could increase value for market participants and maximize sales for marketers. With the team’s expertise, this project can become a successful and effective all-in-one solution for digital advertising."
+          "description": "このプロジェクトは、市場参加者の価値を高め、マーケティング側の売上を最大化できる挑戦的な目標で魅了します。このプロジェクトは、デジタル広告の成功かつ効果的なオールインワンソリューションになるでしょう。"
         },
         {
           "avatar": "./assets/img/landing/experts/slavik.png",
           "name": "Slavik Nenaydokh",
           "status": "Principal, Delphi Software International",
           "company": "",
-          "description": "SocialMedia.Market is wisely leveraging their know-how in a bid to enact social marketing change. I am humbled to participate in this vision with the SocialMedia.Market team and am looking forward to walking along side them throughout its stages of corporate maturity."
+          "description": "SocialMedia.Marketは、ソーシャルマーケティングの変動に対するノウハウを賢く活用しています。 私は、SocialMedia.Marketチームと共にこのビジョンに参加することを謙虚としており、企業の成熟段階を通じて彼らと歩みたいと考えています。"
         }
       ]
     },
     "ourTeam": {
-      "sectionTitle": "Our team",
-      "sectionDesc": "31 members now involved in the project and we are hiring more marketing specialists, blockchain engineers and growing our development team. We are expecting to increase SocialMedia.Market team up to 70 people in the next 4 months.",
-      "fullTeam": "Full team",
+      "sectionTitle": "团队",
+      "sectionDesc": "現在31人のメンバーがプロジェクトに参加しており、より多くのマーケティングスペシャリストを雇用しています。ブロックチェーン開発チームの増員もあり、私たちはSocialMedia.Marketの成長を期待しています 次の4ヶ月間に最大70人のチームを構成する予定です。",
+      "fullTeam": "全チーム",
       "hideFullTeam": "Hide full team",
       "teamList": [
         {
@@ -782,47 +782,47 @@
           "linkedIn": "https://www.linkedin.com/in/dmitryshyshov/",
           "avatar": "./assets/img/landing/team/team1.png",
           "name": "Dmitry<br>Shyshov",
-          "jobTitle": "Founder, CEO",
-          "description": "An entrepreneur, the CEO and founder of two successful products operating in games and Esports industries. The visionary of SocialMedia.Market. Bought Bitcoin for the first time in 2012."
+          "jobTitle": "創業者・CEO",
+          "description": "起業家である最高経営責任者（CEO）はゲームやESports産業で成功した2つの製品の創始者です。 SocialMedia.Marketの先見者でもあります。 2012年にビットコインを初めて買いました。"
         },
         {
           "id": "alexandraMorozova",
           "linkedIn": "https://www.linkedin.com/in/aleksandramorozova/",
           "avatar": "./assets/img/landing/team/team2.png",
           "name": "Aleksandra<br>Morozova",
-          "jobTitle": "Co-founder, CMO",
-          "description": "Always searching for creative solutions for business and products. The heart and the soul of SocialMedia.Market. Previously worked with Apple, Sony, Dell, Asus, Lenovo, Microsoft Xbox, Nvidia. "
+          "jobTitle": "共同設立者・CMO",
+          "description": "常にビジネスと製品の創造的なソリューションを探しています。"
         },
         {
           "id": "maksymChurkin",
           "linkedIn": "https://www.linkedin.com/in/maksym-churkin/",
           "avatar": "./assets/img/landing/team/team3.png",
           "name": "Maksym<br>Churkin",
-          "jobTitle": "Tech Lead",
-          "description": "An accomplished professional with more than 8 years of experience in developement. Always chooses the best practices and the best frameworks to reach the best results."
+          "jobTitle": "テックリード",
+          "description": "8年以上の開発経験を持つ熟練したプロフェッショナルで、最良の結果を得るためのベストプラクティスと最良のフレームワークを常に選択しています。"
         },
         {
           "id": "viktorPerehod",
           "linkedIn": "https://www.linkedin.com/in/viktor-perekhod-100103b1/",
           "avatar": "./assets/img/landing/team/team4.png",
           "name": "Viktor<br>Perekhod",
-          "jobTitle": "BDM",
-          "description": "The strategist working for the growth of the project. The one who makes SocialMedia.Market move forward and pushes the project to the limit. Experienced problem solver."
+          "jobTitle": "運営責任者",
+          "description": "プロジェクトの成長のために活動し、SocialMedia.Marketを前進させます。"
         },
         {
           "id": "yehorShyshov",
           "linkedIn": "https://www.linkedin.com/in/yehorshyshov/",
           "avatar": "./assets/img/landing/team/team5.png",
           "name": "Yehor<br>Shyshov",
-          "jobTitle": "BDM",
-          "description": "Experienced business development manager with a demonstrated history of working in the computer games and E-Sport industry. Skilled in Business Planning, Risk Management, and Strategy."
+          "jobTitle": "運営責任者",
+          "description": "コンピューターゲームやESports業界で働いている実績のあるビジネス開発マネージャーを経験。"
         },
         {
           "id": "evgeniyIvasko",
           "linkedIn": "https://www.linkedin.com/in/evgeniy-ivashko-54680736/",
           "avatar": "./assets/img/landing/team/team6.png",
           "name": "Evgeniy<br>Ivashko",
-          "jobTitle": "Senior Software Engineer",
+          "jobTitle": "シニアソフトウェアエンジニア",
           "description": "The guru of code, creating solutions we are proud to share and users are happy to explore. Evgeniy has lots of experience in his field and worked previously at Digital Screens LLC."
         },
         {
@@ -830,24 +830,24 @@
           "linkedIn": "https://www.linkedin.com/in/dima-medvedchuk-10726b124/",
           "avatar": "./assets/img/landing/team/team7.png",
           "name": "Dima<br>Medvedchuk",
-          "jobTitle": "Software Engineer",
-          "description": "A passionate developer working to create the SocialMedia.Market platform with all the awesome features and functionality. Worked previously at Innovecs."
+          "jobTitle": "ソフトウェアエンジニア",
+          "description": "SocialMedia.Marketプラットフォームを作成する熱心な開発者です。"
         },
         {
           "id": "alexanderGrechanyk",
           "linkedIn": "https://www.linkedin.com/in/alexander-grechanyk-6bab98121/",
           "avatar": "./assets/img/landing/team/team8.png",
           "name": "Alexander<br>Grechanyk",
-          "jobTitle": "Art Director",
-          "description": "Creative problem-solver, experienced in turning ideas into the gorgeous design. Alexander worked previously at Evoplay and knows what the audience likes best."
+          "jobTitle": "アートディレクター",
+          "description": "アイデアをゴージャスなデザインに変えてきた創造的なソーシャルメディア「SocialMedia.Marketの心と魂」"
         },
         {
           "id": "maxShevchenko",
           "linkedIn": "https://www.linkedin.com/in/max-shevchenko-5176a562/",
           "avatar": "./assets/img/landing/team/team9.png",
           "name": "Max<br>Shevchenko",
-          "jobTitle": "UI/UX Designer",
-          "description": "Max Shevchenko is the person that makes SocialMedia.Market enjoyable, intuitive and easy-to-use. He previously worked as a UI-UX designer for Lucky Labs."
+          "jobTitle": "UI/UXデザイナー",
+          "description": "直感的で使いやすいSocialMedia.Marketを作った人やSocialMedia.Marketについて何か読んだことがありますか？ それは、Yehorがやっています。"
         },
         {
           "id": "takaSuphler",
@@ -855,15 +855,15 @@
           "avatar": "./assets/img/landing/team/team10.png",
           "name": "Taka<br>Suphler",
           "jobTitle": "Senior Frontend Engineer",
-          "description": "Taka is the front-end professional, creating the platform the way you see it. His previous experience includes working for BNP Paribas and British American Tabacoo."
+          "description": "プラットフォームの作成方法。"
         },
         {
           "id": "nikolayKravchenko",
           "linkedIn": "https://www.linkedin.com/in/nick-kravchenko/",
           "avatar": "./assets/img/landing/team/team11.png",
           "name": "Nikolay<br>Kravchenko",
-          "jobTitle": "Frontend Engineer",
-          "description": "Nikolay is a front-end expert, who brings gorgeous design to live. His previous experience includes also working as a full-stack developer for Fruitfulcode."
+          "jobTitle": "フロントエンジニア",
+          "description": "豪華なデザインを活かす。"
         },
         {
           "id": "yanBondarenko",
@@ -871,95 +871,95 @@
           "avatar": "./assets/img/landing/team/team12.png",
           "name": "Yan<br>Bondarenko",
           "jobTitle": "Automation Engineer",
-          "description": "Yan is the one who is responsible for automation of all the processes on the platform. His previous experience includes working for Innovecs and Smile Expo."
+          "description": "プラットフォーム上のすべてのプロセスを自動化する。"
         },
         {
           "id": "nikitaMedvedev",
           "linkedIn": "https://www.linkedin.com/in/nikita-medvedev-sjfenix/",
           "avatar": "./assets/img/landing/team/team13.png",
           "name": "Nikita<br>Medvedev",
-          "jobTitle": "Head of SEO",
-          "description": "Experienced Head of Search Engine Optimization with a demonstrated history of working in the information technology and services industry. Previous occupation - Universal Commerce Group."
+          "jobTitle": "SEO責任者",
+          "description": "検索エンジン最適化の経験豊富なリーダー、情報技術とサービス業界で働いている実証済みの経歴があります。"
         },
         {
           "id": "alexeyIgnatov",
           "linkedIn": "https://www.linkedin.com/in/alexey-ignatov-bb053271/",
           "avatar": "./assets/img/landing/team/team14.png",
           "name": "Alexey<br>Ignatov",
-          "jobTitle": "Marketing Lead",
-          "description": "Alexey believes that there is nothing impossible once you give it a try. Previous experience includes working for TemplateMonster.com and Web Sun Group."
+          "jobTitle": "マーケティングリーダー",
+          "description": "マーケティングの主、広告の天才。Alexeyは、やって出来ないことは無いと信じています。"
         },
         {
           "id": "maksymKrupets",
           "linkedIn": "https://www.linkedin.com/in/maksym-krupets-7a2b12102/",
           "avatar": "./assets/img/landing/team/team15.png",
           "name": "Maksym<br>Krupets",
-          "jobTitle": "Head of PPC",
-          "description": "Driving traffic to SocialMedia.Market. Have you seen our ads? Maksym knows how to increase ROI and get maximum return. His previous occupation - Universal Commerce Group."
+          "jobTitle": "PPC責任者",
+          "description": "Social Media.Marketへのトラフィックを促進する私たちの広告を見たことがありますか？ Social Media.Marketへのトラフィックを促進する私たちの広告を見たことがありますか？"
         },
         {
           "id": "yevhenPylypenko",
           "linkedIn": "https://www.linkedin.com/in/yevhen-pylypenko-33198b116/",
           "avatar": "./assets/img/landing/team/team16.png",
           "name": "Yevhen<br>Pylypenko",
-          "jobTitle": "Media Buyer",
-          "description": "The person that makes SocialMedia.Market seen across the web, reaching various digital media. Has extensive media-buying experience and worked previously at Qoderoom."
+          "jobTitle": "メディアバイヤー",
+          "description": "SocialMedia.Marketのウェブすべてを作った人です。"
         },
         {
           "id": "zlataTkachenko",
           "linkedIn": "https://www.linkedin.com/in/zlata-tkachenko-497412152/",
           "avatar": "./assets/img/landing/team/team17.png",
           "name": "Zlata<br>Tkachenko",
-          "jobTitle": "Customer Support Specialist",
-          "description": "Got a problem or have a question? Ask Zlata. She knows all about SocialMedia.Market and would be happy to provide all the answers and share her experience with you."
+          "jobTitle": "カスタマーサポート担当",
+          "description": "問題や質問がある場合、Zlataまでお願いします。"
         },
         {
           "id": "alexanderGorbach",
           "linkedIn": "https://www.linkedin.com/in/alexandr-gorbach-97580014b/",
           "avatar": "./assets/img/landing/team/team18.png",
           "name": "Alexandr<br>Gorbach",
-          "jobTitle": "Customer Support Specialist",
-          "description": "Experienced customer support manager to help you with any issues. Previously worked for Nameringoo, a part of Fozzy group. The best person to handle any project-related question."
+          "jobTitle": "カスタマーサポート担当",
+          "description": "経験豊富なカスタマーサポートマネージャーで、いかなる問題も解決できます。"
         },
         {
           "id": "olegOliynik",
           "linkedIn": "https://www.linkedin.com/in/oleg-oliynyk-77381114b/",
           "avatar": "./assets/img/landing/team/team19.png",
           "name": "Oleg<br>Oliynyk",
-          "jobTitle": "Customer Support Specialist",
-          "description": "Oleg knows everything about SocialMedia.Market and is always happy to answer all the questions. Well-versed in influencer marketing and blockchain problematics."
+          "jobTitle": "カスタマーサポート担当",
+          "description": "OlegはSocialMedia.Marketについてすべてを知っており、いつでも質問に答えられる"
         },
         {
           "id": "ivanBabiuk",
           "linkedIn": "https://www.linkedin.com/in/ivan-babiuk-06a429152/",
           "avatar": "./assets/img/landing/team/team20.png",
           "name": "Ivan<br>Babiuk",
-          "jobTitle": "Junior Media Buyer",
-          "description": "A junior media-buying specialist with a huge promise of a bright future ahead. Delivers SocialMedia.Market messages right on your screen in front of your eyes. "
+          "jobTitle": "ジュニアメディアバイヤー",
+          "description": "ジュニアメディアバイヤーは、明るい将来が約束されます。"
         },
         {
           "id": "nikNovik",
           "linkedIn": "https://www.linkedin.com/in/nik-novik-ab2139149/",
           "avatar": "./assets/img/landing/team/team21.png",
           "name": "Nik<br>Novik",
-          "jobTitle": "Senior Media Buyer",
-          "description": "Nik has extensive media-buying experience and understanding of both blockchain and influencer advertising markets, managing the team of professionals and delivering the desired results. "
+          "jobTitle": "シニアメディアバイヤー",
+          "description": "メディアの多くは彼の多くのテクニックにより手中にあり"
         },
         {
           "id": "tatianaSapa",
           "linkedIn": "https://www.linkedin.com/in/tatiana-sapa-848530146/",
           "avatar": "./assets/img/landing/team/team22.png",
           "name": "Tatiana<br>Sapa",
-          "jobTitle": "SEO Expert",
-          "description": "The wizard of search engine optimization who does all the magic. Worked previously for SEO-Studio and rabota.ua. Knows all about the optimization and is always ready to apply his skills."
+          "jobTitle": "SEOエキスパート",
+          "description": "そのマジックで検索エンジンは最適化する。"
         },
         {
           "id": "viktorAndes",
           "linkedIn": "https://www.linkedin.com/in/andesviktor/",
           "avatar": "./assets/img/landing/team/team23.png",
           "name": "Viktor<br>Andes",
-          "jobTitle": "Marketing Expert",
-          "description": "The lord of marketing, a genius of advertising. Victor is always ready to explore new horizons and test his skills, seeking the best opportunities for the company."
+          "jobTitle": "マーケティングエキスパート",
+          "description": "マーケティングの主であり、広報の天才。"
         },
         {
           "id": "yehorSklyarov",
@@ -974,61 +974,61 @@
           "linkedIn": "https://www.linkedin.com/in/maksim-kovalenko-509350148/",
           "avatar": "./assets/img/landing/team/team25.png",
           "name": "Maksim<br>Kovalenko",
-          "jobTitle": "Back End Developer",
-          "description": "Marsim is our Back End engineer, the one operating behind the scenes, making SocialMedia.Market work perfectly and ensuring that all the data is delivered swiftly. "
+          "jobTitle": "バックエンド開発者",
+          "description": "裏で動作しているSocialMedia.Marketを動かし、すべてのデータが確実に配信されるようにします。. "
         },
         {
           "id": "yuriiKovalenko",
           "linkedIn": "https://www.linkedin.com/in/yurii-kovalenko-4a581614b/",
           "avatar": "./assets/img/landing/team/team26.png",
           "name": "Yurii<br>Kovalenko",
-          "jobTitle": "Quality Assurance Engineer",
-          "description": "Yurii is catching bugs and making everything work smoothly, ensuring that the code is perfect, while the platform provides a superior experience for all users."
+          "jobTitle": "品質管理者",
+          "description": "不具合を捕らえ、スムーズに動作させる。"
         },
         {
           "id": "alexKobizhskyj",
           "linkedIn": "",
           "avatar": "./assets/img/landing/team/team27.png",
           "name": "Alex<br>Kobizhskyj",
-          "jobTitle": "Customer Support Specialist",
-          "description": "Alex is a communications prodigy. He is always happy to share his knowledge about SocialMedia.Market. So join our channels and don't hesitate to ask."
+          "jobTitle": "カスタマーサポート担当",
+          "description": "SocialMedia.Marketについての知識を共有することは常に幸せであり、ためらうことはありません。"
         },
         {
           "id": "oksanaPodkamennay",
           "linkedIn": "",
           "avatar": "./assets/img/landing/team/team28.png",
           "name": "Oksana<br>Podkamennay",
-          "jobTitle": "Financial officer",
-          "description": "Oksana is an experienced financial officer managing the financial part of the project. She is the one who counts the budgets for the SocialMedia.Market team limitless ideas."
+          "jobTitle": "会計",
+          "description": "SocialMedia.Marketチームの無限のアイデアの予算を数える人。"
         },
         {
           "id": "dmitriyKuzmin",
           "linkedIn": "https://www.linkedin.com/in/dmitriy-kuzmin-94b593157/",
           "avatar": "./assets/img/landing/team/team29.png",
           "name": "Dmitriy<br>Kuzmin",
-          "jobTitle": "Customer Support Specialist",
-          "description": "Dmitry is fanatic cryptocurrency mining fanatic, gathering farms with friends. He is also an always ready-to-help support manager who can answer any question about the project."
+          "jobTitle": "カスタマーサポート担当",
+          "description": "マイナーと常に準備ができているサポートマネージャー。"
         },
         {
           "id": "romanBuriy",
           "linkedIn": "https://www.linkedin.com/in/roman-buriy-6360a0157/",
           "avatar": "./assets/img/landing/team/team30.png",
           "name": "Roman<br>Buriy",
-          "jobTitle": "Customer Support Specialist",
-          "description": "Making sure that you're getting excellent customer experience at SocialMedia.Market. Reach out to get an answer to any question, or a solution to any issue."
+          "jobTitle": "カスタマーサポート担当",
+          "description": "あなたは優れた顧客体験を得るでしょう。."
         },
         {
           "id": "bogdanMoroz",
           "linkedIn": "https://www.linkedin.com/in/ba-mz/",
           "avatar": "./assets/img/landing/team/team31.png",
           "name": "Bogdan<br>Moroz",
-          "jobTitle": "Python developer",
-          "description": "Bogdan is our very own snake-talker. Creates neat code lines in the Python language. The one dedicated to the SocialMedia.Market platform development."
+          "jobTitle": "Python開発者",
+          "description": "スネイクトーカー。 Python言語できれいなコードを作成します。"
         }
       ]
     },
     "ourAdvisors": {
-      "sectionTitle": "Our advisors",
+      "sectionTitle": "私達のアドバイザー",
       "advisorsList": [
         {
           "id": "keithTeare",
@@ -1040,8 +1040,8 @@
               "link": "http://linkedin.com/in/kteare/"
             }
           ],
-          "position": "Executive Chair Accelerated Digital Ventures",
-          "description": "Keith Teare recently advised on the successful ICOs of ICOBox (4000 BTC) and Crypterium ($51mln+). Previously he was a founder of TechCrunch and the first consumer Internet Service Provider in Europe - EasyNet.",
+          "position": "エグゼクティブチェア　英国のベンチャー企業Accelerated Digital Ventures",
+          "description": "Keith Teareは、最近、ICOBox（4000 BTC）とクリプテリウム（5千万ドル）の成功したICOについてアドバイスしました。 以前は、TechCrunchの創設者であり、ヨーロッパで初めてのインターネットサービスプロバイダでもありました（EasyNet）。 EasyNetとRealNamesはどちらも1990年代後半にUnicornの地位を獲得しました。",
           "logos": [
             {
               "alt": "",
@@ -1060,8 +1060,8 @@
               "link": "https://www.linkedin.com/in/andrewplayford/"
             }
           ],
-          "position": "Senior Vice President of Operations at Sonic Foundry, Inc ",
-          "description": "Prior to Sonic Foundry, Andrew ran operations for Think New Ideas, another NASDAQ listed company that acquired and combined digital marketing and web development companies. Think New Ideas was ultimately acquired for more than $250mm.",
+          "position": "Sonic Foundry、Inc　副社長",
+          "description": "Sonic Foundryの前は、デジタルマーケティングとウェブ開発会社を買収し合併したナスダックに上場しているThink New Ideasの事業を運営していました。 Think New Ideasは最終的に$ 250mm以上で買収されました。.",
           "logos": [
             {
               "alt": "",
@@ -1080,8 +1080,8 @@
               "link": "https://www.facebook.com/tatsunari.ono.1?ref=br_rs/"
             }
           ],
-          "position": "CEO, Value Brain Co., Ltd. (Japan) <br/> CEO, Beducate.ltd (Hong Kong)",
-          "description": "Businessman who is actively engaged in investment activities in real estate, equity, Airbnb operations as well as cryptocurrency. He held Tokyo meetups of well-known cryptocurrency firms such as NEO, LISK, Quantum and Ardor.",
+          "position": "CEO, Value Brain Co., Ltd. (日本) <br/> CEO, Beducate.ltd (香港)<br/>Author ” Worries Make Money ” Kadokawa Foresta",
+          "description": "不動産、株式、エアバンブオペレーション、および暗号違反で投資活動に積極的に従事するビジネスマン。NEO、LISK、Quantum、Ardorなどの有名な暗号化企業の東京ミートアップを開催しました。",
           "logos": [
             {
               "alt": "",
@@ -1101,7 +1101,7 @@
             }
           ],
           "position": "Tax Manager & Advisor for Nokia Canada & Support for Nokia Chile",
-          "description": "Fintech entrepreneur-Advisor. Founder of MobileyourLife and involved in the AI-Fintech space providing solutions in the B2B space. ICO advisory in Fundraising Capital and International Business Development.",
+          "description": "Fintech起業家アドバイザー。 Mobileyour Lifeの創始者であり、B-2 B空間にソリューションを提供するAI-Fintech空間に携わっています。 資金調達資本および国際ビジネス開発におけるICOアドバイザー。",
           "logos": [
             {
               "alt": "",
@@ -1121,7 +1121,7 @@
             }
           ],
           "position": "Co-Founder, ICOBox",
-          "description": "Marketing, PR & communications specialist with 10+ years of experience. Having joined blockchain industry nearly two years ago, worked as a consultant to Argon Group and helped launch ICO platform Cryptonomos.",
+          "description": "10年以上のマーケティング経験、PR＆コミュニケーションの専門家。 約2年前にブロックチェーン産業に加わり、Argon Groupのコンサルタントとして働き、ICOプラットフォームCryptonomosの立ち上げを支援しました。",
           "logos": [
             {
               "alt": "",
@@ -1140,8 +1140,8 @@
               "link": "https://www.linkedin.com/in/chafikabdellaouiacbmc/"
             }
           ],
-          "position": "Entrepreneur, the founder ACBMC, Bizzant, and XEDYAS IT HYBRID SOLUTIONS.",
-          "description": "The person behind G2A explosive growth, as well as contributor to Mobile Go ICO success. Chafik is an accomplished business development professional with an extensive experience in eCommerce, gaming and electronic payments.",
+          "position": "起業家にして創業者　ACBMC、Bizzant、および XEDYAS IT HYBRID SOLUTIONS",
+          "description": "G2Aの背後で爆発的な成長を遂げただけでなく、Mobile Go ICOの成功に貢献しました。 Chaficは、電子商取引、ゲーム、電子決済に関する豊富な経験を持つ熟練したビジネス開発専門家です。",
           "logos": [
             {
               "alt": "",
@@ -1160,8 +1160,8 @@
               "link": "https://www.linkedin.com/in/peter-zhalov-35149225/"
             }
           ],
-          "position": "Former VP Marketing & Advertising Wargaming.net, eSports and blockchain enthusiast",
-          "description": "Experienced Chief Executive Officer, Marketer and Business Development professional with a demonstrated history of working in the computer games industry. Skilled in eSports, Blockchain, and Advertising.",
+          "position": "Wargaming.netの元VPマーケティング＆広告担当、eSportsとブロックチェーン愛好家",
+          "description": "コンピュータゲーム業界で働く実績のある、マーケティング担当者およびビジネス開発担当の最高執行役員。 eSports、Blockchain、Advertisingに熟練しています。",
           "logos": [
             {
               "alt": "",
@@ -1180,8 +1180,8 @@
               "link": "https://www.linkedin.com/in/dima-zaitsev/"
             }
           ],
-          "position": "Head of International PR & Business Analytics Department Chief at ICOBox",
-          "description": "2017 Dima became interested in blockchain and cryptocurrencies and started conducting limited-scope market research. He has his own columns on several Media Outlets in the U.S. including FXStreet.com, CoinSpeaker.com, and others.",
+          "position": "Head of International PR & Business Analytics Department Chief, ICOBox",
+          "description": "2017年Dimaはブロックチェインとクリプトクロスに関心を持ち、限られた範囲の市場調査を開始した。 彼は、FXStreet.com、CoinSpeaker.comなど、米国のいくつかのメディアアウトレットに独自のコラムを持っています。",
           "logos": [
             {
               "alt": "",
@@ -1200,8 +1200,8 @@
               "link": "https://www.linkedin.com/in/alex-yastremski-b1889514/"
             }
           ],
-          "position": "Legal Counsel San Francisco, California Blockchain regulatory/compliance expert",
-          "description": "General counsel at Bitfury Group Ltd <br/> Fintech counsel Bingham McCutchen LLP",
+          "position": "法律顧問<br>カリフォルニア州サンフランシスコ<br>ブロックチェーンの規制/コンプライアンスの専門家<br>BitfuryGroupLtdの法律顧問<br>Fintech弁護士Bingham McCutchen LLP",
+          "description": "Bitfury Group Ltdジェネラルカウンセル <br/> Fintech counsel Bingham McCutchen LLP",
           "logos": [
             {
               "alt": "",
@@ -1220,8 +1220,8 @@
               "link": "https://www.linkedin.com/in/slavik-nenaydokh-7785492/"
             }
           ],
-          "position": "COO, Centuria Natural Foods San Francisco, CA",
-          "description": "Head of M&A Emerging Markets, Exigen Capital <br/> Principal, Delphi Software International",
+          "position": "Centuria Natural Foods 、COO",
+          "description": "サンフランシスコ、カリフォルニア州<br>M＆Aエマージング市場代表、Exigen Capital<br>Delphi Software International Principal",
           "logos": [
             {
               "alt": "",
@@ -1233,54 +1233,54 @@
       ]
     },
     "howItWorks": {
-      "sectionTitle": "How it works?",
-      "sectionDescription": "SocialMedia.Market will create a global marketplace for Advertisers and Influencers among every major social network, providing convenient and transparent tools for the interaction of any party involved. For maintaining commercial relationships between participants, SocialMedia.Market will use Blockchain technology to simplify integration, reduce fraud and costs for all market participants.",
-      "descriptionLeft": "No entry barrier for content monetization for influencer of any kind",
-      "descriptionRight": "Unlimited access to influencers all over the world for advertisers",
-      "tryOurPlatform": "try our platform"
+      "sectionTitle": "どのように使用されるか？",
+      "sectionDescription": "SocialMedia.Marketは、関係当事者の相互作用のための便利かつ明瞭なツールを提供し、すべての主要なソーシャルネットワークの中で広告主やインフルエンサーのためのグローバル市場を作成します。 参加者間の取引関係を維持するため、SocialMedia.Marketはブロックチェーン技術を使用して、それら統合を簡素化し、すべての市場参加者の不正行為やコストを削減します。",
+      "descriptionLeft": "どのような種類のインフルエンサーにとってもコンテンツの収益化の障壁はありません。",
+      "descriptionRight": "世界中のインフルエンサーに無制限にアクセスする広告主。",
+      "tryOurPlatform": "プラットフォームを試す"
     },
     "tokenFunctionality": {
-      "sectionTitle": "Token Functionality",
-      "sectionDescription": "SocialMedia.Market’s core functionality will be maintained by a utility token - Social Media Token (SMT).<br>Every platform activity will require SMTs to ensure transactions, campaign or contract creation and data validity."
+      "sectionTitle": "トークン機能",
+      "sectionDescription": "SocialMedia.Marketの機能は、ソーシャルメディアトークン（SMT）のユーティリティトークンによって維持されます。すべてのプラットフォーム活動は、取引、キャンペーンまたは契約の作成およびデータの妥当性を保証するためにSMTを必要とします。"
     },
     "roadmap": {
-      "sectionTitle": "Roadmap",
-      "sectionDescription": "The SocialMedia.Market roadmap focuses on the development of the technology, operations infrastructure,<br>new partnerships, and marketing initiatives.",
+      "sectionTitle": "ロードマップ",
+      "sectionDescription": "SocialMedia.Marketロードマップは、技術、運用インフラストラクチャ、新しいパートナーシップ、マーケティングイニシアチブの開発に重点を置いています。",
       "points": [
         {
-          "title": "SINCE 2015",
+          "title": "2015年より",
           "color": "#513d78",
-          "description": "Еngaged in Influencer Marketing for own projects"
+          "description": "自プロジェクトのインフルエンサーマーケティング"
         },
         {
-          "title": "EARLY 2016",
+          "title": "2016年初頭",
           "color": "#513d78",
-          "description": "Founded Digital Marketing agency"
+          "description": "デジタルマーケティングエージェンシー設立"
         },
         {
-          "title": "Q2 2017",
+          "title": "Q2 2017年",
           "color": "#0f7cbd",
-          "description": "Created SocialMedia.Market concept"
+          "description": "SocialMedia.Marketコンセプトの作成"
         },
         {
-          "title": "7 DEC 2017",
+          "title": "2017年　12月7日",
           "color": "#f23db0",
           "description": "Token sale<strong>Phase 1</strong>"
         },
         {
-          "title": "FEB 2018",
+          "title": "2018年　2月",
           "color": "#138796",
-          "description": "Launch of <strong>SocialMedia.Market</strong> Beta"
+          "description": "SocialMedia.Marketベータ版"
         },
         {
-          "title": "9 FEB 2018",
+          "title": "2018年　2月9日",
           "color": "#f23db0",
-          "description": "Token sale<strong>Phase 2</strong>"
+          "description": "トークンセールフェーズ２"
         },
         {
-          "title": "Q3 2018",
+          "title": "Q3 2018年",
           "color": "#0fcd9c",
-          "description": "<strong>Platform release fou US, UK, CIS markets</strong> Engaging brands and agencies with marketing budgets over $10M"
+          "description": "US、UK、CIS市場へのプラットフォーム提供"
         },
         {
           "title": "Q1 - Q2 2019",
@@ -1288,50 +1288,50 @@
           "description": "Brand awareness active phase <strong>Worlwide Launch</strong>"
         },
         {
-          "title": "Q1 2020",
+          "title": "Q1 2020年",
           "color": "#15d78e",
-          "description": "Engaging brands and agencies with marketing budgets over $63,7M"
+          "description": "1,000万ドル以上のマーケティングの代理店事業"
         }
       ]
     },
     "useOfFunds": {
-      "sectionTitle": "Use of funds",
-      "sectionDescription": "The funds raised through the token sale campaign will be allocated for all SocialMedia.Market platform features available for all ecosystem participants, as well as strong marketing support for fast growth in the number of the platform users, and simplification of the process of getting used to the new tools for advertisers and bloggers."
+      "sectionTitle": "資金使用用途",
+      "sectionDescription": "トークンセールを通じて調達された資金は、すべてのシステム参加者が利用できるすべてのSocialMedia.Marketプラットフォーム機能に割り当てられます。また、プラットフォームユーザー数の急速な増加に対する強力なマーケティングサポートと、慣れ親しんだプロセスの簡素化 広告主とブロガーのための新しいツールなども対象です。"
     },
     "tokenDistribution": {
-      "sectionTitle": "Token distribution",
-      "sectionDescription": "Social Media Tokens (SMTs) will be issued as ERC20 compatible tokens. Based on total amount of tokens, 15% more tokens will be issued for platform core functionality and team (6 month of vesting period), and 5% for partners and advisors. This will form the total amount of SMTs ever issued."
+      "sectionTitle": "トークン配布",
+      "sectionDescription": "ソーシャルメディアトークン（SMT）はERC20互換トークンとして発行されます。 トークンの合計額に基づいて、プラットフォームの機能とチーム（6ヶ月の権利確定期間）に対して15％のトークンが発行され、パートナとアドバイザには5％のトークンが発行されます。 これにより、今までに発行されたSMTの合計額が形成されます。"
     },
     "tokenSale": {
       "sectionTitle": "Token sale <small>Phase 2</small>",
-      "startDate": "Start Date:",
-      "startDateValue": "9 February 2018 12:00 PM GMT (1:00 pm CET)",
-      "endDate": "END DATE:",
-      "endDateValue": "16 March 2018 12:00 PM GMT (1:00 pm CET)",
-      "presale": "PRESALE:",
-      "presaleValue": "2-9 February 2018 12:00 PM GMT (1:00 pm CET)",
-      "minimalGoal": "MINIMAL GOAL:",
-      "minimalGoalValue": "REACHED DURING PRE-ICO",
-      "phaseHardCap": "PHASE HARD CAP:",
+      "startDate": "開始日:",
+      "startDateValue": "2018年2月9日　 12:00 PM GMT (1:00 pm CET)",
+      "endDate": "終了日:",
+      "endDateValue": "2018年3月16日　12:00 PM GMT (1:00 pm CET)",
+      "presale": "プレセール:",
+      "presaleValue": "2018年2月２～9日　12:00 PM GMT (1:00 pm CET)",
+      "minimalGoal": "最低の成功額:",
+      "minimalGoalValue": "プレICOで達成",
+      "phaseHardCap": "最低の成功額:",
       "phaseHardCapValue": "16 000 ETH",
-      "tokenExchangeRate": "TOKEN EXCHANGE RATE:",
+      "tokenExchangeRate": "トークン交換レート:",
       "tokenExchangeRateValue": "1 ETH = 2500 SMTs",
-      "minimumContributionAmount": "Minimum contribution amount:",
+      "minimumContributionAmount": "最低購入数:",
       "minimumContributionAmountValue": "0,1 ETH / 250 SMTs",
-      "maximumContributionAmount": "Maximum contribution amount:",
+      "maximumContributionAmount": "最高購入数:",
       "maximumContributionAmountValue": "300 ETH",
-      "contributionMethods": "Contribution<br>methods:",
+      "contributionMethods": "購入方法:",
       "contributionMethodsValue": "ETH, BTC, XRP, BCH, DASH, DOGE, ETC, NEO, XMR, ZEC",
       "footer": {
-        "title": "Earn 5% in Social Media Tokens",
-        "subtitle": "From every investment attracted via your referral link",
-        "joinReferralProgram": "Join Referral Program",
-        "learnMore": "Learn More"
+        "title": "Social Media Tokens　5％加算",
+        "subtitle": "リファラリンクを介して紹介されたすべての投資から",
+        "joinReferralProgram": "リファラプログラムに参加する",
+        "learnMore": "もっと詳しく知る"
       }
     },
     "media": {
-      "sectionTitle": "Media about socialmedia.market",
-      "moreMedia": "More media",
+      "sectionTitle": "socialmedia.marketについてのメディア",
+      "moreMedia": "その他のメディア",
       "lessMedia": "Less media",
       "mediaList": [
         {

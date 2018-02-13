@@ -1,5 +1,5 @@
 {
-  "lang": "en",
+  "lang": "id",
   "links": {
     "termsAndConditions": "Terms & conditions",
     "privacyPolicy": "Privacy policy",
@@ -12,28 +12,28 @@
     "commitWith5bonus": "Join pre-ico with 5% bonus",
     "commitWith3bonus": "Join pre-ico with 3% bonus",
     "commit": "Join ico",
-    "tokenSale": "Token sale",
+    "tokenSale": "Penjualan Token",
     "whitepaper": "Whitepaper",
-    "documents": "Documents",
+    "documents": "Dokumen",
     "stateOfMarket": "State of market",
     "howItWorks": "How it works",
     "tokenDistribution": "Token distribution",
     "roadmap": "Roadmap",
     "media": "Media",
-    "ourTeam": "team",
+    "ourTeam": "TIM",
     "about": "about",
     "myProfile": "My profile",
     "myAccount": "My account",
     "mainPage": "Main page",
     "community": "Community",
     "logout": "Logout",
-    "signin": "Sign in",
+    "signin": "masuk",
     "cryptoKittie": "Kitty giveaway",
     "signUpAndSubscribe": "Join pre-sale with 20% bonus",
     "tryBeta": "Beta platform",
     "tryPlatformBeta": "Try platform beta",
-    "joinTokenSale": "Join token sale",
-    "buyTokens": "Buy tokens",
+    "joinTokenSale": "bergabung dengan penjualan token",
+    "buyTokens": "BELI TOKEN",
     "shorter": "Shorter",
     "whitePaper": "White paper",
     "smartContract": "Smart contract"
@@ -44,24 +44,24 @@
     "joinNow": "Join now"
   },
   "countdown": {
-    "title": "Token presale <span>ends in</span>",
+    "title": "Penjualan Token <span>BERAKHIR DALAM</span>",
     "preICO": "PRE-ICO IS LIVE!",
     "preIcoStartsIn": "ICO Pre-sale starts in",
     "icoStartsIn": "ICO starts <b>february 9</b>",
-    "icoStarted": "Token sale live!",
+    "icoStarted": "Penjualan token sedang berlangsung!",
     "tokenSaleIsOpen": "Public token sale<br> is open now!",
-    "days": "Days",
-    "hours": "Hours",
-    "minutes": "Minutes",
-    "seconds": "Seconds",
+    "days": "Hari",
+    "hours": "Jam",
+    "minutes": "menit",
+    "seconds": "detik",
     "bonus%%%EndsIn": "Bonus %%% ends in"
   },
   "documents": {
     "heading": "Documents",
     "documents": [
       {
-        "id": "SMM_Shorter",
-        "title": "Shorter",
+        "id": "SMM_Singkat",
+        "title": "Singkat",
         "languages": [
           "eng",
           "rus"
@@ -69,7 +69,7 @@
       },
       {
         "id": "SMM_White-Paper",
-        "title": "White paper",
+        "title": "whitepaper",
         "languages": [
           "eng",
           "rus"
@@ -103,7 +103,7 @@
       "choosePaymentMethod": "Please, choose payment method"
     },
     "subscribe": {
-      "title": "Join token sale",
+      "title": "bergabung dengan penjualan token",
       "description": "Please, enter your email below to receive notification about the start of the Social Media Token sale",
       "email": "Email",
       "name": "Name",
@@ -155,45 +155,45 @@
     }
   },
   "firstScreen": {
-    "heading": "Monetize your influence",
+    "heading": "monetisasi pengaruh anda",
     "subheading": "Decentralised influencer advertising marketplace",
-    "joinTokenSale": "Join token sale",
-    "projectRatings": "Project ratings",
+    "joinTokenSale": "bergabung dengan penjualan token",
+    "projectRatings": "Peringkat proyek",
     "subscribe": "Subscribe to news",
-    "description": "Our community",
+    "description": "KOMUNITAS KAMI",
     "joinPresale": "Join presale now",
     "technicalPartner": "Technical partner",
     "mediaPartner": "Media partner",
     "joinBounty": "Join<br> bounty <span>campaign</span>",
     "backers": "Backers",
-    "tokenSold": "Tokens sold during pre-ico",
-    "fundsRaised": "Funds raised",
-    "ourPartners": "Our partners",
-    "projectInfo": "Project info",
-    "referralProgram": "Referral program",
+    "tokenSold": "TOKENS SOLD DURING PRE-ICO",
+    "fundsRaised": "DANA DIKUMPULKAN",
+    "ourPartners": "MITRA KAMI",
+    "projectInfo": "INFO PROYEK",
+    "referralProgram": "PROGRAM REFERRAL",
     "bountyCampaign": "Bounty campaign",
     "betaProduct": "Beta platform",
     "USAResidentsCannotParticipate": "USA citizens and residents are not allowed to participate",
-    "softCapReached": "Soft cap reached"
+    "softCapReached": "SOFT CAP TERCAPAI!"
   },
   "landing":{
     "about": {
       "first": {
-        "title": "The first decentralized marketplace connecting <strong>social media bloggers</strong> and advertisers",
-        "description": "Solving major influencer marketing problems SocialMedia.Market will create new opportunities for content monetization, community engagement and audience exposure. New ecosystem, driven by blockchain technology and Social Media Token, will simplify marketing  interaction between business and influencers."
+        "title": "Marketplace pertama terdesentralisasi yang menghubungkan blogger sosial media dan pengiklan",
+        "description": "Memecahkan masalah pemasaran influencer utama SocialMedia.Market akan menciptakan peluang baru untuk konten monetisasi, keterlibatan masyarakat dan penghargaan penonton. Ekosistem baru, yang didorong oleh teknologi blockchain dan Social Media Token, akan mempermudah interaksi pemasaran antara pelaku bisnis dan influencer."
       },
       "second": {
         "title": "influencer marketing is the most cost effective stragegy for <strong>brands</strong>",
-        "description": "Research shows us, that 92% of consumers are more likely to trust a brand that advertises using Influencer Marketing. More over, it is more cost-effective than paid advertising and leads to more credible brand recommendations. For these reasons, Influencer Marketing has arguably became the most effective long term marketing strategy."
+        "description": "Penelitian menunjukkan kepada kita, bahwa 92% konsumen lebih cenderung mempercayai merek yang mengiklankan menggunakan Influencer Marketing. Terlebih lagi, ini lebih hemat biaya daripada iklan berbayar dan menghasilkan rekomendasi merek yang lebih kredibel. Untuk alasan ini, Influencer Marketing bisa dibilang menjadi strategi pemasaran jangka panjang yang paling efektif."
       },
       "actions": {
-        "readShorter": "Read shorter",
-        "checkWhitePaper": "Check white paper",
+        "readShorter": "baca lebih singkat",
+        "checkWhitePaper": "periksa whitepaper",
         "joinCommunity": "Join community"
       }
     },
     "videos": {
-      "sectionTitle": "Check Out Amazing Videos About Us",
+      "sectionTitle": "Periksa video menakjubkan tentang kami",
       "videosList": [
         {
           "id": "projectReviews",
@@ -462,8 +462,8 @@
           ]
         },
         {
-          "id": "bloggers",
-          "title": "Bloggers about the project",
+          "id": "Blogger",
+          "title": "Blogger tentang proyek",
           "videos": [
             {
               "channelName": "Brandon Kelly Crypto Trader",
@@ -539,7 +539,7 @@
         },
         {
           "id": "platform",
-          "title": "How the Platform Works?",
+          "title": "Bagaimana Platform Bekerja?",
           "videos": [
             {
               "channelName": "SocialMedia.Market",
@@ -635,7 +635,7 @@
         },
         {
           "id": "tokens",
-          "title": "How to buy tokens?",
+          "title": "Bagaimana cara membeli token?",
           "videos": [
             {
               "channelName": "SocialMedia.Market",
@@ -664,7 +664,7 @@
       "cardTitle": "The first blockchain based on influancer marketing?"
     },
     "partners": {
-      "sectionTitle": "Our partners",
+      "sectionTitle": "MITRA KAMI",
       "partnersList": [
         {
           "alt": "Civic",
@@ -694,35 +694,35 @@
         {
           "background": "./assets/img/landing/benefits/benefit1.png",
           "image": "./assets/img/landing/benefits/benefit1-bg.png",
-          "title": "Fraud Protected"
+          "title": "TERLINDUNG DARI PENIPUAN"
         },
         {
           "background": "./assets/img/landing/benefits/benefit2.png",
           "image": "./assets/img/landing/benefits/benefit2-bg.png",
-          "title": "Operational Costs Reduced"
+          "title": "MENURUNKAN BIAYA OPERASIONAL"
         },
         {
           "background": "./assets/img/landing/benefits/benefit3.png",
           "image": "./assets/img/landing/benefits/benefit3-bg.png",
-          "title": "Safe and Fast Transactions"
+          "title": "TRANSAKSI AMAN DAN CEPAT"
         },
         {
           "background": "./assets/img/landing/benefits/benefit4.png",
           "image": "./assets/img/landing/benefits/benefit4-bg.png",
-          "title": "Decentralized Dispute Solutions"
+          "title": "SOLUSI PERMASALAHAN TERDESENTRALISASI"
         },
         {
           "background": "./assets/img/landing/benefits/benefit5.png",
           "image": "./assets/img/landing/benefits/benefit5-bg.png",
-          "title": "Easy Global Payments"
+          "title": "PEMBAYARAN GLOBAL YANG MUDAH"
         },
         {
           "background": "./assets/img/landing/benefits/benefit6.png",
           "image": "./assets/img/landing/benefits/benefit6-bg.png",
-          "title": "Easy Engagements"
+          "title": "PERSYARATAN MUDAH"
         }
       ],
-      "joinTokenSale": "Join token sale"
+      "joinTokenSale": "bergabung dengan penjualan token"
     },
     "experts": {
       "sectionTitle": "<strong>Experts</strong> About <span class='market'>Socialmedia.market</span>",
@@ -730,50 +730,50 @@
         {
           "avatar": "./assets/img/landing/experts/chafik.png",
           "name": "Chafik Abdellaoui",
-          "status": "Entrepreneur, the founder ACBMC, Bizzant, and XEDYAS IT HYBRID SOLUTIONS.",
+          "status": "Pengusaha, pendiri ACBMC, Bizzant, dan XEDYAS IT HYBRID SOLUTIONS.",
           "company": "./assets/img/landing/experts/g2a.jpg",
-          "description": "Influencer marketing provides a huge opportunity for brands to deliver their messages to a broader audience. The blockchain technology provides regulation means for this blooming market, ensuring transparency and security for everyone involved."
+          "description": "Karena Esports sangat mengandalkan vloggers dan streamers, saya percaya bahwa ekosistem pemasaran influencer terorganisir akan menjadi titik baik bagi industri ini. SocialMedia.Market menciptakan sebuah kesempatan, seseorang tidak dapat mengabaikannya."
         },
         {
           "avatar": "./assets/img/landing/experts/david.png",
           "name": "David Meerman Scott",
-          "status": "bestselling author of The New Rules of Marketing and PR",
+          "status": "penulis buku terlaris The New Rules of Marketing and PR",
           "company": "",
-          "description": "Blockchain technology shows promise to finally bring transparency for brands that work with social influencers."
+          "description": "Teknologi blockchain menunjukkan harapan untuk akhirnya menghadirkan transparansi bagi merek yang bekerja dengan influencer sosial."
         },
         {
           "avatar": "./assets/img/landing/experts/werner.png",
           "name": "Werner Geyser",
-          "status": "Founder, Influencer Marketing Hub",
+          "status": "Pendiri, Influencer Marketing Hub",
           "company": "./assets/img/landing/experts/imh.jpg",
-          "description": "Influencer marketing provides a huge opportunity for brands to deliver their messages to a broader audience. With help of SocialMeida.Market blockchain technology will provide regulation means for this blooming market, ensuring transparency and security for everyone involved."
+          "description": "Pemasaran influensa memberikan kesempatan besar bagi merek untuk menyampaikan pesan mereka ke khalayak yang lebih luas. Dengan bantuan teknologi blockchain, SocialMeida.Market akan memberi peraturan bagi pasar berkembang ini, memastikan transparansi dan keamanan bagi semua orang yang terlibat."
         },
         {
           "avatar": "./assets/img/landing/experts/peter.png",
           "name": "Peter Zhalov",
           "status": "Former VP Marketing & Advertising at Wargaming.net",
           "company": "./assets/img/landing/experts/wargaming.jpg",
-          "description": "Today consumers use ad-blockers and ignore traditional digital advertisements. Influencer and eSports Marketing are becoming two most effective ways to reach Millenials and Generation Z audience. Socialmedia.market has the solution of creating a transparent marketplace for Influencer Marketing that we need."
+          "description": "Saat ini konsumen menggunakan ad-blocker dan mengabaikan iklan digital tradisional. Pengusaha Influencer dan eSports menjadi dua cara paling efektif untuk menjangkau audiens Millenials and Generation Z. Socialmedia.market punya solusinya menciptakan pasar transparan untuk Influencer Marketing yang kita butuhkan."
         },
         {
           "avatar": "./assets/img/landing/experts/alex.png",
           "name": "Alex Yastremski",
-          "status": "General counsel at Bitfury Group Ltd",
+          "status": "Nasihat umum di Bitfury Group Ltd",
           "company": "./assets/img/landing/experts/bitfury.jpg",
-          "description": "The project impressed me with its ambitious goals that could increase value for market participants and maximize sales for marketers. With the team’s expertise, this project can become a successful and effective all-in-one solution for digital advertising."
+          "description": "Proyek ini mengesankan saya dengan tujuan ambisiusnya yang dapat meningkatkan nilai bagi pelaku pasar dan memaksimalkan penjualan untuk pemasar Dengan keahlian tim, proyek ini bisa menjadi solusi all-in-one yang sukses dan efektif iklan digital.."
         },
         {
           "avatar": "./assets/img/landing/experts/slavik.png",
           "name": "Slavik Nenaydokh",
           "status": "Principal, Delphi Software International",
           "company": "",
-          "description": "SocialMedia.Market is wisely leveraging their know-how in a bid to enact social marketing change. I am humbled to participate in this vision with the SocialMedia.Market team and am looking forward to walking along side them throughout its stages of corporate maturity."
+          "description": "SocialMedia.Market secara bijak memanfaatkan pengetahuan mereka dalam upaya untuk memberlakukan perubahan pemasaran sosial. Saya rendah hati untuk berpartisipasi dalam visi ini dengan tim SocialMedia.Market dan saya melihat ke depan untuk berjalan di sepanjang mereka sepanjang tahapan kedewasaan perusahaan."
         }
       ]
     },
     "ourTeam": {
-      "sectionTitle": "Our team",
-      "sectionDesc": "31 members now involved in the project and we are hiring more marketing specialists, blockchain engineers and growing our development team. We are expecting to increase SocialMedia.Market team up to 70 people in the next 4 months.",
+      "sectionTitle": "Tim kami",
+      "sectionDesc": "31 anggota sekarang terlibat dalam proyek ini dan kami mempekerjakan lebih banyak spesialis pemasaran, insinyur blockchain dan menumbuhkan tim pengembangan kami. Kami mengharapkan untuk meningkatkan tim SocialMedia.Market hingga 70 orang dalam 4 bulan ke depan.",
       "fullTeam": "Full team",
       "hideFullTeam": "Hide full team",
       "teamList": [
@@ -839,7 +839,7 @@
           "avatar": "./assets/img/landing/team/team8.png",
           "name": "Alexander<br>Grechanyk",
           "jobTitle": "Art Director",
-          "description": "Creative problem-solver, experienced in turning ideas into the gorgeous design. Alexander worked previously at Evoplay and knows what the audience likes best."
+          "description": "Pemecah masalah kreatif, berpengalaman mengubah ide menjadi desain yang cantik"
         },
         {
           "id": "maxShevchenko",
@@ -847,7 +847,7 @@
           "avatar": "./assets/img/landing/team/team9.png",
           "name": "Max<br>Shevchenko",
           "jobTitle": "UI/UX Designer",
-          "description": "Max Shevchenko is the person that makes SocialMedia.Market enjoyable, intuitive and easy-to-use. He previously worked as a UI-UX designer for Lucky Labs."
+          "description": "Orang yang membuat SocialMedia.Market intuitif dan mudah digunakan"
         },
         {
           "id": "takaSuphler",
@@ -903,7 +903,7 @@
           "avatar": "./assets/img/landing/team/team16.png",
           "name": "Yevhen<br>Pylypenko",
           "jobTitle": "Media Buyer",
-          "description": "The person that makes SocialMedia.Market seen across the web, reaching various digital media. Has extensive media-buying experience and worked previously at Qoderoom."
+          "description": "Orang yang membuat SocialMedia.Market terlihat di seluruh web."
         },
         {
           "id": "zlataTkachenko",
@@ -911,7 +911,7 @@
           "avatar": "./assets/img/landing/team/team17.png",
           "name": "Zlata<br>Tkachenko",
           "jobTitle": "Customer Support Specialist",
-          "description": "Got a problem or have a question? Ask Zlata. She knows all about SocialMedia.Market and would be happy to provide all the answers and share her experience with you."
+          "description": "Punya masalah atau memiliki pertanyaan? Tanya Zlata. Dia tahu semua tentang SocialMedia.Market dan dengan senang hati memberikan semua jawaban dan menceritakan pengalamannya kepada Anda."
         },
         {
           "id": "alexanderGorbach",
@@ -919,7 +919,7 @@
           "avatar": "./assets/img/landing/team/team18.png",
           "name": "Alexandr<br>Gorbach",
           "jobTitle": "Customer Support Specialist",
-          "description": "Experienced customer support manager to help you with any issues. Previously worked for Nameringoo, a part of Fozzy group. The best person to handle any project-related question."
+          "description": "Manajer pendukung pelanggan berpengalaman untuk membantu Anda mengatasi masalah apa pun."
         },
         {
           "id": "olegOliynik",
@@ -927,7 +927,7 @@
           "avatar": "./assets/img/landing/team/team19.png",
           "name": "Oleg<br>Oliynyk",
           "jobTitle": "Customer Support Specialist",
-          "description": "Oleg knows everything about SocialMedia.Market and is always happy to answer all the questions. Well-versed in influencer marketing and blockchain problematics."
+          "description": "Oleg tahu segalanya tentang SocialMedia.Market dan selalu senang menjawab semua pertanyaan anda"
         },
         {
           "id": "ivanBabiuk",
@@ -943,7 +943,7 @@
           "avatar": "./assets/img/landing/team/team21.png",
           "name": "Nik<br>Novik",
           "jobTitle": "Senior Media Buyer",
-          "description": "Nik has extensive media-buying experience and understanding of both blockchain and influencer advertising markets, managing the team of professionals and delivering the desired results. "
+          "description": "Media-buying jedi dengan banyak trik di lengan bajunya"
         },
         {
           "id": "tatianaSapa",
@@ -951,7 +951,7 @@
           "avatar": "./assets/img/landing/team/team22.png",
           "name": "Tatiana<br>Sapa",
           "jobTitle": "SEO Expert",
-          "description": "The wizard of search engine optimization who does all the magic. Worked previously for SEO-Studio and rabota.ua. Knows all about the optimization and is always ready to apply his skills."
+          "description": "Penyihir optimisasi mesin pencari yang melakukan semua keajaiban"
         },
         {
           "id": "viktorAndes",
@@ -959,7 +959,7 @@
           "avatar": "./assets/img/landing/team/team23.png",
           "name": "Viktor<br>Andes",
           "jobTitle": "Marketing Expert",
-          "description": "The lord of marketing, a genius of advertising. Victor is always ready to explore new horizons and test his skills, seeking the best opportunities for the company."
+          "description": "Penguasa pemasaran, jenius dalam pengiklanan."
         },
         {
           "id": "yehorSklyarov",
@@ -967,7 +967,7 @@
           "avatar": "./assets/img/landing/team/team24.png",
           "name": "Yehor<br>Sklyarov",
           "jobTitle": "Content Writer",
-          "description": "Have you read anything about SocialMedia.Market? That's Yehor's doing. He worked previously as a journalist on a TV channel. now he's happy to share his excitement about the blockchain with you."
+          "description": "Sudahkah anda membaca sesuatu tentang SocialMedia.Market? Itu yang dilakukan Yehor."
         },
         {
           "id": "maksimKovalenko",
@@ -1140,7 +1140,7 @@
               "link": "https://www.linkedin.com/in/chafikabdellaouiacbmc/"
             }
           ],
-          "position": "Entrepreneur, the founder ACBMC, Bizzant, and XEDYAS IT HYBRID SOLUTIONS.",
+          "position": "Pengusaha, pendiri ACBMC, Bizzant, dan XEDYAS IT HYBRID SOLUTIONS.",
           "description": "The person behind G2A explosive growth, as well as contributor to Mobile Go ICO success. Chafik is an accomplished business development professional with an extensive experience in eCommerce, gaming and electronic payments.",
           "logos": [
             {
@@ -1201,7 +1201,7 @@
             }
           ],
           "position": "Legal Counsel San Francisco, California Blockchain regulatory/compliance expert",
-          "description": "General counsel at Bitfury Group Ltd <br/> Fintech counsel Bingham McCutchen LLP",
+          "description": "Mantan VP Marketing & Advertising di Wargaming.net <br/> Fintech counsel Bingham McCutchen LLP",
           "logos": [
             {
               "alt": "",
@@ -1235,7 +1235,7 @@
     "howItWorks": {
       "sectionTitle": "How it works?",
       "sectionDescription": "SocialMedia.Market will create a global marketplace for Advertisers and Influencers among every major social network, providing convenient and transparent tools for the interaction of any party involved. For maintaining commercial relationships between participants, SocialMedia.Market will use Blockchain technology to simplify integration, reduce fraud and costs for all market participants.",
-      "descriptionLeft": "No entry barrier for content monetization for influencer of any kind",
+      "descriptionLeft": "No entry barrier for content monitization for influencer of any kind",
       "descriptionRight": "Unlimited access to influencers all over the world for advertisers",
       "tryOurPlatform": "try our platform"
     },
