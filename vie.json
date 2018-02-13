@@ -1041,16 +1041,8 @@
           "description": "Keith Teare gần đây đã cố vấn thành công cho các ICO của ICOBox (4000 BTC) và Crypterium (hơn $51 triệu). Trước đây ông từng là nhà sáng lập của TechCrunch và là Nhà Cung Cấp Dịch Vụ Internet người tiêu dùng đầu tiên tại Châu Âu - EasyNet. EasyNet và RealNames đều đạt vị trí Unicorn trong khoảng cuối những năm 90.",
           "logos": [
             {
-              "alt": "EasyNet",
-              "src": "./assets/img/landing/companies-advisor/easynet.png"
-            },
-            {
-              "alt": "Crypterium",
-              "src": "./assets/img/landing/companies-advisor/techcrunch.png"
-            },
-            {
-              "alt": "Crypterium",
-              "src": "./assets/img/landing/companies-advisor/crypterium.png"
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/teare.jpg"
             }
           ],
           "video": ""
@@ -1069,8 +1061,8 @@
           "description": "Trước Sonic Foundry, Andrew điều hành Think New Ideas, một công ty được công nhận bởi NASDAQ đã mua lại và tích hợp các công ty tiếp thị điện tử và phát triển web. Think New Ideas cuối cùng đã được mua lại với giá $250 mm.",
           "logos": [
             {
-              "alt": "SonicFoundry",
-              "src": "./assets/img/landing/companies-advisor/sonicfoundry.png"
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/sonic.jpg"
             }
           ],
           "video": ""
@@ -1087,7 +1079,12 @@
           ],
           "position": "CEO tại Value Brain Co., Ltd. (Nhật Bản) <br/>  CEO tại Beducate.ltd (Hồng Kông)<br/>Tác giả cuốn \"Những Mối Lo Kiếm Ra Tiền\" (\"Worries Make Money\") Kadokawa Foresta  ",
           "description": "Một nhà kinh doanh tham gia tích cực vào các hoạt động đầu tư bất động sản, cổ phần, vận hành Airbnb cũng như tiền thuật toán. Ông tổ chức các cuộc gặp tại Tokyo giữa các công ty tiền thuật toán nổi tiếng như NEO, LISK, Quantum và Ardor.",
-          "logos": [],
+          "logos": [
+            {
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/ono.jpg"
+            }
+          ],
           "video": ""
         },
         {
@@ -1102,7 +1099,12 @@
           ],
           "position": "Giám đốc Thuế & Cố vấn cho Nokia Canada & Hỗ Trợ cho Nokia Chile",
           "description": "Nhà khởi nghiệp Fintech - Cố vấn. Nhà sáng lập của MobileyourLife và tham gia vào lĩnh vực AI-Fintech giúp cung cấp các giải pháp trong môi trường B2B. Cố vấn ICO Gây Vốn và Phát Triển Kinh Doanh Quốc Tế.",
-          "logos": [],
+          "logos": [
+            {
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/zanko.jpg"
+            }
+          ],
           "video": ""
         },
         {
@@ -1119,12 +1121,8 @@
           "description": "Chuyên gia về Marketing, PR & Truyền thông với hơn 10 năm kinh nghiệm. Từng tham gia ngành chuỗi khối gần 2 năm về trước và giữ vai trò cố vấn cho Argon Group cũng như hỗ trợ khởi động ICO nền tảng Cryptonomos.",
           "logos": [
             {
-              "alt": "ICOBOX",
-              "src": "./assets/img/advisors/dima-zaitsev-icobox.jpg"
-            },
-            {
-              "alt": "Cryptonomos",
-              "src": "./assets/img/advisors/cryptonomos.png"
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/daria.jpg"
             }
           ],
           "video": ""
@@ -1143,12 +1141,8 @@
           "description": "Người đứng sau sự tăng trưởng bùng nổ của G2A, cũng là người đóng góp vào thành công của ICO Mobile Go. Chafic là một chuyên gia phát triển kinh doanh thành công với kinh nghiệm chuyên sâu về thương mại điện tử, gaming và thanh toán điện tử.",
           "logos": [
             {
-              "alt": "G2A",
-              "src": "./assets/img/landing/companies-advisor/gta.png"
-            },
-            {
-              "alt": "MobileGo",
-              "src": "./assets/img/landing/companies-advisor/mobilego.png"
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/chafic.jpg"
             }
           ],
           "video": ""
@@ -1167,12 +1161,8 @@
           "description": "Giám Đốc Điều Hành nhiều kinh nghiệm, Nhà Tiếp Thị và chuyên gia Phát Triển Kinh Doanh với lịch sử làm việc huy hoàng trong ngành công nghiệp game điện tử. Có kỹ năng về eSports, Chuỗi khối và Quảng cáo.",
           "logos": [
             {
-              "alt": "WarGaming",
-              "src": "./assets/img/landing/companies-advisor/wargaming.png"
-            },
-            {
-              "alt": "PlayKey",
-              "src": "./assets/img/landing/companies-advisor/playkey.png"
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/jalov.jpg"
             }
           ],
           "video": ""
@@ -1191,8 +1181,8 @@
           "description": "Năm 2017, Dima bắt đầu hứng thú với chuỗi khối và tiền thuật toán và bắt đầu thực hiện các nghiên cứu thị trường phạm vi giới hạn. Ông có phần riêng của mình trong một số các đại lý truyền thông tại Hoa Kỳ bao gồm FXStreet.com, CoinSpeaker.com, và các bên khác.",
           "logos": [
             {
-              "alt": "ICOBOX",
-              "src": "./assets/img/landing/companies-advisor/icobox.png"
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/dima.jpg"
             }
           ],
           "video": ""
@@ -1211,8 +1201,8 @@
           "description": "Giám đốc pháp lý tại Bitfury Group Ltd <br/> Cố vấn Fintach tại Bingham McCutchen LLP",
           "logos": [
             {
-              "alt": "BitFury",
-              "src": "./assets/img/landing/companies-advisor/bitfury.png"
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/bitfury.jpg"
             }
           ],
           "video": ""
@@ -1231,12 +1221,8 @@
           "description": "Giám đốc Quảng Cáo & Tiếp Thị Các Thị Trường Đang Phát triển tại Exigen Capital <br/> Giám đốc tịa Delphi Software International",
           "logos": [
             {
-              "alt": "Delfi",
-              "src": "./assets/img/landing/companies-advisor/exigen.png"
-            },
-            {
-              "alt": "Exigen",
-              "src": "./assets/img/landing/companies-advisor/delphi.png"
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/slavik.jpg"
             }
           ],
           "video": ""

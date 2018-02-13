@@ -1041,16 +1041,8 @@
           "description": "Keith Teare aconselhou recentemente ICO bem sucedidas da ICOBox (4000 BTC) e Crypterium ($ 51mln +). Antes, ele foi um dos fundadores da TechCrunch e do primeiro Provedor de Serviços de Internet na Europa - EasyNet.",
           "logos": [
             {
-              "alt": "EasyNet",
-              "src": "./assets/img/landing/companies-advisor/easynet.png"
-            },
-            {
-              "alt": "Crypterium",
-              "src": "./assets/img/landing/companies-advisor/techcrunch.png"
-            },
-            {
-              "alt": "Crypterium",
-              "src": "./assets/img/landing/companies-advisor/crypterium.png"
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/teare.jpg"
             }
           ],
           "video": ""
@@ -1069,8 +1061,8 @@
           "description": "Antes da Sonic Foundry, Andrew dirigia operações para Think New Ideas, outra empresa listada na NASDAQ que adquiriu e combinava empresas de marketing digital e desenvolvimento web. Think New Ideas foi finalmente adquirida por mais de $ 250M.",
           "logos": [
             {
-              "alt": "SonicFoundry",
-              "src": "./assets/img/landing/companies-advisor/sonicfoundry.png"
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/sonic.jpg"
             }
           ],
           "video": ""
@@ -1087,7 +1079,12 @@
           ],
           "position": "CEO, Value Brain Co., Ltd. (Japão) <br/> CEO, Beducate.ltd (Hong Kong)",
           "description": "Empresário que está ativamente envolvido em atividades de investimento em imóveis, equity, operações Airbnb e criptomoedas. Ele promoveu encontros em Tóquio de conhecidas empresas de criptomoedas como NEO, LISK, Quantum e Ardor .",
-          "logos": [],
+          "logos": [
+            {
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/ono.jpg"
+            }
+          ],
           "video": ""
         },
         {
@@ -1102,7 +1099,12 @@
           ],
           "position": "Gerente Tributário & Assessor para Nokia Canada & Suporte para Nokia Chile",
           "description": "Empreendedor-Consultor Fintech . Fundador da MobileyourLife e envolvido no espaço AI-Fintech fornecendo soluções no espaço B2B. Assessoria de ICO na Fundraising Capital e International Business Development.",
-          "logos": [],
+          "logos": [
+            {
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/zanko.jpg"
+            }
+          ],
           "video": ""
         },
         {
@@ -1119,12 +1121,8 @@
           "description": "Marketing, PR & communications specialist with 10+ years of experience. Having joined blockchain industry nearly two years ago, worked as a consultant to Argon Group and helped launch ICO platform Cryptonomos.",
           "logos": [
             {
-              "alt": "ICOBOX",
-              "src": "./assets/img/advisors/dima-zaitsev-icobox.jpg"
-            },
-            {
-              "alt": "Cryptonomos",
-              "src": "./assets/img/advisors/cryptonomos.png"
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/daria.jpg"
             }
           ],
           "video": ""
@@ -1143,12 +1141,8 @@
           "description": "A pessoa por trás do crescimento explosivo da G2A, bem como contribuinte para o sucesso do Mobile Go ICO. Chafic é um profissional de desenvolvimento de negócios com uma vasta experiência em eCommerce, jogos e pagamentos eletrônicos.",
           "logos": [
             {
-              "alt": "G2A",
-              "src": "./assets/img/landing/companies-advisor/gta.png"
-            },
-            {
-              "alt": "MobileGo",
-              "src": "./assets/img/landing/companies-advisor/mobilego.png"
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/chafic.jpg"
             }
           ],
           "video": ""
@@ -1167,12 +1161,8 @@
           "description": "Experienced Chief Executive Officer, Marketer and Business Development professional with a demonstrated history of working in the computer games industry. Skilled in eSports, Blockchain, and Advertising.",
           "logos": [
             {
-              "alt": "WarGaming",
-              "src": "./assets/img/landing/companies-advisor/wargaming.png"
-            },
-            {
-              "alt": "PlayKey",
-              "src": "./assets/img/landing/companies-advisor/playkey.png"
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/jalov.jpg"
             }
           ],
           "video": ""
@@ -1191,8 +1181,8 @@
           "description": "Em 2017 Dima ficou interessado em blockchain e criptomoedas e começou a realizar pesquisas de mercado de âmbito limitado. Ele tem suas próprias colunas em vários meios de comunicação nos EUA, incluindo FXStreet.com, CoinSpeaker.com e outros.",
           "logos": [
             {
-              "alt": "ICOBOX",
-              "src": "./assets/img/landing/companies-advisor/icobox.png"
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/dima.jpg"
             }
           ],
           "video": ""
@@ -1211,8 +1201,8 @@
           "description": "Advogado geral do Bitfury Group Ltd <br/> Conselheiro da Fintech Bingham McCutchen LLP ",
           "logos": [
             {
-              "alt": "BitFury",
-              "src": "./assets/img/landing/companies-advisor/bitfury.png"
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/bitfury.jpg"
             }
           ],
           "video": ""
@@ -1231,12 +1221,8 @@
           "description": "Chefe da M&A Emerging Markets, Exigen Capital <br/> Principal, Delphi Software International",
           "logos": [
             {
-              "alt": "Delfi",
-              "src": "./assets/img/landing/companies-advisor/exigen.png"
-            },
-            {
-              "alt": "Exigen",
-              "src": "./assets/img/landing/companies-advisor/delphi.png"
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/slavik.jpg"
             }
           ],
           "video": ""

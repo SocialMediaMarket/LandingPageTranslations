@@ -177,15 +177,11 @@
     "about": {
       "first": {
         "title": "The first я marketplace connecting <strong>social media bloggers</strong> and advertisers",
-        "description": ""SocialMedia.Marketはマーケティングの主要な問題を解決し、コンテンツ収益化、コミュニティエンゲージメントなどの新しい機会を作り出します。新しい、ブロックチェーンとソーシャルメディアトークンによるエコシステムがビジネスとインフルエンサーの関係を単純化します。""
-
-""
+        "description": "SocialMedia.Marketはマーケティングの主要な問題を解決し、コンテンツ収益化、コミュニティエンゲージメントなどの新しい機会を作り出します。新しい、ブロックチェーンとソーシャルメディアトークンによるエコシステムがビジネスとインフルエンサーの関係を単純化します。"
       },
       "second": {
         "title": "ブランドにとって、インフルエンサーマーケティングは最も効率が良いマーケティングです。",
-        "description": ""92％の消費者はインフルエンサーマーケティングで広告を行うブランドを信用するという調査結果があります。さらに、インフルエンサーマーケティングは従来型の広告よりも費用対効果がよく、より信頼できるブランドをオススメします。これらの理由からインフルエンサーマーケティングはもっとも長期的に効率的なマーケティング戦略となりました。""
-
-""
+        "description": "92％の消費者はインフルエンサーマーケティングで広告を行うブランドを信用するという調査結果があります。さらに、インフルエンサーマーケティングは従来型の広告よりも費用対効果がよく、より信頼できるブランドをオススメします。これらの理由からインフルエンサーマーケティングはもっとも長期的に効率的なマーケティング戦略となりました。"
       },
       "actions": {
         "readShorter": "要約資料",
@@ -896,7 +892,7 @@
           "avatar": "./assets/img/landing/team/team15.png",
           "name": "Maksym<br>Krupets",
           "jobTitle": "PPC責任者",
-          "description": "Social Media.Marketへのトラフィックを促進する私たちの広告を見たことがありますか？	Social Media.Marketへのトラフィックを促進する私たちの広告を見たことがありますか？"
+          "description": "Social Media.Marketへのトラフィックを促進する私たちの広告を見たことがありますか？ Social Media.Marketへのトラフィックを促進する私たちの広告を見たことがありますか？"
         },
         {
           "id": "yevhenPylypenko",
@@ -1045,16 +1041,8 @@
           "description": "Keith Teareは、最近、ICOBox（4000 BTC）とクリプテリウム（5千万ドル）の成功したICOについてアドバイスしました。 以前は、TechCrunchの創設者であり、ヨーロッパで初めてのインターネットサービスプロバイダでもありました（EasyNet）。 EasyNetとRealNamesはどちらも1990年代後半にUnicornの地位を獲得しました。",
           "logos": [
             {
-              "alt": "EasyNet",
-              "src": "./assets/img/landing/companies-advisor/easynet.png"
-            },
-            {
-              "alt": "Crypterium",
-              "src": "./assets/img/landing/companies-advisor/techcrunch.png"
-            },
-            {
-              "alt": "Crypterium",
-              "src": "./assets/img/landing/companies-advisor/crypterium.png"
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/teare.jpg"
             }
           ],
           "video": ""
@@ -1073,8 +1061,8 @@
           "description": "Sonic Foundryの前は、デジタルマーケティングとウェブ開発会社を買収し合併したナスダックに上場しているThink New Ideasの事業を運営していました。 Think New Ideasは最終的に$ 250mm以上で買収されました。.",
           "logos": [
             {
-              "alt": "SonicFoundry",
-              "src": "./assets/img/landing/companies-advisor/sonicfoundry.png"
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/sonic.jpg"
             }
           ],
           "video": ""
@@ -1089,9 +1077,14 @@
               "link": "https://www.facebook.com/tatsunari.ono.1?ref=br_rs/"
             }
           ],
-          "position": "CEO, Value Brain Co., Ltd. (日本) <br/> CEO, Beducate.ltd (香港)<br/>Author \” Worries Make Money \” Kadokawa Foresta",
+          "position": "CEO, Value Brain Co., Ltd. (日本) <br/> CEO, Beducate.ltd (香港)<br/>Author ” Worries Make Money ” Kadokawa Foresta",
           "description": "不動産、株式、エアバンブオペレーション、および暗号違反で投資活動に積極的に従事するビジネスマン。NEO、LISK、Quantum、Ardorなどの有名な暗号化企業の東京ミートアップを開催しました。",
-          "logos": [],
+          "logos": [
+            {
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/ono.jpg"
+            }
+          ],
           "video": ""
         },
         {
@@ -1106,7 +1099,12 @@
           ],
           "position": "Tax Manager & Advisor for Nokia Canada & Support for Nokia Chile",
           "description": "Fintech起業家アドバイザー。 Mobileyour Lifeの創始者であり、B-2 B空間にソリューションを提供するAI-Fintech空間に携わっています。 資金調達資本および国際ビジネス開発におけるICOアドバイザー。",
-          "logos": [],
+          "logos": [
+            {
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/zanko.jpg"
+            }
+          ],
           "video": ""
         },
         {
@@ -1123,12 +1121,8 @@
           "description": "10年以上のマーケティング経験、PR＆コミュニケーションの専門家。 約2年前にブロックチェーン産業に加わり、Argon Groupのコンサルタントとして働き、ICOプラットフォームCryptonomosの立ち上げを支援しました。",
           "logos": [
             {
-              "alt": "ICOBOX",
-              "src": "./assets/img/advisors/dima-zaitsev-icobox.jpg"
-            },
-            {
-              "alt": "Cryptonomos",
-              "src": "./assets/img/advisors/cryptonomos.png"
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/daria.jpg"
             }
           ],
           "video": ""
@@ -1147,12 +1141,8 @@
           "description": "G2Aの背後で爆発的な成長を遂げただけでなく、Mobile Go ICOの成功に貢献しました。 Chaficは、電子商取引、ゲーム、電子決済に関する豊富な経験を持つ熟練したビジネス開発専門家です。",
           "logos": [
             {
-              "alt": "G2A",
-              "src": "./assets/img/landing/companies-advisor/gta.png"
-            },
-            {
-              "alt": "MobileGo",
-              "src": "./assets/img/landing/companies-advisor/mobilego.png"
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/chafic.jpg"
             }
           ],
           "video": ""
@@ -1171,12 +1161,8 @@
           "description": "コンピュータゲーム業界で働く実績のある、マーケティング担当者およびビジネス開発担当の最高執行役員。 eSports、Blockchain、Advertisingに熟練しています。",
           "logos": [
             {
-              "alt": "WarGaming",
-              "src": "./assets/img/landing/companies-advisor/wargaming.png"
-            },
-            {
-              "alt": "PlayKey",
-              "src": "./assets/img/landing/companies-advisor/playkey.png"
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/jalov.jpg"
             }
           ],
           "video": ""
@@ -1195,8 +1181,8 @@
           "description": "2017年Dimaはブロックチェインとクリプトクロスに関心を持ち、限られた範囲の市場調査を開始した。 彼は、FXStreet.com、CoinSpeaker.comなど、米国のいくつかのメディアアウトレットに独自のコラムを持っています。",
           "logos": [
             {
-              "alt": "ICOBOX",
-              "src": "./assets/img/landing/companies-advisor/icobox.png"
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/dima.jpg"
             }
           ],
           "video": ""
@@ -1215,8 +1201,8 @@
           "description": "Bitfury Group Ltdジェネラルカウンセル <br/> Fintech counsel Bingham McCutchen LLP",
           "logos": [
             {
-              "alt": "BitFury",
-              "src": "./assets/img/landing/companies-advisor/bitfury.png"
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/bitfury.jpg"
             }
           ],
           "video": ""
@@ -1235,12 +1221,8 @@
           "description": "サンフランシスコ、カリフォルニア州<br>M＆Aエマージング市場代表、Exigen Capital<br>Delphi Software International Principal",
           "logos": [
             {
-              "alt": "Delfi",
-              "src": "./assets/img/landing/companies-advisor/exigen.png"
-            },
-            {
-              "alt": "Exigen",
-              "src": "./assets/img/landing/companies-advisor/delphi.png"
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/slavik.jpg"
             }
           ],
           "video": ""
