@@ -1,12 +1,12 @@
 export const seoTexts = {
   default: {
     'main': {
-      title: 'SocialMedia.Marker soft cap reached during pre-ICO. BETA release in Feb ‘18',
+      title: 'SocialMedia.Market - Soft Cap REACHED! Token Sale LIVE!',
       metaTags: [
         {property: 'og:type', content: 'website'},
         {property: 'og:locale', content: 'en'},
         {property: 'og:type', content: 'website'},
-        {property: 'og:title', content: 'SocialMedia.Marker soft cap reached during pre-ICO. BETA release in Feb ‘18.'},
+        {property: 'og:title', content: 'SocialMedia.Market - Soft Cap REACHED! Token Sale LIVE!'},
         {
           property: 'og:description',
           content: 'The first decentralized platform connecting social media bloggers and advertisers. ' +
@@ -27,12 +27,12 @@ export const seoTexts = {
   },
   en: {
     'main': {
-      title: 'SocialMedia.Marker soft cap reached during pre-ICO. BETA release in Feb ‘18',
+      title: 'SocialMedia.Market - Soft Cap REACHED! Token Sale LIVE!',
       metaTags: [
         {property: 'og:type', content: 'website'},
         {property: 'og:locale', content: 'en'},
         {property: 'og:type', content: 'website'},
-        {property: 'og:title', content: 'SocialMedia.Marker soft cap reached during pre-ICO. BETA release in Feb ‘18.'},
+        {property: 'og:title', content: 'SocialMedia.Market - Soft Cap REACHED! Token Sale LIVE!'},
         {
           property: 'og:description',
           content: 'The first decentralized platform connecting social media bloggers and advertisers. ' +
