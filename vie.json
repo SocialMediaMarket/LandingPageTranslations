@@ -48,7 +48,7 @@
     "preICO": "PRE-ICO IS LIVE!",
     "preIcoStartsIn": "ICO Pre-sale starts in",
     "icoStartsIn": "ICO starts <b>february 9</b>",
-    "icoStarted": "Token sale live!",
+    "icoStarted": "BÁN TOKENS LÀ MỞ!",
     "tokenSaleIsOpen": "Public token sale<br> is open now!",
     "days": "Ngày",
     "hours": "GIỜ",
@@ -156,7 +156,7 @@
   },
   "firstScreen": {
     "heading": "Kiếm tiền với sự nổi tiếng của bạn",
-    "subheading": "Decentralised influencer advertising marketplace",
+    "subheading": "Sàn thương mại quảng cáo của người có ảnh hưởng ĐƯỢC PHÂN CẤP",
     "joinTokenSale": "Tham gia đợt bán token",
     "projectRatings": "đánh giá dự án",
     "subscribe": "Subscribe to news",
@@ -173,8 +173,8 @@
     "referralProgram": "CHƯƠNG TRÌNH GIỚI THIỆU",
     "bountyCampaign": "CHƯƠNG TRÌNH SĂN THƯỞNG",
     "betaProduct": "Nền tảng Beta",
-    "USAResidentsCannotParticipate": "USA citizens and residents are not allowed to participate",
-    "softCapReached": "Soft cap reached"
+    "USAResidentsCannotParticipate": "Công dân Hoa Kỳ và cư dân không được phép tham gia",
+    "softCapReached": "GIỚI HẠN MỀM ĐÃ ĐẠT!"
   },
   "landing":{
     "about": {
@@ -183,7 +183,7 @@
         "description": "Giải quyết các vấn đề chính về marketing sửu dụng người có tầm ảnh hưởng, SocialMedia.Market sẽ tạo ra những cơ hội mới cho việc tiền tệ hóa nội dung, gắn kết cộng đồng và tiếp cận khán giả. Một hệ sinh thái mới, vận hành bởi công nghệ chuỗi khối và Social Media Token, sẽ đơn giản hóa tương tác marrketing giữa doanh nghiệp và những người có tầm ảnh hưởng.."
       },
       "second": {
-        "title": "influencer marketing is the most cost effective stragegy for <strong>các thương hiệu</strong>",
+        "title": "Tiếp thị sử dụng người ảnh hưởng là chiến lược hiệu quả về mặt chi phí nhất cho <strong>các thương hiệu</strong>",
         "description": "Các nghiên cứu đã cho thấy 92% người tiêu dùng dễ tin tưởng hơn vào một thương hiệu quảng cáo sử dụng Marketing Người Ảnh Hưởng. Hơn thế nữa, phương pháp này ít tốn kém hơn quảng cáo mất phí và tạo được những lời giới thiệu thương hiệu đáng tin hơn. Vì những lý do này, có thể cho rằng Marketing Người Ảnh Hưởng đã trở thành chiến lược marketing dài hạn hiệu quả nhất."
       },
       "actions": {
@@ -197,7 +197,7 @@
       "videosList": [
         {
           "id": "projectReviews",
-          "title": "Project reviews",
+          "title": "Đánh giá dự án",
           "videos": [
             {
               "channelName": "Coin Bloq",
@@ -775,7 +775,7 @@
       "sectionTitle": "ĐỘI NGŨ CỦA CHÚNG TÔI",
       "sectionDesc": "31 thành viên hiện đang tham gia vào dự án, và chúng tôi đang thuê thêm các chuyên gia thị trường, các kỹ sư chuỗi khối nhằm mở rộng đội ngũ phát triển của mình. Chúng tôi mong muốn tăng số lượng thành viên SocialMedia.Market lên tới 70 người trong 4 tháng tới.",
       "fullTeam": "đội ngũ đầy đủ",
-      "hideFullTeam": "Hide full team",
+      "hideFullTeam": "Ẩn toàn bộ nhóm",
       "teamList": [
         {
           "id": "dmitryShishov",
@@ -1234,7 +1234,7 @@
     },
     "howItWorks": {
       "sectionTitle": "Phương thức hoạt động của nền tảng",
-      "sectionDescription": "SocialMedia.Market will create a global marketplace for Advertisers and Influencers among every major social network, providing convenient and transparent tools for the interaction of any party involved. For maintaining commercial relationships between participants, SocialMedia.Market will use Blockchain technology to simplify integration, reduce fraud and costs for all market participants.",
+      "sectionDescription": "SocialMedia.Market sẽ tạo một thị trường toàn cầu cho các Nhà Quảng Cáo và Nhà Ảnh Hưởng giữa các mạng lưới xã hội lớn, cung cấp các công cụ minh bạch và tiện lợi cho việc tương tác giữa các bên liên quan. Về việc duy trì quan hệ thương mại giữa những người tham gia, SocialMedia.Market sẽ sử dụng công nghệ Chuỗi khối để đơn giản hóa tích hợp, giảm thiểu gian lận và chi phí cho tất cả những người tham gia thị trường.",
       "descriptionLeft": "Không có rào cản cho việc tiền tệ hóa nội dung hay cho bất cứ loại hình nhà ảnh hưởng nào",
       "descriptionRight": "Quyền tiếp cận không giới hạn tới các nhà ảnh hưởng trên toàn cầu cho các nhà quảng cáo",
       "tryOurPlatform": "hãy thử nền tảng của chúng tôi"
@@ -1332,7 +1332,7 @@
     "media": {
       "sectionTitle": "Ý kiến của truyền thông về socialmedia.market",
       "moreMedia": "THÊM nhiều phương tiện truyền thông",
-      "lessMedia": "Less media",
+      "lessMedia": "Ít phương tiện",
       "mediaList": [
         {
           "id": "influencermarketinghub",
