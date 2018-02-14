@@ -31,12 +31,12 @@
     "cryptoKittie": "Kitty giveaway",
     "signUpAndSubscribe": "Join pre-sale with 20% bonus",
     "tryBeta": "BETA版平台",
-    "tryPlatformBeta": "Try platform beta",
+    "tryPlatformBeta": "ベータ版を試す",
     "joinTokenSale": "トークンセールに参加",
     "buyTokens": "トークンを購入",
-    "shorter": "Shorter",
-    "whitePaper": "White paper",
-    "smartContract": "Smart contract"
+    "shorter": "短い",
+    "whitePaper": "ホワイトペーパー",
+    "smartContract": "スマートコントラクト"
   },
   "presaleLive": {
     "headingLarge": "Presale is now live!",
@@ -61,7 +61,7 @@
     "documents": [
       {
         "id": "SMM_Shorter",
-        "title": "要約資料",
+        "title": "短期",
         "languages": [
           "eng",
           "rus"
@@ -77,14 +77,14 @@
       },
       {
         "id": "SMM_Marketing-Research",
-        "title": "Marketing research",
+        "title": "マーケティングリサーチ",
         "languages": [
           "eng"
         ]
       },
       {
         "id": "SMM_SEC-Howey-Test",
-        "title": "Sec howey test",
+        "title": "Sec howey テスト",
         "languages": [
           "eng"
         ]
@@ -170,16 +170,16 @@
     "fundsRaised": "調達金額",
     "ourPartners": "パートナー",
     "projectInfo": "プロジェクト情報",
-    "referralProgram": "Referral program",
+    "referralProgram": "アフィリエイト",
     "bountyCampaign": "バウンティキャンペーン",
     "betaProduct": "BETA版平台",
-    "USAResidentsCannotParticipate": "USA citizens and residents are not allowed to participate",
+    "USAResidentsCannotParticipate": "米国市民と住民は参加することができません",
     "softCapReached": "ソフトキャップ達成"
   },
   "landing":{
     "about": {
       "first": {
-        "title": "The first я marketplace connecting <strong>social media bloggers</strong> and advertisers",
+        "title": "インフルエンサーと広告を繋ぐ初めての分散型マーケット",
         "description": "SocialMedia.Marketはマーケティングの主要な問題を解決し、コンテンツ収益化、コミュニティエンゲージメントなどの新しい機会を作り出します。新しい、ブロックチェーンとソーシャルメディアトークンによるエコシステムがビジネスとインフルエンサーの関係を単純化します。"
       },
       "second": {
@@ -197,7 +197,7 @@
       "videosList": [
         {
           "id": "projectReviews",
-          "title": "Project reviews",
+          "title": "プロジェクトレビュー",
           "videos": [
             {
               "channelName": "Coin Bloq",
@@ -689,7 +689,7 @@
       ]
     },
     "benefits": {
-      "sectionTitle": "<strong><span class='market'>Socialmedia.Market</span></strong> benefits",
+      "sectionTitle": "<strong><span class='market'>Socialmedia.Market</span></strong> メリット",
       "benefitsList": [
         {
           "background": "./assets/img/landing/benefits/benefit1.png",
@@ -725,14 +725,14 @@
       "joinTokenSale": "トークンセールに参加"
     },
     "experts": {
-      "sectionTitle": "<strong>Experts</strong> About <span class='market'>Socialmedia.market</span>",
+      "sectionTitle": "Socialmedia.marketに関してのエキスパート",
       "expertsList": [
         {
           "avatar": "./assets/img/landing/experts/chafik.png",
           "name": "Chafik Abdellaoui",
-          "status": "Entrepreneur, the founder ACBMC, Bizzant, and XEDYAS IT HYBRID SOLUTIONS.",
+          "status": "アントレプレナー、ACBMC、Bizzant、XEDYAS IT HYBRID SOLUTIONS創業者",
           "company": "./assets/img/landing/experts/g2a.jpg",
-          "description": "vloggerやstreamerへの依存は強くあり、組織化されたインフルエンサーは業界のトリッピングポイントになると考えています。SocialMedia.Marketはその機会を作り、無視することはありません。"
+          "description": "影響力のあるマーケティングは、ブランドが幅広いユーザーにメッセージを伝える大きなチャンスをもたらします。 ブロックチェーン技術は、このブルーミング市場の規制手段を提供し、関係するすべての人に透明性とセキュリティを保証します。"
         },
         {
           "avatar": "./assets/img/landing/experts/david.png",
@@ -765,7 +765,7 @@
         {
           "avatar": "./assets/img/landing/experts/slavik.png",
           "name": "Slavik Nenaydokh",
-          "status": "Principal, Delphi Software International",
+          "status": "国際デルファイソフトウェアディレクター",
           "company": "",
           "description": "SocialMedia.Marketは、ソーシャルマーケティングの変動に対するノウハウを賢く活用しています。 私は、SocialMedia.Marketチームと共にこのビジョンに参加することを謙虚としており、企業の成熟段階を通じて彼らと歩みたいと考えています。"
         }
@@ -823,7 +823,7 @@
           "avatar": "./assets/img/landing/team/team6.png",
           "name": "Evgeniy<br>Ivashko",
           "jobTitle": "シニアソフトウェアエンジニア",
-          "description": "The guru of code, creating solutions we are proud to share and users are happy to explore. Evgeniy has lots of experience in his field and worked previously at Digital Screens LLC."
+          "description": "私たちが誇りに思っている解決策を作り出すコードの達人です。"
         },
         {
           "id": "dimaMedvedchuk",
@@ -967,7 +967,7 @@
           "avatar": "./assets/img/landing/team/team24.png",
           "name": "Yehor<br>Sklyarov",
           "jobTitle": "Content Writer",
-          "description": "Have you read anything about SocialMedia.Market? That's Yehor's doing. He worked previously as a journalist on a TV channel. now he's happy to share his excitement about the blockchain with you."
+          "description": "SocialMedia.Marketについて読んだことはありますか？ それは、Yehorがやっていることです。 彼は以前、テレビチャンネルでジャーナリストとして働いていました。 今、彼はブロックチェーンについての興奮をあなたに伝えてうれしく思います。"
         },
         {
           "id": "maksimKovalenko",
@@ -1285,7 +1285,7 @@
         {
           "title": "Q1 - Q2 2019",
           "color": "#0fd694",
-          "description": "Brand awareness active phase <strong>Worlwide Launch</strong>"
+          "description": "認知度が高まる <strong>世界リリース</strong>"
         },
         {
           "title": "Q1 2020年",
@@ -1332,7 +1332,7 @@
     "media": {
       "sectionTitle": "socialmedia.marketについてのメディア",
       "moreMedia": "その他のメディア",
-      "lessMedia": "Less media",
+      "lessMedia": "メディアの削減",
       "mediaList": [
         {
           "id": "influencermarketinghub",
