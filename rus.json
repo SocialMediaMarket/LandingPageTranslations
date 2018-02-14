@@ -193,7 +193,7 @@
       }
     },
     "videos": {
-      "sectionTitle": "Ознакомьтесь с видео о нас",
+      "sectionTitle": "видео о нас",
       "videosList": [
         {
           "id": "projectReviews",
