@@ -249,7 +249,7 @@ export const seoTexts = {
         {property: 'og:title', content: 'SocialMedia.Market - ソフトキャップが届きました！ トークンセールライブ！'},
         {
           property: 'og:description',
-          content: 'インフルエンサーと広告を繋ぐ初めての分散型マーケット。SocialMedia.Marketはマーケティングの ' +
+          content: 'インフルエンサーと広告を繋ぐ初めての分散型マーケット。SocialMedia.Marketはマーケティングの' +
                    '主要な問題を解決し、コンテンツ収益化、コミュニティエンゲージメントなどの新しい機会を作り出します。'
         },
         {property: 'og:url', content: 'https://socialmedia.market/ja'},
@@ -259,7 +259,7 @@ export const seoTexts = {
         {property: 'og:image:height', content: '1200'},
         {
           property: 'description',
-          content: 'インフルエンサーと広告を繋ぐ初めての分散型マーケット。SocialMedia.Marketはマーケティングの ' +
+          content: 'インフルエンサーと広告を繋ぐ初めての分散型マーケット。SocialMedia.Marketはマーケティングの' +
                    '主要な問題を解決し、コンテンツ収益化、コミュニティエンゲージメントなどの新しい機会を作り出します。'
         },
       ]
@@ -304,7 +304,7 @@ export const seoTexts = {
         {
           property: 'og:description',
           content: 'Marketplace pertama terdesentralisasi yang menghubungkan blogger sosial media dan pengiklan. ' +
-                   'Memecahkan masalah pemasaran influencer utama SocialMedia.Market akan menciptakan  ' +
+                   'Memecahkan masalah pemasaran influencer utama SocialMedia.Market akan menciptakan ' +
                    'peluang baru untuk konten monetisasi, keterlibatan masyarakat dan penghargaan penonton.'
         },
         {property: 'og:url', content: 'https://socialmedia.market/id'},
@@ -315,7 +315,7 @@ export const seoTexts = {
         {
           property: 'description',
           content: 'Marketplace pertama terdesentralisasi yang menghubungkan blogger sosial media dan pengiklan. ' +
-                   'Memecahkan masalah pemasaran influencer utama SocialMedia.Market akan menciptakan  ' +
+                   'Memecahkan masalah pemasaran influencer utama SocialMedia.Market akan menciptakan ' +
                    'peluang baru untuk konten monetisasi, keterlibatan masyarakat dan penghargaan penonton.'
         },
       ]
