@@ -774,8 +774,8 @@
     "ourTeam": {
       "sectionTitle": "Tim kami",
       "sectionDesc": "31 anggota sekarang terlibat dalam proyek ini dan kami mempekerjakan lebih banyak spesialis pemasaran, insinyur blockchain dan menumbuhkan tim pengembangan kami. Kami mengharapkan untuk meningkatkan tim SocialMedia.Market hingga 70 orang dalam 4 bulan ke depan.",
-      "fullTeam": "Full team",
-      "hideFullTeam": "Hide full team",
+      "fullTeam": "Tim penuh",
+      "hideFullTeam": "Sembunyikan tim penuh",
       "teamList": [
         {
           "id": "dmitryShishov",
