@@ -775,7 +775,7 @@
       "sectionTitle": "团队",
       "sectionDesc": "現在31人のメンバーがプロジェクトに参加しており、より多くのマーケティングスペシャリストを雇用しています。ブロックチェーン開発チームの増員もあり、私たちはSocialMedia.Marketの成長を期待しています 次の4ヶ月間に最大70人のチームを構成する予定です。",
       "fullTeam": "全チーム",
-      "hideFullTeam": "Hide full team",
+      "hideFullTeam": "フルチームを非表示",
       "teamList": [
         {
           "id": "dmitryShishov",
