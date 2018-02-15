@@ -180,11 +180,11 @@
     "about": {
       "first": {
         "title": "首个连接社交媒体，博主和广告商的去中心化市场",
-        "description": "解决主要的影响者营销问题，并为内容货币化、社区参与视听者接触创造机会。由区块链技术和社交媒体代币推动的新的生态系统，将简化商业和影响者之间的营销互动。"
+        "description": "为了解决主要的影响者的营销问题，Socialmedia.Market 致力于将内容货币化，增加社区的参与度，并为用户之间相互接触提供更多机会。由区块链技术和Socialmedia.Market 驱动的新型生态系统，将会使商业市场和影响者之间的营销互动更加简便。"
       },
       "second": {
         "title": "影响力营销是品牌策略中最具收益成本的方式",
-        "description": "研究表明，92％的消费者更可能信任使用影响力营销的品牌。此外，它比付费广告更具成本效益，并会使品牌形象更为可信。出于这些原因，影响力营销可以说是最有效的长期营销策略。"
+        "description": "研究表明92%的消费者更信赖那些使用影响力营销的品牌。另外，同付费广告比起来它不但具有更佳的成本效益，同时会使品牌形象更为可信。出于这些原因，影响力营销可以说是最有效的长期营销策略。"
       },
       "actions": {
         "readShorter": "阅读简介",
@@ -744,7 +744,7 @@
           "name": "Chafik Abdellaoui",
           "status": "企业家，创始人ACBMC，Bizzant和XEDYAS IT融合解决方案。",
           "company": "./assets/img/landing/experts/g2a.jpg",
-          "description": "影响者营销为品牌向更广泛的受众提供信息提供了巨大的机会。 区块链技术为这个蓬勃发展的市场提供了监管手段，确保每个参与者的透明度和安全性。"
+          "description": "由于电子竞技对网络视频播放器和流媒体的依赖度很高，我相信一个成熟的影响力营销生态系统将会成为这个行业的突破口。任何人都不能忽视将来Socialmedia.Market在这个行业带来的大量的机遇。"
         },
         {
           "avatar": "./assets/img/landing/experts/david.png",
@@ -772,20 +772,20 @@
           "name": "Alex Yastremski",
           "status": "Bitfury集团有限公司的总法律顾问",
           "company": "./assets/img/landing/experts/bitfury.jpg",
-          "description": "这个项目让我印象深刻，它的宏伟目标可以为市场参与者增加价值并最大化销售为营销人员。凭借团队的专业知识，这个项目可以成为数字广告成功、有效的一体化解决方案。"
+          "description": "该项目的宏大目标给我留下了深刻印象，它不仅能够为市场参与者创造价值，也能为销售者提高业绩。该项目只要有我们团队的专业知识作为支撑，就能够数字广告提供一个成功有效全方位的解决方案。"
         },
         {
           "avatar": "./assets/img/landing/experts/slavik.png",
           "name": "Slavik Nenaydokh",
           "status": "首席运营官，Centuria天然食品 旧金山，加州 投入资本并购新兴市场主管 德尔福软件国际公司首席",
           "company": "",
-          "description": "Socialmedia.Market明智地利用他们的专有技术来颠覆社会营销的变革。我很高兴能够和SocialMedia.Market团队一起参与共同实现这个愿景，并期待能和该公司一道共同走向成熟。"
+          "description": "Socialmedia.Market我们的团队正在有效地利用我们地专业知识，力图给社会市场带来一场变革。能够和这个团队一起参于这场变革我感到十分荣幸，并期待着和这个团队共同成长。"
         }
       ]
     },
     "ourTeam": {
       "sectionTitle": "我们的队伍",
-      "sectionDesc": "现在有31个成员参与了这个项目，我们正在招聘更多的市场专员，区块链工程师来增强我们的开发团队。我们期待在接下来的4个月内会有70名工作人员加入到SocialMedia.Market",
+      "sectionDesc": "现在有31个成员参与了这个项目的研发，我们同时也在招聘更多的市场专员，区块链工程师来壮大我们的研发团队，我们预计在接下来的4个月，我们的Socialmedia.Market研发团队人数会增加至70人。",
       "fullTeam": "完整的团队",
       "hideFullTeam": "隐藏整个团队",
       "teamList": [
@@ -795,7 +795,7 @@
           "avatar": "./assets/img/landing/team/team1.png",
           "name": "Dmitry<br>Shyshov",
           "jobTitle": "创始人、首席执行官",
-          "description": "企业家，同时在游戏和电子竞技行业取得成功的首席执行官和创始人。SocialMedia.Market的远见卓识。2012年开始首次购买比特币。"
+          "description": "企业家，一个成功电子竞技企业的CEO。2012年就开始投资比特币了。"
         },
         {
           "id": "alexandraMorozova",
@@ -859,7 +859,7 @@
           "avatar": "./assets/img/landing/team/team9.png",
           "name": "Max<br>Shevchenko",
           "jobTitle": "UI/UX设计师",
-          "description": "在网络上看到的SocialMedia.Market。"
+          "description": "Max使Socialmedia.Market更具乐趣，更加直观，更加实用"
         },
         {
           "id": "takaSuphler",
@@ -867,7 +867,7 @@
           "avatar": "./assets/img/landing/team/team10.png",
           "name": "Taka<br>Suphler",
           "jobTitle": "高级前端工程师",
-          "description": "通过您看到的方式创建平台。"
+          "description": "创建了您所看见的平台"
         },
         {
           "id": "nikolayKravchenko",
@@ -915,7 +915,7 @@
           "avatar": "./assets/img/landing/team/team16.png",
           "name": "Yevhen<br>Pylypenko",
           "jobTitle": "媒体购买者",
-          "description": "在网络上看到的SocialMedia.Market。"
+          "description": "Socialmedia.Market的网络及多媒体推广人员"
         },
         {
           "id": "zlataTkachenko",
@@ -923,7 +923,7 @@
           "avatar": "./assets/img/landing/team/team17.png",
           "name": "Zlata<br>Tkachenko",
           "jobTitle": "客户支持专家",
-          "description": "有问题或有问题？请询问Zlata。"
+          "description": "您如果遇到了任何问题或者有任何疑问，请及时联系Zlata。她了解一切有关Socialmedia.Market信息，并且很乐意为您排疑解惑并且分享她自己的经验。"
         },
         {
           "id": "alexanderGorbach",
@@ -947,7 +947,7 @@
           "avatar": "./assets/img/landing/team/team20.png",
           "name": "Ivan<br>Babiuk",
           "jobTitle": "初级媒体购买者",
-          "description": "一位初级媒体购买者、前景广阔，前途光明。"
+          "description": "前途光明的初级媒体购买专家"
         },
         {
           "id": "nikNovik",
@@ -955,7 +955,7 @@
           "avatar": "./assets/img/landing/team/team21.png",
           "name": "Nik<br>Novik",
           "jobTitle": "高级媒体购买者",
-          "description": "一个具有很多技能的媒体购买者"
+          "description": "资深媒体购买专家，对区块链和影响力营销市场有深刻的理解"
         },
         {
           "id": "tatianaSapa",
@@ -963,7 +963,7 @@
           "avatar": "./assets/img/landing/team/team22.png",
           "name": "Tatiana<br>Sapa",
           "jobTitle": "SEO专家",
-          "description": "具有多项技能的搜索引擎优化专家"
+          "description": "搜索引擎优化方面的专家"
         },
         {
           "id": "viktorAndes",
@@ -979,7 +979,7 @@
           "avatar": "./assets/img/landing/team/team24.png",
           "name": "Yehor<br>Sklyarov",
           "jobTitle": "内容制造者",
-          "description": "你有没有读过关于SocialMedia.Market的所有内容？Yehor在做什么"
+          "description": "如果你想知道Socialmedia.Market的一切，请联系Yehor。"
         },
         {
           "id": "maksimKovalenko",
@@ -1308,7 +1308,7 @@
     },
     "useOfFunds": {
       "sectionTitle": "资金使用",
-      "sectionDescription": "通过代币销售活动募集的资金将用于开发SocialMedia.Market平台的所有功能，可供所有生态系统参与者使用，以及对平台用户数量快速增长提供强大的市场支持，以及简化适应过程为广告商和博主提供新的工具。"
+      "sectionDescription": "通过出售代币所募集到的资金将全部用于Socialmedia.Market平台的维护和功能开发，该平台可以供所有生态系统中的参与者使用，以及对平台用户数量快速增长提供强大的市场支持，以及帮助广告商和博主们快速适应新的平台以及新的功能。"
     },
     "tokenDistribution": {
       "sectionTitle": "代币分发",
