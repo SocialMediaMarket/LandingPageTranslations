@@ -775,7 +775,7 @@
       "sectionTitle": "NOSSA equipe",
       "sectionDesc": "31 membros agora envolvidos no projeto e estamos contratando mais especialistas em marketing, blockchain engenheiros e crescendo nossa equipe de desenvolvimento. Esperamos aumentar a equipe de SocialMedia.Market até 70 pessoas nos próximos 4 meses. ",
       "fullTeam": "Equipe completa",
-      "hideFullTeam": "Hide full team",
+      "hideFullTeam": "Ocultar equipe completa",
       "teamList": [
         {
           "id": "dmitryShishov",
@@ -1332,7 +1332,7 @@
     "media": {
       "sectionTitle": "Mídia sobre socialmedia.market",
       "moreMedia": "MAIS mídia",
-      "lessMedia": "Less media",
+      "lessMedia": "Menos mídia",
       "mediaList": [
         {
           "id": "influencermarketinghub",
