@@ -280,6 +280,16 @@
               "desc": "Skychain, Dether и Socialmedia.market — в этом выпуске «ICO АЛЬМАНАХ», вы узнаете о том, чем занимаются эти компании, чтобы принять верное решение об инвестировании в ICO."
             },
             {
+              "channelName": "Andrew Playford",
+              "date": "15.02.18",
+              "country": "-",
+              "video": "https://www.youtube.com/watch?v=EHqMv284Bkc&t=3693s",
+              "thumb": "https://img.youtube.com/vi/EHqMv284Bkc/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=EHqMv284Bkc&t=3693s",
+              "title": "Andrew Playford | Social Media.Market review",
+              "desc": "A case for Influencer Marketing on the blockchain with a specific look at a project called Social Media Market."
+            },
+            {
               "channelName": "420BitcoinsTV",
               "date": "20.01.18",
               "country": "Ukraine",
@@ -1068,7 +1078,7 @@
               "src": "./assets/img/landing/companies-advisor/sonic.jpg"
             }
           ],
-          "video": ""
+          "video": "https://www.youtube.com/watch?v=EHqMv284Bkc&t=3693s"
         },
         {
           "id": "tatsunariOno",
