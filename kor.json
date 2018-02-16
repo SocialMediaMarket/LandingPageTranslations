@@ -199,6 +199,16 @@
           "id": "projectReviews",
           "title": "프로젝트 어드바이저",
           "videos": [
+             {
+              "channelName": "Andrew Playford",
+              "date": "15.02.18",
+              "country": "-",
+              "video": "https://www.youtube.com/watch?v=EHqMv284Bkc&t=3693s",
+              "thumb": "https://img.youtube.com/vi/EHqMv284Bkc/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=EHqMv284Bkc&t=3693s",
+              "title": "Andrew Playford | Social Media.Market review",
+              "desc": "A case for Influencer Marketing on the blockchain with a specific look at a project called Social Media Market."
+            },
             {
               "channelName": "Coin Bloq",
               "date": "26.12.17",
@@ -1068,7 +1078,7 @@
               "src": "./assets/img/landing/companies-advisor/sonic.jpg"
             }
           ],
-          "video": ""
+          "video": "https://www.youtube.com/watch?v=EHqMv284Bkc&t=3693s"
         },
         {
           "id": "tatsunariOno",
