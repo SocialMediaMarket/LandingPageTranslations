@@ -203,7 +203,7 @@
               "channelName": "Andrew Playford",
               "date": "15.02.18",
               "country": "-",
-              "video": "https://www.youtube.com/embed/EHqMv284Bkc",
+              "video": "https://www.youtube.com/embed/EHqMv284Bkc&t=3693s",
               "thumb": "https://img.youtube.com/vi/EHqMv284Bkc/maxresdefault.jpg",
               "share": "https://www.youtube.com/watch?v=EHqMv284Bkc&t=3693s",
               "title": "Andrew Playford | Social Media.Market review",
@@ -1078,7 +1078,7 @@
               "src": "./assets/img/landing/companies-advisor/sonic.jpg"
             }
           ],
-          "video": "https://www.youtube.com/watch?v=EHqMv284Bkc&t=3693s"
+          "video": "https://www.youtube.com/embed/EHqMv284Bkc"
         },
         {
           "id": "tatsunariOno",
