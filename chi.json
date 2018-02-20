@@ -759,6 +759,13 @@
     "experts": {
       "sectionTitle": "专业媒体市场",
       "expertsList": [
+         {
+          "avatar": "./assets/img/landing/experts/teary.png",
+          "name": "Keith Teare",
+          "status": "co-founder of Techcrunch.",
+          "company": "./assets/img/landing/experts/teary-techcrunch.jpg",
+          "description": "Influencer advertising market has a huge potential, which is halted by the issues it has yet to overcome. Nevertheless, the blockchain technology provides all the means to deal with fraud, transparency, and pricing problems in influencer advertising campaigns. That’s why SocialMedia.Market utilizes the technology to connect advertisers and publishers in a new influencer marketing ecosystem. I have always focused on the point at which change is happening. That’s why we are together in this with the SocialMedia.Market team."
+        },
         {
           "avatar": "./assets/img/landing/experts/chafik.png",
           "name": "Chafik Abdellaoui",
@@ -779,6 +786,13 @@
           "status": "影响者营销枢纽创始人",
           "company": "./assets/img/landing/experts/imh.jpg",
           "description": "影响力营销为品牌向更广泛的受众提供信息提供了巨大的机会。在SocialMeida的帮助下，市场利用区块链技术将为这个蓬勃发展的市场提供监管手段，确保为每个参与者提供透明度和安全性。"
+        },
+        {
+          "avatar": "./assets/img/landing/experts/Ono.png",
+          "name": "Tatsunari Ono",
+          "status": "CEO, VALUE BRAIN CO., LTD. (JAPAN) ",
+          "company": "./assets/img/landing/experts/airbnb.jpg",
+          "description": "Despite its exponential growth, influencer advertising market has its own set of challenges, like inefficiency in pricing and complex communications, while agency fees and fraud consume large portions of budget. SocialMedia.Market is bent to solve these issues with the blockchain technology. The social media audience in Japan alone is huge. And SocialMedia.Market will help expand influencer marketing plans and keep the community growing. That’s the reason why I’m supporting the project and will be among its early adopters."
         },
         {
           "avatar": "./assets/img/landing/experts/peter.png",
