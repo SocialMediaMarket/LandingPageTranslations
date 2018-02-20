@@ -748,6 +748,13 @@
       "sectionTitle": "Socialmedia.market에 관한 전문가",
       "expertsList": [
         {
+          "avatar": "./assets/img/landing/experts/teary.png",
+          "name": "Keith Teare",
+          "status": "co-founder of Techcrunch.",
+          "company": "./assets/img/landing/experts/teary-techcrunch.jpg",
+          "description": "Influencer advertising market has a huge potential, which is halted by the issues it has yet to overcome. Nevertheless, the blockchain technology provides all the means to deal with fraud, transparency, and pricing problems in influencer advertising campaigns. That’s why SocialMedia.Market utilizes the technology to connect advertisers and publishers in a new influencer marketing ecosystem. I have always focused on the point at which change is happening. That’s why we are together in this with the SocialMedia.Market team."
+        },
+        {
           "avatar": "./assets/img/landing/experts/chafik.png",
           "name": "Chafik Abdellaoui",
           "status": "기업가, ACBMC, Bizzant, XEDYAS IT HYBRID SOLUTIONS의 창업자",
@@ -767,6 +774,13 @@
           "status": "Influencer Marketing Hub의 설립자",
           "company": "./assets/img/landing/experts/imh.jpg",
           "description": "영향력있는 마케팅은 브랜드가 다양한 사용자에게 메시지를 전하는 큰 기회를 제공합니다. SocialMeida.Market은 블록 체인 기술의 도움으로 이 떠오르는 시장에 규격을 제공하고 관련된 모든 사람에게 투명성과 보안을 보장합니다."
+        },
+        {
+          "avatar": "./assets/img/landing/experts/Ono.png",
+          "name": "Tatsunari Ono",
+          "status": "CEO, VALUE BRAIN CO., LTD. (JAPAN) ",
+          "company": "./assets/img/landing/experts/airbnb.jpg",
+          "description": "Despite its exponential growth, influencer advertising market has its own set of challenges, like inefficiency in pricing and complex communications, while agency fees and fraud consume large portions of budget. SocialMedia.Market is bent to solve these issues with the blockchain technology. The social media audience in Japan alone is huge. And SocialMedia.Market will help expand influencer marketing plans and keep the community growing. That’s the reason why I’m supporting the project and will be among its early adopters."
         },
         {
           "avatar": "./assets/img/landing/experts/peter.png",
