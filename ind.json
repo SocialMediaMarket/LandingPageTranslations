@@ -200,6 +200,16 @@
           "title": "Ulasan proyek",
           "videos": [
             {
+              "channelName": "Keith Teare",
+              "date": "15.02.18",
+              "country": "-",
+              "video": "https://www.youtube.com/embed/OrYQh_jpqt8&t=3693s",
+              "thumb": "https://img.youtube.com/vi/OrYQh_jpqt8/maxresdefault.jpg",
+              "share": "https://www.youtube.com/watch?v=OrYQh_jpqt8=3693s",
+              "title": "Keith Teare, co-founder of Techcrunch about SocialMedia.Market",
+              "desc": "Influencer advertising market has a huge potential, which is halted by the issues it has yet to overcome. Nevertheless, the blockchain technology provides all the means to deal with fraud, transparency, and pricing problems in influencer advertising campaigns. That’s why SocialMedia.Market utilizes the technology to connect advertisers and publishers in a new influencer marketing ecosystem. I have always focused on the point at which change is happening. That’s why we are together in this with the SocialMedia.Market team."
+            },
+            {
               "channelName": "Andrew Playford",
               "date": "15.02.18",
               "country": "-",
@@ -1058,7 +1068,7 @@
               "src": "./assets/img/landing/companies-advisor/teare.jpg"
             }
           ],
-          "video": ""
+          "video": "https://www.youtube.com/embed/OrYQh_jpqt8"
         },
         {
           "id": "andrewPlayford",
