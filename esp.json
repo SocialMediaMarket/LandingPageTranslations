@@ -174,7 +174,8 @@
     "bountyCampaign": "CAMPAÑA DE RECOMPENZAS",
     "betaProduct": "Plataforma BETA",
     "USAResidentsCannotParticipate": "Los ciudadanos y residentes estadounidenses no pueden participar",
-    "softCapReached": "CAP MINIMO ALCANZADO!"
+    "softCapReached": "CAP MINIMO ALCANZADO!",
+    "hardCapReached": "Hard Сap Reached"
   },
   "landing":{
     "about": {

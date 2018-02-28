@@ -174,7 +174,8 @@
     "bountyCampaign": "バウンティキャンペーン",
     "betaProduct": "BETA版平台",
     "USAResidentsCannotParticipate": "米国市民と住民は参加することができません",
-    "softCapReached": "ソフトキャップ達成"
+    "softCapReached": "ソフトキャップ達成",
+    "hardCapReached": "Hard Сap Reached"
   },
   "landing":{
     "about": {

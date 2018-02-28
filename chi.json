@@ -174,7 +174,8 @@
     "bountyCampaign": "赏金活动",
     "betaProduct": "BETA版平台",
     "USAResidentsCannotParticipate": "美国公民和居民不得参加",
-    "softCapReached": "已达到软顶！"
+    "softCapReached": "已达到软顶！",
+    "hardCapReached": "Hard Сap Reached"
   },
   "landing":{
     "about": {

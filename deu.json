@@ -174,7 +174,8 @@
     "bountyCampaign": "BOUNTY KAMPAGNE",
     "betaProduct": "BETA-Plattform",
     "USAResidentsCannotParticipate": "USA-Bürger und Einwohner dürfen nicht teilnehmen",
-    "softCapReached": "SOFT CAP ERREICHT!"
+    "softCapReached": "SOFT CAP ERREICHT!",
+    "hardCapReached": "Hard Сap Reached"
   },
   "landing":{
     "about": {

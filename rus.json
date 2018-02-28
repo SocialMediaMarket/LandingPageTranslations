@@ -174,7 +174,8 @@
     "bountyCampaign": "Баунти кампания",
     "betaProduct": "Бета версия",
     "USAResidentsCannotParticipate": "Участие для граждан и резидентов США запрещено",
-    "softCapReached": "Минимальная цель достигнута"
+    "softCapReached": "Минимальная цель достигнута",
+    "hardCapReached": "Hard Сap Reached"
   },
   "landing":{
     "about": {

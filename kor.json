@@ -174,7 +174,8 @@
     "bountyCampaign": "바운티 캠페인",
     "betaProduct": "베타 플랫폼",
     "USAResidentsCannotParticipate": "미국 시민권 자 및 거주자는 참가할 수 없습니다.",
-    "softCapReached": "소프트캡 달성!"
+    "softCapReached": "소프트캡 달성!",
+    "hardCapReached": "Hard Сap Reached"
   },
   "landing":{
     "about": {
