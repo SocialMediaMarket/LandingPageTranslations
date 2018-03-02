@@ -1135,7 +1135,7 @@
           "logos": [
             {
               "alt": "",
-              "src": "./assets/img/landing/companies-advisor/daria.jpg"
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/daria.jpg"
             }
           ],
           "video": ""
@@ -1143,7 +1143,7 @@
         {
           "id": "chafikAbdellaoui",
           "name": "Chafik Abdellaoui",
-          "photo": "./assets/img/advisors/chafik-abdellaoui.jpg",
+          "photo": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/chafik-abdellaoui.jpg",
           "socialLinks": [
             {
               "socialIcon": "fa-linkedin",
@@ -1155,7 +1155,7 @@
           "logos": [
             {
               "alt": "",
-              "src": "./assets/img/landing/companies-advisor/chafic.jpg"
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/chafic.jpg"
             }
           ],
           "video": ""
