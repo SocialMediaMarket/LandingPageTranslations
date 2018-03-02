@@ -671,23 +671,23 @@
       "partnersList": [
         {
           "alt": "Civic",
-          "img": "./assets/img/landing/partner/civic.jpg"
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/partner/civic.jpg"
         },
         {
           "alt": "Crypterium",
-          "img": "./assets/img/landing/partner/crypterium.jpg"
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/partner/crypterium.jpg"
         },
         {
           "alt": "Icobox",
-          "img": "./assets/img/landing/partner/icobox.jpg"
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/partner/icobox.jpg"
         },
         {
           "alt": "Imh",
-          "img": "./assets/img/landing/partner/imh.jpg"
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/partner/imh.jpg"
         },
         {
           "alt": "Stox",
-          "img": "./assets/img/landing/partner/stox.jpg"
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/partner/stox.jpg"
         }
       ]
     },
@@ -695,33 +695,33 @@
       "sectionTitle": "Benefícios socialmedia.market ",
       "benefitsList": [
         {
-          "background": "./assets/img/landing/benefits/benefit1.png",
-          "image": "./assets/img/landing/benefits/benefit1-bg.png",
+          "background": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/benefits/benefit1.png",
+          "image": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/benefits/benefit1-bg.png",
           "title": "PROTEGIDA CONTRA FRAUDE"
         },
         {
-          "background": "./assets/img/landing/benefits/benefit2.png",
-          "image": "./assets/img/landing/benefits/benefit2-bg.png",
+          "background": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/benefits/benefit2.png",
+          "image": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/benefits/benefit2-bg.png",
           "title": "CUSTOS OPERACIONAIS REDUZIDOS"
         },
         {
-          "background": "./assets/img/landing/benefits/benefit3.png",
-          "image": "./assets/img/landing/benefits/benefit3-bg.png",
+          "background": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/benefits/benefit3.png",
+          "image": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/benefits/benefit3-bg.png",
           "title": "TRANSAÇÕES SEGURAS E RÁPIDAS"
         },
         {
-          "background": "./assets/img/landing/benefits/benefit4.png",
-          "image": "./assets/img/landing/benefits/benefit4-bg.png",
+          "background": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/benefits/benefit4.png",
+          "image": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/benefits/benefit4-bg.png",
           "title": "SOLUÇÕES DE DISPUTAS DESCENTRALIZADAS"
         },
         {
-          "background": "./assets/img/landing/benefits/benefit5.png",
-          "image": "./assets/img/landing/benefits/benefit5-bg.png",
+          "background": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/benefits/benefit5.png",
+          "image": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/benefits/benefit5-bg.png",
           "title": "PAGAMENTOS GLOBAIS FÁCEIS"
         },
         {
-          "background": "./assets/img/landing/benefits/benefit6.png",
-          "image": "./assets/img/landing/benefits/benefit6-bg.png",
+          "background": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/benefits/benefit6.png",
+          "image": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/benefits/benefit6-bg.png",
           "title": "FÁCIL ENGAGAMENTO"
         }
       ],
@@ -731,56 +731,49 @@
       "sectionTitle": "PERITOS SOBRE Socialmedia.market",
       "expertsList": [
         {
-          "avatar": "./assets/img/landing/experts/teary.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/experts/teary.png",
           "name": "Keith Teare",
           "status": "co-founder of Techcrunch.",
-          "company": "./assets/img/landing/experts/teary-techcrunch.jpg",
+          "company": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/experts/teary-techcrunch.jpg",
           "description": "Influencer advertising market has a huge potential, which is halted by the issues it has yet to overcome. Nevertheless, the blockchain technology provides all the means to deal with fraud, transparency, and pricing problems in influencer advertising campaigns. That’s why SocialMedia.Market utilizes the technology to connect advertisers and publishers in a new influencer marketing ecosystem. I have always focused on the point at which change is happening. That’s why we are together in this with the SocialMedia.Market team."
         },
         {
-          "avatar": "./assets/img/landing/experts/chafik.png",
-          "name": "Chafik Abdellaoui",
-          "status": "Empreendedor, fundador da ACBMC, Bizzant e XEDYAS IT HYBRID SOLUTIONS.",
-          "company": "./assets/img/landing/experts/g2a.jpg",
-          "description": "Como Esports depende fortemente de vloggers e streamers, acredito que o ecossistema organizado de marketing de influenciadores se tornará um ponto fraco para a indústria. SocialMedia.Market cria uma oportunidade que não se pode ignorar."
-        },
-        {
-          "avatar": "./assets/img/landing/experts/david.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/experts/david.png",
           "name": "David Meerman Scott",
           "status": "Autor de best-seller das Novas Regras de Marketing e PR",
           "company": "",
           "description": "A tecnologia Blockchain mostra promessa de finalmente trazer transparência para marcas que trabalham com influenciadores sociais."
         },
         {
-          "avatar": "./assets/img/landing/experts/werner.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/experts/werner.png",
           "name": "Werner Geyser",
           "status": "Fundador, Influencer Marketing Hub",
-          "company": "./assets/img/landing/experts/imh.jpg",
+          "company": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/experts/imh.jpg",
           "description": "O Marketing Influencer oferece uma grande oportunidade para que as marcas levem suas mensagens para um público mais amplo. Com a ajuda da tecnologia SocialMeida.Market, a tecnologia blockchain proporcionará meios de regulação para este mercado em crescimento, garantindo transparência e segurança para todos os envolvidos ."
         },
         {
-          "avatar": "./assets/img/landing/experts/Ono.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/experts/Ono.png",
           "name": "Tatsunari Ono",
           "status": "CEO, VALUE BRAIN CO., LTD. (JAPAN) ",
-          "company": "./assets/img/landing/experts/airbnb.jpg",
+          "company": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/experts/airbnb.jpg",
           "description": "Despite its exponential growth, influencer advertising market has its own set of challenges, like inefficiency in pricing and complex communications, while agency fees and fraud consume large portions of budget. SocialMedia.Market is bent to solve these issues with the blockchain technology. The social media audience in Japan alone is huge. And SocialMedia.Market will help expand influencer marketing plans and keep the community growing. That’s the reason why I’m supporting the project and will be among its early adopters."
         },
         {
-          "avatar": "./assets/img/landing/experts/peter.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/experts/peter.png",
           "name": "Peter Zhalov",
           "status": "Ex-VP de marketing e publicidade da Wargaming.net",
-          "company": "./assets/img/landing/experts/wargaming.jpg",
+          "company": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/experts/wargaming.jpg",
           "description": "Hoje os consumidores usam bloqueadores de anúncios e ignoram anúncios digitais tradicionais. Influenciadores e eSports Marketing estão se tornando duas formas mais eficazes de alcançar a audiência Millenials e Geração Z. Socialmedia.market tem a solução para criar um mercado transparente para o Influencer Marketing que precisamos ."
         },
         {
-          "avatar": "./assets/img/landing/experts/alex.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/experts/alex.png",
           "name": "Alex Yastremski",
           "status": "Advogado geral do Bitfury Group Ltd",
-          "company": "./assets/img/landing/experts/bitfury.jpg",
+          "company": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/experts/bitfury.jpg",
           "description": "O projeto me impressionou com seus objetivos ambiciosos que poderia aumentar o valor para os participantes do mercado e maximizar as vendas para os comerciantes. Com a experiência da equipe, este projeto pode se tornar uma solução completa e eficaz tudo-em-um na publicidade digital ."
         },
         {
-          "avatar": "./assets/img/landing/experts/slavik.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/experts/slavik.png",
           "name": "Slavik Nenaydokh",
           "status": "Principal, Delphi Software International",
           "company": "",
@@ -797,7 +790,7 @@
         {
           "id": "dmitryShishov",
           "linkedIn": "https://www.linkedin.com/in/dmitryshyshov/",
-          "avatar": "./assets/img/landing/team/team1.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team1.png",
           "name": "Dmitry<br>Shyshov",
           "jobTitle": "Fundador, CEO",
           "description": "An entrepreneur, the CEO and founder of two successful products operating in games and Esports industries. The visionary of SocialMedia.Market. Bought Bitcoin for the first time in 2012."
@@ -805,7 +798,7 @@
         {
           "id": "alexandraMorozova",
           "linkedIn": "https://www.linkedin.com/in/aleksandramorozova/",
-          "avatar": "./assets/img/landing/team/team2.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team2.png",
           "name": "Aleksandra<br>Morozova",
           "jobTitle": "Có-fundador, CMO",
           "description": "Always searching for creative solutions for business and products. The heart and the soul of SocialMedia.Market. Previously worked with Apple, Sony, Dell, Asus, Lenovo, Microsoft Xbox, Nvidia. "
@@ -813,7 +806,7 @@
         {
           "id": "maksymChurkin",
           "linkedIn": "https://www.linkedin.com/in/maksym-churkin/",
-          "avatar": "./assets/img/landing/team/team3.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team3.png",
           "name": "Maksym<br>Churkin",
           "jobTitle": "Líder de Tecnologia",
           "description": "An accomplished professional with more than 8 years of experience in developement. Always chooses the best practices and the best frameworks to reach the best results."
@@ -821,7 +814,7 @@
         {
           "id": "viktorPerehod",
           "linkedIn": "https://www.linkedin.com/in/viktor-perekhod-100103b1/",
-          "avatar": "./assets/img/landing/team/team4.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team4.png",
           "name": "Viktor<br>Perekhod",
           "jobTitle": "BDM",
           "description": "The strategist working for the growth of the project. The one who makes SocialMedia.Market move forward and pushes the project to the limit. Experienced problem solver."
@@ -829,7 +822,7 @@
         {
           "id": "yehorShyshov",
           "linkedIn": "https://www.linkedin.com/in/yehorshyshov/",
-          "avatar": "./assets/img/landing/team/team5.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team5.png",
           "name": "Yehor<br>Shyshov",
           "jobTitle": "BDM",
           "description": "Experienced business development manager with a demonstrated history of working in the computer games and E-Sport industry. Skilled in Business Planning, Risk Management, and Strategy."
@@ -837,7 +830,7 @@
         {
           "id": "evgeniyIvasko",
           "linkedIn": "https://www.linkedin.com/in/evgeniy-ivashko-54680736/",
-          "avatar": "./assets/img/landing/team/team6.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team6.png",
           "name": "Evgeniy<br>Ivashko",
           "jobTitle": "Engenheiro de Software Senior",
           "description": "The guru of code, creating solutions we are proud to share and users are happy to explore. Evgeniy has lots of experience in his field and worked previously at Digital Screens LLC."
@@ -845,7 +838,7 @@
         {
           "id": "dimaMedvedchuk",
           "linkedIn": "https://www.linkedin.com/in/dima-medvedchuk-10726b124/",
-          "avatar": "./assets/img/landing/team/team7.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team7.png",
           "name": "Dima<br>Medvedchuk",
           "jobTitle": "Engenheiro de Software",
           "description": "A passionate developer working to create the SocialMedia.Market platform with all the awesome features and functionality. Worked previously at Innovecs."
@@ -853,7 +846,7 @@
         {
           "id": "alexanderGrechanyk",
           "linkedIn": "https://www.linkedin.com/in/alexander-grechanyk-6bab98121/",
-          "avatar": "./assets/img/landing/team/team8.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team8.png",
           "name": "Alexander<br>Grechanyk",
           "jobTitle": "Diretor de Arte",
           "description": "Creative problem-solver, experienced in turning ideas into the gorgeous design. Alexander worked previously at Evoplay and knows what the audience likes best."
@@ -861,7 +854,7 @@
         {
           "id": "maxShevchenko",
           "linkedIn": "https://www.linkedin.com/in/max-shevchenko-5176a562/",
-          "avatar": "./assets/img/landing/team/team9.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team9.png",
           "name": "Max<br>Shevchenko",
           "jobTitle": "Designer UI/UX ",
           "description": "Max Shevchenko is the person that makes SocialMedia.Market enjoyable, intuitive and easy-to-use. He previously worked as a UI-UX designer for Lucky Labs."
@@ -869,7 +862,7 @@
         {
           "id": "takaSuphler",
           "linkedIn": "https://www.linkedin.com/in/suphler/",
-          "avatar": "./assets/img/landing/team/team10.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team10.png",
           "name": "Taka<br>Suphler",
           "jobTitle": "Engenheiro Senior de Frontend",
           "description": "Taka is the front-end professional, creating the platform the way you see it. His previous experience includes working for BNP Paribas and British American Tabacoo."
@@ -877,7 +870,7 @@
         {
           "id": "nikolayKravchenko",
           "linkedIn": "https://www.linkedin.com/in/nick-kravchenko/",
-          "avatar": "./assets/img/landing/team/team11.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team11.png",
           "name": "Nikolay<br>Kravchenko",
           "jobTitle": "Engenheiro Frontend",
           "description": "Nikolay is a front-end expert, who brings gorgeous design to live. His previous experience includes also working as a full-stack developer for Fruitfulcode."
@@ -885,7 +878,7 @@
         {
           "id": "yanBondarenko",
           "linkedIn": "https://www.linkedin.com/in/yan-bondarenko-31096016/",
-          "avatar": "./assets/img/landing/team/team12.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team12.png",
           "name": "Yan<br>Bondarenko",
           "jobTitle": "Engenheiro de Automação",
           "description": "Yan is the one who is responsible for automation of all the processes on the platform. His previous experience includes working for Innovecs and Smile Expo."
@@ -893,7 +886,7 @@
         {
           "id": "nikitaMedvedev",
           "linkedIn": "https://www.linkedin.com/in/nikita-medvedev-sjfenix/",
-          "avatar": "./assets/img/landing/team/team13.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team13.png",
           "name": "Nikita<br>Medvedev",
           "jobTitle": "Líder SEO",
           "description": "Experienced Head of Search Engine Optimization with a demonstrated history of working in the information technology and services industry. Previous occupation - Universal Commerce Group."
@@ -901,7 +894,7 @@
         {
           "id": "alexeyIgnatov",
           "linkedIn": "https://www.linkedin.com/in/alexey-ignatov-bb053271/",
-          "avatar": "./assets/img/landing/team/team14.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team14.png",
           "name": "Alexey<br>Ignatov",
           "jobTitle": "Líder de Marketing ",
           "description": "Alexey believes that there is nothing impossible once you give it a try. Previous experience includes working for TemplateMonster.com and Web Sun Group."
@@ -909,7 +902,7 @@
         {
           "id": "maksymKrupets",
           "linkedIn": "https://www.linkedin.com/in/maksym-krupets-7a2b12102/",
-          "avatar": "./assets/img/landing/team/team15.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team15.png",
           "name": "Maksym<br>Krupets",
           "jobTitle": "Chefe do PPC",
           "description": "Driving traffic to SocialMedia.Market. Have you seen our ads? Maksym knows how to increase ROI and get maximum return. His previous occupation - Universal Commerce Group."
@@ -917,7 +910,7 @@
         {
           "id": "yevhenPylypenko",
           "linkedIn": "https://www.linkedin.com/in/yevhen-pylypenko-33198b116/",
-          "avatar": "./assets/img/landing/team/team16.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team16.png",
           "name": "Yevhen<br>Pylypenko",
           "jobTitle": "Comprador de Mídia",
           "description": "The person that makes SocialMedia.Market seen across the web, reaching various digital media. Has extensive media-buying experience and worked previously at Qoderoom."
@@ -925,7 +918,7 @@
         {
           "id": "zlataTkachenko",
           "linkedIn": "https://www.linkedin.com/in/zlata-tkachenko-497412152/",
-          "avatar": "./assets/img/landing/team/team17.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team17.png",
           "name": "Zlata<br>Tkachenko",
           "jobTitle": "Especialista de Atendimento ao Cliente",
           "description": "Got a problem or have a question? Ask Zlata. She knows all about SocialMedia.Market and would be happy to provide all the answers and share her experience with you."
@@ -933,7 +926,7 @@
         {
           "id": "alexanderGorbach",
           "linkedIn": "https://www.linkedin.com/in/alexandr-gorbach-97580014b/",
-          "avatar": "./assets/img/landing/team/team18.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team18.png",
           "name": "Alexandr<br>Gorbach",
           "jobTitle": "Especialista de Atendimento ao Cliente",
           "description": "Experienced customer support manager to help you with any issues. Previously worked for Nameringoo, a part of Fozzy group. The best person to handle any project-related question."
@@ -941,7 +934,7 @@
         {
           "id": "olegOliynik",
           "linkedIn": "https://www.linkedin.com/in/oleg-oliynyk-77381114b/",
-          "avatar": "./assets/img/landing/team/team19.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team19.png",
           "name": "Oleg<br>Oliynyk",
           "jobTitle": "Especialista de Atendimento ao Cliente",
           "description": "Oleg knows everything about SocialMedia.Market and is always happy to answer all the questions. Well-versed in influencer marketing and blockchain problematics."
@@ -949,7 +942,7 @@
         {
           "id": "ivanBabiuk",
           "linkedIn": "https://www.linkedin.com/in/ivan-babiuk-06a429152/",
-          "avatar": "./assets/img/landing/team/team20.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team20.png",
           "name": "Ivan<br>Babiuk",
           "jobTitle": "Comprador de Mídia Junior ",
           "description": "A junior media-buying specialist with a huge promise of a bright future ahead. Delivers SocialMedia.Market messages right on your screen in front of your eyes. "
@@ -957,7 +950,7 @@
         {
           "id": "nikNovik",
           "linkedIn": "https://www.linkedin.com/in/nik-novik-ab2139149/",
-          "avatar": "./assets/img/landing/team/team21.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team21.png",
           "name": "Nik<br>Novik",
           "jobTitle": "Comprador de Mídia Senior",
           "description": "Nik has extensive media-buying experience and understanding of both blockchain and influencer advertising markets, managing the team of professionals and delivering the desired results. "
@@ -965,7 +958,7 @@
         {
           "id": "tatianaSapa",
           "linkedIn": "https://www.linkedin.com/in/tatiana-sapa-848530146/",
-          "avatar": "./assets/img/landing/team/team22.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team22.png",
           "name": "Tatiana<br>Sapa",
           "jobTitle": "Especialista em SEO",
           "description": "The wizard of search engine optimization who does all the magic. Worked previously for SEO-Studio and rabota.ua. Knows all about the optimization and is always ready to apply his skills."
@@ -973,7 +966,7 @@
         {
           "id": "viktorAndes",
           "linkedIn": "https://www.linkedin.com/in/andesviktor/",
-          "avatar": "./assets/img/landing/team/team23.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team23.png",
           "name": "Viktor<br>Andes",
           "jobTitle": "Especialista em Marketing",
           "description": "The lord of marketing, a genius of advertising. Victor is always ready to explore new horizons and test his skills, seeking the best opportunities for the company."
@@ -981,7 +974,7 @@
         {
           "id": "yehorSklyarov",
           "linkedIn": "https://www.linkedin.com/in/esklyarov/",
-          "avatar": "./assets/img/landing/team/team24.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team24.png",
           "name": "Yehor<br>Sklyarov",
           "jobTitle": "Escritor de Conteúdo",
           "description": "Have you read anything about SocialMedia.Market? That's Yehor's doing. He worked previously as a journalist on a TV channel. now he's happy to share his excitement about the blockchain with you."
@@ -989,7 +982,7 @@
         {
           "id": "maksimKovalenko",
           "linkedIn": "https://www.linkedin.com/in/maksim-kovalenko-509350148/",
-          "avatar": "./assets/img/landing/team/team25.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team25.png",
           "name": "Maksim<br>Kovalenko",
           "jobTitle": "Desenvolvedor de Back End",
           "description": "Marsim is our Back End engineer, the one operating behind the scenes, making SocialMedia.Market work perfectly and ensuring that all the data is delivered swiftly. "
@@ -997,7 +990,7 @@
         {
           "id": "yuriiKovalenko",
           "linkedIn": "https://www.linkedin.com/in/yurii-kovalenko-4a581614b/",
-          "avatar": "./assets/img/landing/team/team26.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team26.png",
           "name": "Yurii<br>Kovalenko",
           "jobTitle": "Engenheiro de Qualidade",
           "description": "Yurii is catching bugs and making everything work smoothly, ensuring that the code is perfect, while the platform provides a superior experience for all users."
@@ -1005,7 +998,7 @@
         {
           "id": "alexKobizhskyj",
           "linkedIn": "",
-          "avatar": "./assets/img/landing/team/team27.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team27.png",
           "name": "Alex<br>Kobizhskyj",
           "jobTitle": "Especialista de Atendimento ao Cliente",
           "description": "Alex is a communications prodigy. He is always happy to share his knowledge about SocialMedia.Market. So join our channels and don't hesitate to ask."
@@ -1013,7 +1006,7 @@
         {
           "id": "oksanaPodkamennay",
           "linkedIn": "",
-          "avatar": "./assets/img/landing/team/team28.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team28.png",
           "name": "Oksana<br>Podkamennay",
           "jobTitle": "Responsável financeiro",
           "description": "Oksana is an experienced financial officer managing the financial part of the project. She is the one who counts the budgets for the SocialMedia.Market team limitless ideas."
@@ -1021,7 +1014,7 @@
         {
           "id": "dmitriyKuzmin",
           "linkedIn": "https://www.linkedin.com/in/dmitriy-kuzmin-94b593157/",
-          "avatar": "./assets/img/landing/team/team29.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team29.png",
           "name": "Dmitriy<br>Kuzmin",
           "jobTitle": "Especialista de Atendimento ao Cliente",
           "description": "Dmitry is fanatic cryptocurrency mining fanatic, gathering farms with friends. He is also an always ready-to-help support manager who can answer any question about the project."
@@ -1029,7 +1022,7 @@
         {
           "id": "romanBuriy",
           "linkedIn": "https://www.linkedin.com/in/roman-buriy-6360a0157/",
-          "avatar": "./assets/img/landing/team/team30.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team30.png",
           "name": "Roman<br>Buriy",
           "jobTitle": "Especialista de Atendimento ao Cliente",
           "description": "Making sure that you're getting excellent customer experience at SocialMedia.Market. Reach out to get an answer to any question, or a solution to any issue."
@@ -1037,7 +1030,7 @@
         {
           "id": "bogdanMoroz",
           "linkedIn": "https://www.linkedin.com/in/ba-mz/",
-          "avatar": "./assets/img/landing/team/team31.png",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team31.png",
           "name": "Bogdan<br>Moroz",
           "jobTitle": "Desenvolvedor Python",
           "description": "Bogdan is our very own snake-talker. Creates neat code lines in the Python language. The one dedicated to the SocialMedia.Market platform development."
@@ -1050,7 +1043,7 @@
         {
           "id": "keithTeare",
           "name": "Keith Teare",
-          "photo": "./assets/img/advisors/keith-teare.jpg",
+          "photo": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/keith-teare.jpg",
           "socialLinks": [
             {
               "socialIcon": "fa-linkedin",
@@ -1062,7 +1055,7 @@
           "logos": [
             {
               "alt": "",
-              "src": "./assets/img/landing/companies-advisor/teare.jpg"
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/teare.jpg"
             }
           ],
           "video": "https://www.youtube.com/embed/OrYQh_jpqt8"
@@ -1070,7 +1063,7 @@
         {
           "id": "andrewPlayford",
           "name": "Andrew Playford",
-          "photo": "./assets/img/advisors/andrew-playford.jpg",
+          "photo": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/andrew-playford.jpg",
           "socialLinks": [
             {
               "socialIcon": "fa-linkedin",
@@ -1082,7 +1075,7 @@
           "logos": [
             {
               "alt": "",
-              "src": "./assets/img/landing/companies-advisor/sonic.jpg"
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/sonic.jpg"
             }
           ],
           "video": "https://www.youtube.com/embed/EHqMv284Bkc"
@@ -1090,7 +1083,7 @@
         {
           "id": "tatsunariOno",
           "name": "Tatsunari Ono",
-          "photo": "./assets/img/advisors/tatsunari-ono.jpg",
+          "photo": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/tatsunari-ono.jpg",
           "socialLinks": [
             {
               "socialIcon": "fa-facebook",
@@ -1102,7 +1095,7 @@
           "logos": [
             {
               "alt": "",
-              "src": "./assets/img/landing/companies-advisor/ono.jpg"
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/ono.jpg"
             }
           ],
           "video": ""
@@ -1110,7 +1103,7 @@
         {
           "id": "gabrielZanko",
           "name": "Gabriel Zanko",
-          "photo": "./assets/img/advisors/gabriel-zanko.jpg",
+          "photo": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/gabriel-zanko.jpg",
           "socialLinks": [
             {
               "socialIcon": "fa-linkedin",
@@ -1122,7 +1115,7 @@
           "logos": [
             {
               "alt": "",
-              "src": "./assets/img/landing/companies-advisor/zanko.jpg"
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/zanko.jpg"
             }
           ],
           "video": ""
@@ -1130,7 +1123,7 @@
         {
           "id": "dariaGeneralova",
           "name": "Daria Generalova",
-          "photo": "./assets/img/advisors/daria-generalova.jpg",
+          "photo": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/daria-generalova.jpg",
           "socialLinks": [
             {
               "socialIcon": "fa-linkedin",
@@ -1142,7 +1135,7 @@
           "logos": [
             {
               "alt": "",
-              "src": "./assets/img/landing/companies-advisor/daria.jpg"
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/daria.jpg"
             }
           ],
           "video": ""
@@ -1150,7 +1143,7 @@
         {
           "id": "chafikAbdellaoui",
           "name": "Chafik Abdellaoui",
-          "photo": "./assets/img/advisors/chafik-abdellaoui.jpg",
+          "photo": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/chafik-abdellaoui.jpg",
           "socialLinks": [
             {
               "socialIcon": "fa-linkedin",
@@ -1162,7 +1155,7 @@
           "logos": [
             {
               "alt": "",
-              "src": "./assets/img/landing/companies-advisor/chafic.jpg"
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/chafic.jpg"
             }
           ],
           "video": ""
@@ -1170,7 +1163,7 @@
         {
           "id": "peterZhalov",
           "name": "Peter Zhalov",
-          "photo": "./assets/img/advisors/peter-zhalov.jpg",
+          "photo": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/peter-zhalov.jpg",
           "socialLinks": [
             {
               "socialIcon": "fa-linkedin",
@@ -1182,7 +1175,7 @@
           "logos": [
             {
               "alt": "",
-              "src": "./assets/img/landing/companies-advisor/jalov.jpg"
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/jalov.jpg"
             }
           ],
           "video": ""
@@ -1190,7 +1183,7 @@
         {
           "id": "dimaZaitsev",
           "name": "Dima Zaitsev, PhD",
-          "photo": "./assets/img/advisors/dima-zaitsev.jpg",
+          "photo": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/dima-zaitsev.jpg",
           "socialLinks": [
             {
               "socialIcon": "fa-linkedin",
@@ -1202,7 +1195,7 @@
           "logos": [
             {
               "alt": "",
-              "src": "./assets/img/landing/companies-advisor/dima.jpg"
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/dima.jpg"
             }
           ],
           "video": ""
@@ -1210,7 +1203,7 @@
         {
           "id": "alexYastremski",
           "name": "Alex Yastremski",
-          "photo": "./assets/img/advisors/alex-yastremski.jpg",
+          "photo": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/alex-yastremski.jpg",
           "socialLinks": [
             {
               "socialIcon": "fa-linkedin",
@@ -1222,7 +1215,7 @@
           "logos": [
             {
               "alt": "",
-              "src": "./assets/img/landing/companies-advisor/bitfury.jpg"
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/bitfury.jpg"
             }
           ],
           "video": ""
@@ -1230,7 +1223,7 @@
         {
           "id": "slavikNenaydokh",
           "name": "Slavik Nenaydokh",
-          "photo": "./assets/img/advisors/slavik-nenaydokh.jpg",
+          "photo": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/slavik-nenaydokh.jpg",
           "socialLinks": [
             {
               "socialIcon": "fa-linkedin",
@@ -1242,7 +1235,7 @@
           "logos": [
             {
               "alt": "",
-              "src": "./assets/img/landing/companies-advisor/slavik.jpg"
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/slavik.jpg"
             }
           ],
           "video": ""
@@ -1353,207 +1346,207 @@
       "mediaList": [
         {
           "id": "influencermarketinghub",
-          "img": "./assets/img/posts/influencermarketinghub.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/influencermarketinghub.png",
           "link": "https://influencermarketinghub.com/influencer-marketing-evolves-via-cryptocurrency/"
         },
         {
           "id": "bitcoin",
-          "img": "./assets/img/posts/bitcoin.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/bitcoin.png",
           "link": "https://news.bitcoin.com/pr-meet-the-new-generation-of-online-advertising-with-socialmedia-market/"
         },
         {
           "id": "Nasdaq_logo",
-          "img": "./assets/img/posts/Nasdaq_logo.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/Nasdaq_logo.png",
           "link": "http://www.nasdaq.com/article/how-blockchains-can-influence-the-influencers-cm880899"
         },
         {
           "id": "news-BTC",
-          "img": "./assets/img/posts/news-BTC.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/news-BTC.png",
           "link": "http://www.newsbtc.com/2017/10/27/blockchain-permeates-social-media-influencers-advertising-market/"
         },
         {
           "id": "token-market",
-          "img": "./assets/img/posts/token-market.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/token-market.png",
           "link": "https://tokenmarket.net/blockchain/ethereum/assets/socialmedia-market/"
         },
         {
           "id": "LB-news",
-          "img": "./assets/img/posts/LB-news.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/LB-news.png",
           "link": "http://www.livebitcoinnews.com/meet-new-generation-online-advertising-socialmedia-market/"
         },
         {
           "id": "bitcoinist",
-          "img": "./assets/img/posts/bitcoinist.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/bitcoinist.png",
           "link": "http://bitcoinist.com/how-blockchain-tech-will-disrupt-influencer-marketing/"
         },
         {
           "id": "ME",
-          "img": "./assets/img/posts/ME.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/ME.png",
           "link": "https://themerkle.com/meet-the-new-generation-of-online-advertising-with-socialmedia-market/"
         },
         {
           "id": "coin-shedule",
-          "img": "./assets/img/posts/coin-shedule.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/coin-shedule.png",
           "link": "https://www.coinschedule.com/icos/e1438/socialmedia.market-.html"
         },
         {
           "id": "coin-telegraph",
-          "img": "./assets/img/posts/coin-telegraph.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/coin-telegraph.png",
           "link": "https://cointelegraph.com/press-releases/meet-new-generation-of-advertising-with-socialmediamarket-ico"
         },
         {
           "id": "coinspot",
-          "img": "./assets/img/posts/coinspot.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/coinspot.png",
           "link": "https://coinspot.io/company/socialmedia-market-blokchejn-platforma-obedinyayushhaya-reklamodatelej-i-blogerov/"
         },
         {
           "id": "bit-2-the-moon",
-          "img": "./assets/img/posts/bit-2-the-moon.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/bit-2-the-moon.png",
           "link": "https://t.me/btc2themoon"
         },
         {
           "id": "coin-gecko",
-          "img": "./assets/img/posts/coin-gecko.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/coin-gecko.png",
           "link": "https://www.coingecko.com/ico/social-media-market?locale=en"
         },
         {
           "id": "token-data",
-          "img": "./assets/img/posts/token-data.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/token-data.png",
           "link": "https://www.tokendata.io/upcoming"
         },
         {
           "id": "crypto-news",
-          "img": "./assets/img/posts/crypto-news.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/crypto-news.png",
           "link": "https://www.cryptocoinsnews.com/meet-new-generation-online-advertising-socialmedia-market/"
         },
         {
           "id": "ICO-bazaar",
-          "img": "./assets/img/posts/ICO-bazaar.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/ICO-bazaar.png",
           "link": "https://icobazaar.com/v2/socialmedia.market"
         },
         {
           "id": "token-tops",
-          "img": "./assets/img/posts/token-tops.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/token-tops.png",
           "link": "https://tokentops.com/ico/socialmedia.market/"
         },
         {
           "id": "blockchain-news",
-          "img": "./assets/img/posts/blockchain-news.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/blockchain-news.png",
           "link": "http://www.the-blockchain.com/2017/11/06/socialmedia-market-announced-token-sale/"
         },
         {
           "id": "coinhills",
-          "img": "./assets/img/posts/coinhills.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/coinhills.png",
           "link": "https://www.coinhills.com/ico/view/socialmedia-market/"
         },
         {
           "id": "ICO-alert",
-          "img": "./assets/img/posts/ICO-alert.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/ICO-alert.png",
           "link": "https://www.icoalert.com"
         },
         {
           "id": "ico-daily",
-          "img": "./assets/img/posts/ico-daily.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/ico-daily.png",
           "link": "https://icodaily.net"
         },
         {
           "id": "ICO-tracker",
-          "img": "./assets/img/posts/ICO-tracker.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/ICO-tracker.png",
           "link": "https://icotracker.net/project/socialmedia_market"
         },
         {
           "id": "crypto-smile",
-          "img": "./assets/img/posts/crypto-smile.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/crypto-smile.png",
           "link": "http://www.cryptosmile.com/2017/11/social-media-market-as-solution-to-social-media-marketing.html"
         },
         {
           "id": "one-news-page",
-          "img": "./assets/img/posts/one-news-page.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/one-news-page.png",
           "link": "http://www.onenewspage.com/n/Markets/75eipusi5/PR-Meet-The-New-Generation-Of-Online.htm"
         },
         {
           "id": "NCC",
-          "img": "./assets/img/posts/NCC.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/NCC.png",
           "link": "http://newscryptocoin.com/2017/11/13/socialmedia-market/"
         },
         {
           "id": "mining-bitcoin",
-          "img": "./assets/img/posts/mining-bitcoin.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/mining-bitcoin.png",
           "link": "https://mining-bitcoin.ru/obzory/it-rynok/socailmedia-market"
         },
         {
           "id": "bitbetnews",
-          "img": "./assets/img/posts/bitbetnews.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/bitbetnews.png",
           "link": "https://www.bitbetnews.com/ico/platforma-dlja-marketing-vlijanija-socialmedia-market/.html"
         },
         {
           "id": "token-desk",
-          "img": "./assets/img/posts/token-desk.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/token-desk.png",
           "link": "https://icos.tokendesk.io/blockchain-permeates-social-media-influencers-advertising-market/"
         },
         {
           "id": "ituber",
-          "img": "./assets/img/posts/ituber.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/ituber.png",
           "link": "https://ituber.me/socialmedia-market-blokchejn-reshenie-dlya-reklamnyx-kampanij/"
         },
         {
           "id": "chipin",
-          "img": "./assets/img/posts/chipin.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/chipin.png",
           "link": "https://www.chipin.com/socialmediamarket-ico-marketing-brands-influencers/"
         },
         {
           "id": "golos",
-          "img": "./assets/img/posts/golos.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/golos.png",
           "link": "https://golos.io/ico/@duosre/socialmedia-market-ico"
         },
         {
           "id": "btc-manager",
-          "img": "./assets/img/posts/btc-manager.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/btc-manager.png",
           "link": "https://btcmanager.com/socialmedia-market-launch-innovative-ethereum-platform-influencer-marketing/"
         },
         {
           "id": "bitcoin ecxhange",
-          "img": "./assets/img/posts/bitcoin ecxhange.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/bitcoin ecxhange.png",
           "link": "https://bitcoinexchangeguide.com/socialmedia-market/"
         },
         {
           "id": "steemit",
-          "img": "./assets/img/posts/steemit.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/steemit.png",
           "link": "https://steemit.com/ico/@cyberjz/socialmedia-market-blockchain-based-influencer-marketing-platform"
         },
         {
           "id": "cryptorussia",
-          "img": "./assets/img/posts/cryptorussia.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/cryptorussia.png",
           "link": "https://cryptorussia.ru/zametki/osnovannyy-na-tehnologii-blokcheyn-socialmediamarket-obedinit-biznes-i-blogerov"
         },
         {
           "id": "decenter",
-          "img": "./assets/img/posts/decenter.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/decenter.png",
           "link": "./assets/pdf/Dcenter_review_socialmediamarket.pdf"
         },
         {
           "id": "foundico",
-          "img": "./assets/img/posts/foundico.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/foundico.png",
           "link": "https://foundico.com/ru/ico/socialmediamarket.html"
         },
         {
           "id": "techflier",
-          "img": "./assets/img/posts/techflier.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/techflier.png",
           "link": "https://www.techflier.com/2017/11/13/5-icos-to-watch-auctus-project-dmarket-aigang-aphelion-socialmedia-market/"
         },
         {
           "id": "worldcoinindex",
-          "img": "./assets/img/posts/worldcoinindex.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/worldcoinindex.png",
           "link": "https://www.worldcoinindex.com/ico/calendar/socialmedia-market"
         },
         {
           "id": "coinjinja",
-          "img": "./assets/img/posts/coinjinja.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/coinjinja.png",
           "link": "https://www.coinjinja.com/detail/socialmedia-market"
         },
         {
           "id": "INF-UPDATE",
-          "img": "./assets/img/posts/INF-UPDATE.png",
+          "img": "//d30l7y24ijbkbs.cloudfront.net/assets/img/posts/INF-UPDATE.png",
           "link": "http://www.influencerupdate.biz/news/66605/influencer-marketing-startup-socialmediamarket-launches-an-ico/"
         }
       ]
