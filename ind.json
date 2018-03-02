@@ -1135,7 +1135,27 @@
           "logos": [
             {
               "alt": "",
-              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/daria.jpg"
+              "src": "./assets/img/landing/companies-advisor/daria.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "chafikAbdellaoui",
+          "name": "Chafik Abdellaoui",
+          "photo": "./assets/img/advisors/chafik-abdellaoui.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/chafikabdellaouiacbmc/"
+            }
+          ],
+          "position": "Pengusaha, pendiri ACBMC, Bizzant, dan XEDYAS IT HYBRID SOLUTIONS.",
+          "description": " Chafik adalah pengembangan bisnis profesional terlengkap dengan pengalaman yang luas dalam eCommerce, game dan pembayaran elektronik. Sekaligus sebagai penyumbang kesuksesan ICO Mobile Go.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "./assets/img/landing/companies-advisor/chafic.jpg"
             }
           ],
           "video": ""
