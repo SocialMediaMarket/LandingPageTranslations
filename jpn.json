@@ -1148,26 +1148,6 @@
           "video": ""
         },
         {
-          "id": "chafikAbdellaoui",
-          "name": "Chafik Abdellaoui",
-          "photo": "./assets/img/advisors/chafik-abdellaoui.jpg",
-          "socialLinks": [
-            {
-              "socialIcon": "fa-linkedin",
-              "link": "https://www.linkedin.com/in/chafikabdellaouiacbmc/"
-            }
-          ],
-          "position": "起業家にして創業者　ACBMC、Bizzant、および XEDYAS IT HYBRID SOLUTIONS",
-          "description": "G2Aの背後で爆発的な成長を遂げただけでなく、Mobile Go ICOの成功に貢献しました。 Chaficは、電子商取引、ゲーム、電子決済に関する豊富な経験を持つ熟練したビジネス開発専門家です。",
-          "logos": [
-            {
-              "alt": "",
-              "src": "./assets/img/landing/companies-advisor/chafic.jpg"
-            }
-          ],
-          "video": ""
-        },
-        {
           "id": "peterZhalov",
           "name": "Peter Zhalov",
           "photo": "./assets/img/advisors/peter-zhalov.jpg",
