@@ -1061,26 +1061,6 @@
           "video": "https://www.youtube.com/embed/OrYQh_jpqt8"
         },
         {
-          "id": "chafikAbdellaoui",
-          "name": "Chafik Abdellaoui",
-          "photo": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/chafik-abdellaoui.jpg",
-          "socialLinks": [
-            {
-              "socialIcon": "fa-linkedin",
-              "link": "https://www.linkedin.com/in/chafikabdellaouiacbmc/"
-            }
-          ],
-          "position": "Entrepreneur, the founder ACBMC, Bizzant, and XEDYAS IT HYBRID SOLUTIONS.",
-          "description": "Chafik is an accomplished business development professional with an extensive experience in eCommerce, gaming and electronic payments. Contributor to Mobile Go ICO success. ",
-          "logos": [
-            {
-              "alt": "",
-              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/chafic.jpg"
-            }
-          ],
-          "video": ""
-        },
-        {
           "id": "andrewPlayford",
           "name": "Andrew Playford",
           "photo": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/andrew-playford.jpg",
@@ -1156,6 +1136,26 @@
             {
               "alt": "",
               "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/daria.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "chafikAbdellaoui",
+          "name": "Chafik Abdellaoui",
+          "photo": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/chafik-abdellaoui.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/chafikabdellaouiacbmc/"
+            }
+          ],
+          "position": "Entrepreneur, the founder ACBMC, Bizzant, and XEDYAS IT HYBRID SOLUTIONS.",
+          "description": "Chafik is an accomplished business development professional with an extensive experience in eCommerce, gaming and electronic payments. Contributor to Mobile Go ICO success. ",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/chafic.jpg"
             }
           ],
           "video": ""
