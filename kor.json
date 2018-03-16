@@ -814,14 +814,6 @@
           "description": "비즈니스와 제품의 창조적인 솔루션을 항상 찾고 있습니다. SocialMedia.Market의 마음과 영혼."
         },
         {
-          "id": "maksymChurkin",
-          "linkedIn": "https://www.linkedin.com/in/maksym-churkin/",
-          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team3.png",
-          "name": "Maksym<br>Churkin",
-          "jobTitle": "Tech Lead",
-          "description": "8 년 이상의 개발 경험을 가진 숙련 된 전문가. 최상의 결과를 얻기 위한 모범 사례와 최상의 프레임 워크를 항상 선택합니다."
-        },
-        {
           "id": "viktorPerehod",
           "linkedIn": "https://www.linkedin.com/in/viktor-perekhod-100103b1/",
           "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team4.png",
@@ -972,14 +964,6 @@
           "name": "Tatiana<br>Sapa",
           "jobTitle": "SEO Expert",
           "description": "검색 엔진 최적화의 마법사"
-        },
-        {
-          "id": "viktorAndes",
-          "linkedIn": "https://www.linkedin.com/in/andesviktor/",
-          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team23.png",
-          "name": "Viktor<br>Andes",
-          "jobTitle": "Marketing Expert",
-          "description": "마케팅의 왕, 광고의 천재"
         },
         {
           "id": "yehorSklyarov",

@@ -814,14 +814,6 @@
           "description": "常にビジネスと製品の創造的なソリューションを探しています。"
         },
         {
-          "id": "maksymChurkin",
-          "linkedIn": "https://www.linkedin.com/in/maksym-churkin/",
-          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team3.png",
-          "name": "Maksym<br>Churkin",
-          "jobTitle": "テックリード",
-          "description": "8年以上の開発経験を持つ熟練したプロフェッショナルで、最良の結果を得るためのベストプラクティスと最良のフレームワークを常に選択しています。"
-        },
-        {
           "id": "viktorPerehod",
           "linkedIn": "https://www.linkedin.com/in/viktor-perekhod-100103b1/",
           "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team4.png",
@@ -972,14 +964,6 @@
           "name": "Tatiana<br>Sapa",
           "jobTitle": "SEOエキスパート",
           "description": "そのマジックで検索エンジンは最適化する。"
-        },
-        {
-          "id": "viktorAndes",
-          "linkedIn": "https://www.linkedin.com/in/andesviktor/",
-          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/team/team23.png",
-          "name": "Viktor<br>Andes",
-          "jobTitle": "マーケティングエキスパート",
-          "description": "マーケティングの主であり、広報の天才。"
         },
         {
           "id": "yehorSklyarov",
