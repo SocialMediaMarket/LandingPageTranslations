@@ -180,6 +180,35 @@
     "hardCapReached": "Hard Сap Reached"
   },
   "landing":{
+    "slogan":{
+      "header":"Choose the way to your triumph",
+      "body": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque."
+    },
+    "reson":{
+      "one":"No entry barrier for content monitization for influencer of any kind",
+      "two":"No entry barrier for content monitization for influencer of any kind",
+      "three":"Unlimited access to influencers all over the world for advertisers"
+    },
+    "block1":{
+      "header": "Неограниченые возможности для вашего бизнеса",
+      "body": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit.",
+      "button": "Попробовать  демо"
+    },
+    "block2":{
+      "header": "Безопасность сделок и операций",
+      "body": "Наша платформа исключает задержки и невыплаты: система удерживает плату до тех пор, пока не будут выполнены установленные в Smart Contract обязательства. После этого средства освобождаются, обеспечивая интересы обеих сторон.",
+      "button": "Читать отзывы клиентов"
+    },
+    "block3":{
+      "header": "Легко управлять, просто взаимодействовать!",
+      "body": "Наша CRM-система содержит множеств советов и шаблонов, объсняющих всю стратегию взаимодействия и предлагающих пути развития на основе собственной аналитики. Рекламная компания создается с помощью Smart Contract и значительно упрощает сотрудничество.",
+      "button": "Как начать?"
+    },
+    "block4":{
+      "header": "Децентрализованная система решения споров",
+      "body": "Во избежание субъективных оценок контента, а так же конфликтов, вызванных неудовлетворенностью сторон, наш сервис рад предоставить уникальную арбитражную систему, что поможет участникам решить спор между собой, либо заручиться помощью независсимых экспертов.",
+      "button": "посмотреть кейсы"
+    },
     "about": {
       "first": {
         "title": "首个连接社交媒体，博主和广告商的去中心化市场",
