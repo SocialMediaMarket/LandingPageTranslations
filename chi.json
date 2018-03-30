@@ -190,24 +190,24 @@
       "three":"Unlimited access to influencers all over the world for advertisers"
     },
     "block1":{
-      "header": "Неограниченые возможности для вашего бизнеса",
-      "body": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit.",
-      "button": "Попробовать  демо"
+      "header": "Unlimited opportunities for your business",
+      "body": "SocialMedia.Market creates a global marketplace for advertisers and opinion leaders within all major social networks, providing convenient and transparent tools for interaction between participants. Unlimited opportunities to promote brands and earnings in social networks with a simple application!",
+      "button": "Try demo"
     },
     "block2":{
-      "header": "Безопасность сделок и операций",
-      "body": "Наша платформа исключает задержки и невыплаты: система удерживает плату до тех пор, пока не будут выполнены установленные в Smart Contract обязательства. После этого средства освобождаются, обеспечивая интересы обеих сторон.",
-      "button": "Читать отзывы клиентов"
+      "header": "Security of transactions and operations",
+      "body": "SM.M. excludes holdings and non-payments, providing only secure transactions. The platform operates on the basis of Ethereum and uses a fail-safe escrow payment system, which automatically keeps money transfers until the terms of the smart contract are fulfilled.",
+      "button": "Learn more"
     },
     "block3":{
-      "header": "Легко управлять, просто взаимодействовать!",
-      "body": "Наша CRM-система содержит множеств советов и шаблонов, объсняющих всю стратегию взаимодействия и предлагающих пути развития на основе собственной аналитики. Рекламная компания создается с помощью Smart Contract и значительно упрощает сотрудничество.",
-      "button": "Как начать?"
+      "header": "Easy to manage, simple to interact!",
+      "body": "The modern CRM-system of the platform contains many tips and templates that help to build effective interaction. The analytical system SM.M itself will offer you the best ways of development. The advertising campaign is created with the help of Smart Contract and greatly simplifies the cooperation.",
+      "button": "How to start"
     },
     "block4":{
-      "header": "Децентрализованная система решения споров",
-      "body": "Во избежание субъективных оценок контента, а так же конфликтов, вызванных неудовлетворенностью сторон, наш сервис рад предоставить уникальную арбитражную систему, что поможет участникам решить спор между собой, либо заручиться помощью независсимых экспертов.",
-      "button": "посмотреть кейсы"
+      "header": "Decentralized dispute solution system",
+      "body": "The unique arbitration system of our platform will help objectively evaluate different points of view and resolve the conflict with the maximum benefit for both sides. We offer a system of independent dispute resolution for participants in the process of the involvement of independent experts.",
+      "button": "Learn more"
     },
     "about": {
       "first": {
