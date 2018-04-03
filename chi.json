@@ -1776,5 +1776,10 @@
         ]
       }
     ]
+  },
+  "underconstruction":{
+    "header":"This page  is  under  construction",
+    "toHomePage": "Return  to  Home Page",
+    "readBlog": "Read  our  interesting  blog"
   }
 }
