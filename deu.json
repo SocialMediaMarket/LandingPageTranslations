@@ -184,6 +184,10 @@
       "header":"Choose the way to your triumph",
       "body": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque."
     },
+    "become":{
+      "inf":"Become Influencer",
+      "adv": "Become Advertizer"
+    },
     "reson":{
       "one":"No entry barrier for content monitization for influencer of any kind",
       "two":"No entry barrier for content monitization for influencer of any kind",
