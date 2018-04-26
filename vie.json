@@ -36,7 +36,9 @@
     "buyTokens": "MUA TOKEN",
     "shorter": "Shorter",
     "whitePaper": "White paper",
-    "smartContract": "Smart contract"
+    "smartContract": "Smart contract",
+    "becomeInfluencer": "Become influencer",
+    "becomeAdvertiser": "Become advertiser"
   },
   "presaleLive": {
     "headingLarge": "Presale is now live!",
@@ -92,6 +94,18 @@
     ]
   },
   "footer": {
+    "company": "Company",
+    "aboutUs": "About us",
+    "careers": "Careers",
+    "contactUs": "liên hệ với chúng tôi",
+    "solutions": "Solutions",
+    "resources": "Resources",
+    "tipsForInfluencers": "Tips for influencers",
+    "tipsForAdvertisers": "Tips for advertisers",
+    "faqAndSupport": "FAQ & Support",
+    "blog": "Blog",
+    "webinars": "Webinars",
+    "aboutBlockchain": "About blockchain",
     "copyright": "Copyright © 2017 by SocialMedia.Market. All rights reserved."
   },
   "popup": {
@@ -186,9 +200,9 @@
       "adv": "Become Advertizer"
     },
     "reson":{
-      "one":"No entry barrier for content monitization for influencer of any kind",
-      "two":"No entry barrier for content monitization for influencer of any kind",
-      "three":"Unlimited access to influencers all over the world for advertisers"
+      "one":"Không có rào cản cho việc tiền tệ hóa nội dung hay cho bất cứ loại hình nhà ảnh hưởng nào",
+      "two":"Không có rào cản cho việc tiền tệ hóa nội dung hay cho bất cứ loại hình nhà ảnh hưởng nào",
+      "three":"Quyền tiếp cận không giới hạn tới các nhà ảnh hưởng trên toàn cầu cho các nhà quảng cáo"
     },
     "block1":{
       "header": "Unlimited opportunities for your business",
@@ -198,7 +212,7 @@
     "block2":{
       "header": "Security of transactions and operations",
       "body": "SM.M. excludes holdings and non-payments, providing only secure transactions. The platform operates on the basis of Ethereum and uses a fail-safe escrow payment system, which automatically keeps money transfers until the terms of the smart contract are fulfilled.",
-      "button": "Learn more"
+      "button": "tìm hiểu thêm"
     },
     "block3":{
       "header": "Easy to manage, simple to interact!",
@@ -208,10 +222,10 @@
     "block4":{
       "header": "Decentralized dispute solution system",
       "body": "The unique arbitration system of our platform will help objectively evaluate different points of view and resolve the conflict with the maximum benefit for both sides. We offer a system of independent dispute resolution for participants in the process of the involvement of independent experts.",
-      "button": "Learn more"
+      "button": "tìm hiểu thêm"
     },
     "trusted": {
-      "footer": "Our partners"
+      "footer": "CÁC ĐỐI TÁC"
     },
     "about": {
       "first": {
@@ -678,32 +692,6 @@
               "desc": "Q&A сессия с основателем Socialmedia.Market Дмитрием Шишовым. Во время трансляции Дмитрий расскажет об основных изменениях в экономике Social Media токена, нашей реферальной программе и ответит на все ваши вопросы! Будем рады пообщаться!"
             }
           ]
-        },
-        {
-          "id": "tokens",
-          "title": "Làm thế nào để mua các token?",
-          "videos": [
-            {
-              "channelName": "SocialMedia.Market",
-              "date": "06.12.17",
-              "country": "Kiev",
-              "video": "https://www.youtube.com/watch?v=dp5fiUwxScE",
-              "thumb": "https://img.youtube.com/vi/dp5fiUwxScE/maxresdefault.jpg",
-              "share": "https://www.youtube.com/watch?v=dp5fiUwxScE",
-              "title": "How to create new Ethereum wallet on MyEtherWallet?",
-              "desc": "Everything you need to know on how to create ETH wallet. Simple and quick guide from our team."
-            },
-            {
-              "channelName": "SocialMedia.Market",
-              "date": "06.12.17",
-              "country": "Kiev",
-              "video": "https://www.youtube.com/watch?v=TZfSnlXZCGg",
-              "thumb": "https://img.youtube.com/vi/TZfSnlXZCGg/mqdefault.jpg",
-              "share": "https://www.youtube.com/watch?v=TZfSnlXZCGg",
-              "title": "Как создать кошелек Ethereum на MyeEtherWallet? SocialMedia.Market",
-              "desc": "Все что нужно знать о том как создать кошелек MyeEtherWallet. Простой гайд от нашей команды."
-            }
-          ]
         }
       ],
       "share": "Share video",
@@ -829,7 +817,208 @@
       "sectionDesc": "31 thành viên hiện đang tham gia vào dự án, và chúng tôi đang thuê thêm các chuyên gia thị trường, các kỹ sư chuỗi khối nhằm mở rộng đội ngũ phát triển của mình. Chúng tôi mong muốn tăng số lượng thành viên SocialMedia.Market lên tới 70 người trong 4 tháng tới.",
       "fullTeam": "đội ngũ đầy đủ",
       "hideFullTeam": "Ẩn toàn bộ nhóm",
+      "viewVideo": "View video",
       "teamList": [
+        {
+          "id": "keithTeare",
+          "name": "Keith Teare",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/keith-teare.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "http://linkedin.com/in/kteare/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Chủ tịch điều hành công ty đầu tư mạo hiểm tại UK Accelerated Digital Ventures. Keith Teare gần đây đã cố vấn thành công cho các ICO của ICOBox (4000 BTC) và Crypterium (hơn $51 triệu). Trước đây ông từng là nhà sáng lập của TechCrunch và là Nhà Cung Cấp Dịch Vụ Internet người tiêu dùng đầu tiên tại Châu Âu - EasyNet. EasyNet và RealNames đều đạt vị trí Unicorn trong khoảng cuối những năm 90.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/teare.jpg"
+            }
+          ],
+          "video": "https://www.youtube.com/embed/OrYQh_jpqt8"
+        },
+        {
+          "id": "andrewPlayford",
+          "name": "Andrew Playford",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/andrew-playford.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/andrewplayford/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Phó Chủ tịch Điều Hành Cấp Cao tại Sonic Foundry, Inc. Trước Sonic Foundry, Andrew điều hành Think New Ideas, một công ty được công nhận bởi NASDAQ đã mua lại và tích hợp các công ty tiếp thị điện tử và phát triển web. Think New Ideas cuối cùng đã được mua lại với giá $250 mm.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/sonic.jpg"
+            }
+          ],
+          "video": "https://www.youtube.com/embed/dX0n0k7yskg"
+        },
+        {
+          "id": "tatsunariOno",
+          "name": "Tatsunari Ono",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/tatsunari-ono.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-facebook",
+              "link": "https://www.facebook.com/tatsunari.ono.1?ref=br_rs/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "CEO tại Value Brain Co., Ltd. (Nhật Bản). CEO tại Beducate.ltd (Hồng Kông). Tác giả cuốn \"Những Mối Lo Kiếm Ra Tiền\" (\"Worries Make Money\") Kadokawa Foresta  . Một nhà kinh doanh tham gia tích cực vào các hoạt động đầu tư bất động sản, cổ phần, vận hành Airbnb cũng như tiền thuật toán. Ông tổ chức các cuộc gặp tại Tokyo giữa các công ty tiền thuật toán nổi tiếng như NEO, LISK, Quantum và Ardor.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/ono.jpg"
+            }
+          ],
+          "video": "https://www.youtube.com/embed/FUUcqxpOaAA"
+        },
+        {
+          "id": "gabrielZanko",
+          "name": "Gabriel Zanko",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/gabriel-zanko.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://co.linkedin.com/in/gabrielzanko/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Giám đốc Thuế & Cố vấn cho Nokia Canada & Hỗ Trợ cho Nokia Chile. Nhà khởi nghiệp Fintech - Cố vấn. Nhà sáng lập của MobileyourLife và tham gia vào lĩnh vực AI-Fintech giúp cung cấp các giải pháp trong môi trường B2B. Cố vấn ICO Gây Vốn và Phát Triển Kinh Doanh Quốc Tế.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/zanko.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "dariaGeneralova",
+          "name": "Daria Generalova",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/daria-generalova.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/daria-generalova-842a3a85/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Đồng sáng lập ICOBox. Chuyên gia về Marketing, PR & Truyền thông với hơn 10 năm kinh nghiệm. Từng tham gia ngành chuỗi khối gần 2 năm về trước và giữ vai trò cố vấn cho Argon Group cũng như hỗ trợ khởi động ICO nền tảng Cryptonomos.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/daria.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "chafikAbdellaoui",
+          "name": "Chafik Abdellaoui",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/chafik-abdellaoui.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/chafikabdellaouiacbmc/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Nhà khởi nghiệp, nhà sáng lập của ACBMC, Bizzant và XEDYAS IT HYBRID SOLUTIONS..   Chafic là một chuyên gia phát triển kinh doanh thành công với kinh nghiệm chuyên sâu về thương mại điện tử, gaming và thanh toán điện tử. cũng là người đóng góp vào thành công của ICO Mobile Go.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/chafic.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "peterZhalov",
+          "name": "Peter Zhalov",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/peter-zhalov.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/peter-zhalov-35149225/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Cựu phó chủ tịch Tiếp thị & Quảng cáo tại Wargaming.net, người say mê eSports và chuỗi khối. Giám Đốc Điều Hành nhiều kinh nghiệm, Nhà Tiếp Thị và chuyên gia Phát Triển Kinh Doanh với lịch sử làm việc huy hoàng trong ngành công nghiệp game điện tử. Có kỹ năng về eSports, Chuỗi khối và Quảng cáo.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/jalov.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "dimaZaitsev",
+          "name": "Dima Zaitsev, PhD",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/dima-zaitsev.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/dima-zaitsev/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Đứng đầu bộ phận Kinh doanh & PR Quốc tế Trưởng Bộ Phận Phân Tích tại ICOBox. Năm 2017, Dima bắt đầu hứng thú với chuỗi khối và tiền thuật toán và bắt đầu thực hiện các nghiên cứu thị trường phạm vi giới hạn. Ông có phần riêng của mình trong một số các đại lý truyền thông tại Hoa Kỳ bao gồm FXStreet.com, CoinSpeaker.com, và các bên khác.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/dima.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "alexYastremski",
+          "name": "Alex Yastremski",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/alex-yastremski.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/alex-yastremski-b1889514/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Luật sư Pháp lý San Francisco, California Chuyên gia kiểm soát/tuân thủ chuỗi khối . Giám đốc pháp lý tại Bitfury Group Ltd <br/> Cố vấn Fintach tại Bingham McCutchen LLP",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/bitfury.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "slavikNenaydokh",
+          "name": "Slavik Nenaydokh",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/slavik-nenaydokh.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/slavik-nenaydokh-7785492/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "COO tại Centuria Natural Foods San Francisco, CA. Giám đốc Quảng Cáo & Tiếp Thị Các Thị Trường Đang Phát triển tại Exigen Capital <br/> Giám đốc tịa Delphi Software International",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/slavik.jpg"
+            }
+          ],
+          "video": ""
+        },
         {
           "id": "dmitryShishov",
           "linkedIn": "https://www.linkedin.com/in/dmitryshyshov/",
@@ -1105,7 +1294,7 @@
               "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/sonic.jpg"
             }
           ],
-          "video": "https://www.youtube.com/embed/EHqMv284Bkc"
+          "video": "https://www.youtube.com/embed/dX0n0k7yskg"
         },
         {
           "id": "tatsunariOno",

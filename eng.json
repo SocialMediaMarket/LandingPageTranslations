@@ -37,7 +37,9 @@
     "buyTokens": "Buy tokens",
     "shorter": "Shorter",
     "whitePaper": "White paper",
-    "smartContract": "Smart contract"
+    "smartContract": "Smart contract",
+    "becomeInfluencer": "Become influencer",
+    "becomeAdvertiser": "Become advertiser"
   },
   "presaleLive": {
     "headingLarge": "Presale is now live!",
@@ -59,7 +61,7 @@
     "bonus%%%EndsIn": "Bonus %%% ends in"
   },
   "documents": {
-    "heading": "Documents",
+    "heading": "Check our documents for more information",
     "documents": [
       {
         "id": "SMM_Shorter",
@@ -94,6 +96,18 @@
     ]
   },
   "footer": {
+    "company": "Company",
+    "aboutUs": "About us",
+    "careers": "Careers",
+    "contactUs": "Contact us",
+    "solutions": "Solutions",
+    "resources": "Resources",
+    "tipsForInfluencers": "Tips for influencers",
+    "tipsForAdvertisers": "Tips for advertisers",
+    "faqAndSupport": "FAQ & Support",
+    "blog": "Blog",
+    "webinars": "Webinars",
+    "aboutBlockchain": "About blockchain",
     "copyright": "Copyright © 2017 by SocialMedia.Market. All rights reserved."
   },
   "popup": {
@@ -681,32 +695,6 @@
               "desc": "Q&A сессия с основателем Socialmedia.Market Дмитрием Шишовым. Во время трансляции Дмитрий расскажет об основных изменениях в экономике Social Media токена, нашей реферальной программе и ответит на все ваши вопросы! Будем рады пообщаться!"
             }
           ]
-        },
-        {
-          "id": "tokens",
-          "title": "How to buy tokens?",
-          "videos": [
-            {
-              "channelName": "SocialMedia.Market",
-              "date": "06.12.17",
-              "country": "Kiev",
-              "video": "https://www.youtube.com/watch?v=dp5fiUwxScE",
-              "thumb": "https://img.youtube.com/vi/dp5fiUwxScE/maxresdefault.jpg",
-              "share": "https://www.youtube.com/watch?v=dp5fiUwxScE",
-              "title": "How to create new Ethereum wallet on MyEtherWallet?",
-              "desc": "Everything you need to know on how to create ETH wallet. Simple and quick guide from our team."
-            },
-            {
-              "channelName": "SocialMedia.Market",
-              "date": "06.12.17",
-              "country": "Kiev",
-              "video": "https://www.youtube.com/watch?v=TZfSnlXZCGg",
-              "thumb": "https://img.youtube.com/vi/TZfSnlXZCGg/mqdefault.jpg",
-              "share": "https://www.youtube.com/watch?v=TZfSnlXZCGg",
-              "title": "Как создать кошелек Ethereum на MyeEtherWallet? SocialMedia.Market",
-              "desc": "Все что нужно знать о том как создать кошелек MyeEtherWallet. Простой гайд от нашей команды."
-            }
-          ]
         }
       ],
       "share": "Share video",
@@ -834,7 +822,208 @@
       "sectionDesc": "31 members now involved in the project and we are hiring more marketing specialists, blockchain engineers and growing our development team. We are expecting to increase SocialMedia.Market team up to 70 people in the next 4 months.",
       "fullTeam": "Full team",
       "hideFullTeam": "Hide full team",
+      "viewVideo": "View video",
       "teamList": [
+        {
+          "id": "keithTeare",
+          "name": "Keith Teare",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/keith-teare.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "http://linkedin.com/in/kteare/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Executive Chair Accelerated Digital Ventures. Keith Teare recently advised on the successful ICOs of ICOBox (4000 BTC) and Crypterium ($51mln+). Previously he was a founder of TechCrunch and the first consumer Internet Service Provider in Europe - EasyNet.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/teare.jpg"
+            }
+          ],
+          "video": "https://www.youtube.com/embed/OrYQh_jpqt8"
+        },
+        {
+          "id": "andrewPlayford",
+          "name": "Andrew Playford",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/andrew-playford.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/andrewplayford/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Senior Vice President of Operations at Sonic Foundry, Inc. Prior to Sonic Foundry, Andrew ran operations for Think New Ideas, another NASDAQ listed company that acquired and combined digital marketing and web development companies. Think New Ideas was ultimately acquired for more than $250mm.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/sonic.jpg"
+            }
+          ],
+          "video": "https://www.youtube.com/embed/dX0n0k7yskg"
+        },
+        {
+          "id": "tatsunariOno",
+          "name": "Tatsunari Ono",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/tatsunari-ono.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-facebook",
+              "link": "https://www.facebook.com/tatsunari.ono.1?ref=br_rs/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "CEO, Value Brain Co., Ltd. (Japan) <br/> CEO, Beducate.ltd (Hong Kong). Businessman who is actively engaged in investment activities in real estate, equity, Airbnb operations as well as cryptocurrency. He held Tokyo meetups of well-known cryptocurrency firms such as NEO, LISK, Quantum and Ardor.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/ono.jpg"
+            }
+          ],
+          "video": "https://www.youtube.com/embed/FUUcqxpOaAA"
+        },
+        {
+          "id": "gabrielZanko",
+          "name": "Gabriel Zanko",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/gabriel-zanko.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://co.linkedin.com/in/gabrielzanko/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Tax Manager & Advisor for Nokia Canada & Support for Nokia Chile. Fintech entrepreneur-Advisor. Founder of MobileyourLife and involved in the AI-Fintech space providing solutions in the B2B space. ICO advisory in Fundraising Capital and International Business Development.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/zanko.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "dariaGeneralova",
+          "name": "Daria Generalova",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/daria-generalova.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/daria-generalova-842a3a85/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Co-Founder, ICOBox. Marketing, PR & communications specialist with 10+ years of experience. Having joined blockchain industry nearly two years ago, worked as a consultant to Argon Group and helped launch ICO platform Cryptonomos.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/daria.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "chafikAbdellaoui",
+          "name": "Chafik Abdellaoui",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/chafik-abdellaoui.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/chafikabdellaouiacbmc/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Entrepreneur, the founder ACBMC, Bizzant, and XEDYAS IT HYBRID SOLUTIONS.. Chafik is an accomplished business development professional with an extensive experience in eCommerce, gaming and electronic payments. Contributor to Mobile Go ICO success. ",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/chafic.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "peterZhalov",
+          "name": "Peter Zhalov",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/peter-zhalov.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/peter-zhalov-35149225/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Former VP Marketing & Advertising Wargaming.net, eSports and blockchain enthusiast. Experienced Chief Executive Officer, Marketer and Business Development professional with a demonstrated history of working in the computer games industry. Skilled in eSports, Blockchain, and Advertising.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/jalov.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "dimaZaitsev",
+          "name": "Dima Zaitsev",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/dima-zaitsev.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/dima-zaitsev/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Head of International PR & Business Analytics Department Chief at ICOBox. 2017 Dima became interested in blockchain and cryptocurrencies and started conducting limited-scope market research. He has his own columns on several Media Outlets in the U.S. including FXStreet.com, CoinSpeaker.com, and others.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/dima.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "alexYastremski",
+          "name": "Alex Yastremski",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/alex-yastremski.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/alex-yastremski-b1889514/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Legal Counsel San Francisco, California Blockchain regulatory/compliance expert.<br/><br/> General Counsel at DASAN Zhone Solutions.<br/>General counsel at Bitfury Group Ltd <br/>Fintech counsel Bingham McCutchen LLP",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/bitfury.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "slavikNenaydokh",
+          "name": "Slavik Nenaydokh",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/slavik-nenaydokh.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/slavik-nenaydokh-7785492/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "COO, Centuria Natural Foods San Francisco, CA. Head of M&A Emerging Markets, Exigen Capital. Principal, Delphi Software International",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/slavik.jpg"
+            }
+          ],
+          "video": ""
+        },
         {
           "id": "dmitryShishov",
           "linkedIn": "https://www.linkedin.com/in/dmitryshyshov/",
@@ -1110,7 +1299,7 @@
               "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/sonic.jpg"
             }
           ],
-          "video": "https://www.youtube.com/embed/EHqMv284Bkc"
+          "video": "https://www.youtube.com/embed/dX0n0k7yskg"
         },
         {
           "id": "tatsunariOno",

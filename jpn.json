@@ -37,7 +37,9 @@
     "buyTokens": "トークンを購入",
     "shorter": "短い",
     "whitePaper": "ホワイトペーパー",
-    "smartContract": "スマートコントラクト"
+    "smartContract": "スマートコントラクト",
+    "becomeInfluencer": "Become influencer",
+    "becomeAdvertiser": "Become advertiser"
   },
   "presaleLive": {
     "headingLarge": "Presale is now live!",
@@ -94,6 +96,18 @@
     ]
   },
   "footer": {
+    "company": "Company",
+    "aboutUs": "About us",
+    "careers": "Careers",
+    "contactUs": "連絡先",
+    "solutions": "Solutions",
+    "resources": "Resources",
+    "tipsForInfluencers": "Tips for influencers",
+    "tipsForAdvertisers": "Tips for advertisers",
+    "faqAndSupport": "FAQ & Support",
+    "blog": "Blog",
+    "webinars": "Webinars",
+    "aboutBlockchain": "About blockchain",
     "copyright": "Copyright © 2017 by SocialMedia.Market. All rights reserved."
   },
   "popup": {
@@ -157,7 +171,7 @@
     }
   },
   "firstScreen": {
-    "heading": "通过你的影响力来获得收益",
+    "heading": "影響力をマネタイズする",
     "subheading": "分散型インフルエンサー広告マーケットプレイス",
     "joinTokenSale": "トークンセールに参加",
     "projectRatings": "プロジェクト評価",
@@ -189,9 +203,9 @@
       "adv": "Become Advertizer"
     },
     "reson":{
-      "one":"No entry barrier for content monitization for influencer of any kind",
-      "two":"No entry barrier for content monitization for influencer of any kind",
-      "three":"Unlimited access to influencers all over the world for advertisers"
+      "one":"どのような種類のインフルエンサーにとってもコンテンツの収益化の障壁はありません。",
+      "two":"どのような種類のインフルエンサーにとってもコンテンツの収益化の障壁はありません。",
+      "three":"世界中のインフルエンサーに無制限にアクセスする広告主。"
     },
     "block1":{
       "header": "Unlimited opportunities for your business",
@@ -201,7 +215,7 @@
     "block2":{
       "header": "Security of transactions and operations",
       "body": "SM.M. excludes holdings and non-payments, providing only secure transactions. The platform operates on the basis of Ethereum and uses a fail-safe escrow payment system, which automatically keeps money transfers until the terms of the smart contract are fulfilled.",
-      "button": "Learn more"
+      "button": "もっと詳しく知る"
     },
     "block3":{
       "header": "Easy to manage, simple to interact!",
@@ -211,10 +225,10 @@
     "block4":{
       "header": "Decentralized dispute solution system",
       "body": "The unique arbitration system of our platform will help objectively evaluate different points of view and resolve the conflict with the maximum benefit for both sides. We offer a system of independent dispute resolution for participants in the process of the involvement of independent experts.",
-      "button": "Learn more"
+      "button": "もっと詳しく知る"
     },
     "trusted": {
-      "footer": "Our partners"
+      "footer": "パートナー"
     },
     "about": {
       "first": {
@@ -681,32 +695,6 @@
               "desc": "Q&A сессия с основателем Socialmedia.Market Дмитрием Шишовым. Во время трансляции Дмитрий расскажет об основных изменениях в экономике Social Media токена, нашей реферальной программе и ответит на все ваши вопросы! Будем рады пообщаться!"
             }
           ]
-        },
-        {
-          "id": "tokens",
-          "title": "トークン購入方法",
-          "videos": [
-            {
-              "channelName": "SocialMedia.Market",
-              "date": "06.12.17",
-              "country": "Kiev",
-              "video": "https://www.youtube.com/watch?v=dp5fiUwxScE",
-              "thumb": "https://img.youtube.com/vi/dp5fiUwxScE/maxresdefault.jpg",
-              "share": "https://www.youtube.com/watch?v=dp5fiUwxScE",
-              "title": "How to create new Ethereum wallet on MyEtherWallet?",
-              "desc": "Everything you need to know on how to create ETH wallet. Simple and quick guide from 私達のチーム."
-            },
-            {
-              "channelName": "SocialMedia.Market",
-              "date": "06.12.17",
-              "country": "Kiev",
-              "video": "https://www.youtube.com/watch?v=TZfSnlXZCGg",
-              "thumb": "https://img.youtube.com/vi/TZfSnlXZCGg/mqdefault.jpg",
-              "share": "https://www.youtube.com/watch?v=TZfSnlXZCGg",
-              "title": "Как создать кошелек Ethereum на MyeEtherWallet? SocialMedia.Market",
-              "desc": "Все что нужно знать о том как создать кошелек MyeEtherWallet. Простой гайд от нашей команды."
-            }
-          ]
         }
       ],
       "share": "Share video",
@@ -832,7 +820,208 @@
       "sectionDesc": "現在31人のメンバーがプロジェクトに参加しており、より多くのマーケティングスペシャリストを雇用しています。ブロックチェーン開発チームの増員もあり、私たちはSocialMedia.Marketの成長を期待しています 次の4ヶ月間に最大70人のチームを構成する予定です。",
       "fullTeam": "全チーム",
       "hideFullTeam": "フルチームを非表示",
+      "viewVideo": "View video",
       "teamList": [
+        {
+          "id": "keithTeare",
+          "name": "Keith Teare",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/keith-teare.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "http://linkedin.com/in/kteare/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "エグゼクティブチェア　英国のベンチャー企業Accelerated Digital Ventures. Keith Teareは、最近、ICOBox（4000 BTC）とクリプテリウム（5千万ドル）の成功したICOについてアドバイスしました。 以前は、TechCrunchの創設者であり、ヨーロッパで初めてのインターネットサービスプロバイダでもありました（EasyNet）。 EasyNetとRealNamesはどちらも1990年代後半にUnicornの地位を獲得しました。",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/teare.jpg"
+            }
+          ],
+          "video": "https://www.youtube.com/embed/OrYQh_jpqt8"
+        },
+        {
+          "id": "andrewPlayford",
+          "name": "Andrew Playford",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/andrew-playford.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/andrewplayford/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Sonic Foundry、Inc　副社長. Sonic Foundryの前は、デジタルマーケティングとウェブ開発会社を買収し合併したナスダックに上場しているThink New Ideasの事業を運営していました。 Think New Ideasは最終的に$ 250mm以上で買収されました。.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/sonic.jpg"
+            }
+          ],
+          "video": "https://www.youtube.com/embed/dX0n0k7yskg"
+        },
+        {
+          "id": "tatsunariOno",
+          "name": "Tatsunari Ono",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/tatsunari-ono.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-facebook",
+              "link": "https://www.facebook.com/tatsunari.ono.1?ref=br_rs/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "CEO, Value Brain Co., Ltd. (日本) <br/> CEO, Beducate.ltd (香港)<br/>Author ” Worries Make Money ” Kadokawa Foresta. 不動産、株式、エアバンブオペレーション、および暗号違反で投資活動に積極的に従事するビジネスマン。NEO、LISK、Quantum、Ardorなどの有名な暗号化企業の東京ミートアップを開催しました。",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/ono.jpg"
+            }
+          ],
+          "video": "https://www.youtube.com/embed/FUUcqxpOaAA"
+        },
+        {
+          "id": "gabrielZanko",
+          "name": "Gabriel Zanko",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/gabriel-zanko.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://co.linkedin.com/in/gabrielzanko/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Tax Manager & Advisor for Nokia Canada & Support for Nokia Chile. Fintech起業家アドバイザー。 Mobileyour Lifeの創始者であり、B-2 B空間にソリューションを提供するAI-Fintech空間に携わっています。 資金調達資本および国際ビジネス開発におけるICOアドバイザー。",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/zanko.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "dariaGeneralova",
+          "name": "Daria Generalova",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/daria-generalova.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/daria-generalova-842a3a85/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Co-Founder, ICOBox. 10年以上のマーケティング経験、PR＆コミュニケーションの専門家。 約2年前にブロックチェーン産業に加わり、Argon Groupのコンサルタントとして働き、ICOプラットフォームCryptonomosの立ち上げを支援しました。",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/daria.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "chafikAbdellaoui",
+          "name": "Chafik Abdellaoui",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/chafik-abdellaoui.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/chafikabdellaouiacbmc/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "起業家にして創業者　ACBMC、Bizzant、および XEDYAS IT HYBRID SOLUTIONS. Chaficは、電子商取引、ゲーム、電子決済に関する豊富な経験を持つ熟練したビジネス開発専門家です。Mobile Go ICOの成功に貢献しました。",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/chafic.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "peterZhalov",
+          "name": "Peter Zhalov",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/peter-zhalov.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/peter-zhalov-35149225/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Wargaming.netの元VPマーケティング＆広告担当、eSportsとブロックチェーン愛好家. コンピュータゲーム業界で働く実績のある、マーケティング担当者およびビジネス開発担当の最高執行役員。 eSports、Blockchain、Advertisingに熟練しています。",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/jalov.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "dimaZaitsev",
+          "name": "Dima Zaitsev, PhD",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/dima-zaitsev.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/dima-zaitsev/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Head of International PR & Business Analytics Department Chief, ICOBox. 2017年Dimaはブロックチェインとクリプトクロスに関心を持ち、限られた範囲の市場調査を開始した。 彼は、FXStreet.com、CoinSpeaker.comなど、米国のいくつかのメディアアウトレットに独自のコラムを持っています。",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/dima.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "alexYastremski",
+          "name": "Alex Yastremski",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/alex-yastremski.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/alex-yastremski-b1889514/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "法律顧問<br>カリフォルニア州サンフランシスコ<br>ブロックチェーンの規制/コンプライアンスの専門家<br>BitfuryGroupLtdの法律顧問<br>Fintech弁護士Bingham McCutchen LLP. Bitfury Group Ltdジェネラルカウンセル <br/> Fintech counsel Bingham McCutchen LLP",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/bitfury.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "slavikNenaydokh",
+          "name": "Slavik Nenaydokh",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/slavik-nenaydokh.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/slavik-nenaydokh-7785492/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Centuria Natural Foods 、COO. サンフランシスコ、カリフォルニア州<br>M＆Aエマージング市場代表、Exigen Capital<br>Delphi Software International Principal",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/slavik.jpg"
+            }
+          ],
+          "video": ""
+        },
         {
           "id": "dmitryShishov",
           "linkedIn": "https://www.linkedin.com/in/dmitryshyshov/",
@@ -1108,7 +1297,7 @@
               "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/sonic.jpg"
             }
           ],
-          "video": "https://www.youtube.com/embed/EHqMv284Bkc"
+          "video": "https://www.youtube.com/embed/dX0n0k7yskg"
         },
         {
           "id": "tatsunariOno",

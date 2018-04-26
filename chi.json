@@ -37,7 +37,9 @@
     "buyTokens": "购买代币",
     "shorter": "Shorter",
     "whitePaper": "White paper",
-    "smartContract": "Smart contract"
+    "smartContract": "Smart contract",
+    "becomeInfluencer": "Become influencer",
+    "becomeAdvertiser": "Become advertiser"
   },
   "presaleLive": {
     "headingLarge": "预售正在进行",
@@ -94,6 +96,18 @@
     ]
   },
   "footer": {
+    "company": "Company",
+    "aboutUs": "About us",
+    "careers": "Careers",
+    "contactUs": "",
+    "solutions": "Solutions",
+    "resources": "Resources",
+    "tipsForInfluencers": "Tips for influencers",
+    "tipsForAdvertisers": "Tips for advertisers",
+    "faqAndSupport": "FAQ & Support",
+    "blog": "Blog",
+    "webinars": "Webinars",
+    "aboutBlockchain": "About blockchain",
     "copyright": "Copyright © 2017 by SocialMedia.Market. All rights reserved."
   },
   "popup": {
@@ -157,8 +171,8 @@
     }
   },
   "firstScreen": {
-    "heading": "通过影响力获利",
-    "subheading": "影响者广告市场",
+    "heading": "通过你的影响力来获得收益",
+    "subheading": "去中心化的影响者广告市场",
     "joinTokenSale": "加入代币销售",
     "projectRatings": "项目评级",
     "subscribe": "订阅新闻",
@@ -189,9 +203,9 @@
       "adv": "Become Advertizer"
     },
     "reson":{
-      "one":"No entry barrier for content monitization for influencer of any kind",
-      "two":"No entry barrier for content monitization for influencer of any kind",
-      "three":"Unlimited access to influencers all over the world for advertisers"
+      "one":"没有准入壁垒 可为任何类型的影响者提供内容监控",
+      "two":"没有准入壁垒 可为任何类型的影响者提供内容监控",
+      "three":"无限制的访问 有影响力的人 广告商的世界"
     },
     "block1":{
       "header": "Unlimited opportunities for your business",
@@ -201,7 +215,7 @@
     "block2":{
       "header": "Security of transactions and operations",
       "body": "SM.M. excludes holdings and non-payments, providing only secure transactions. The platform operates on the basis of Ethereum and uses a fail-safe escrow payment system, which automatically keeps money transfers until the terms of the smart contract are fulfilled.",
-      "button": "Learn more"
+      "button": "学习更多"
     },
     "block3":{
       "header": "Easy to manage, simple to interact!",
@@ -211,10 +225,10 @@
     "block4":{
       "header": "Decentralized dispute solution system",
       "body": "The unique arbitration system of our platform will help objectively evaluate different points of view and resolve the conflict with the maximum benefit for both sides. We offer a system of independent dispute resolution for participants in the process of the involvement of independent experts.",
-      "button": "Learn more"
+      "button": "学习更多"
     },
     "trusted": {
-      "footer": "Our partners"
+      "footer": "我们的合作伙伴"
     },
     "about": {
       "first": {
@@ -681,32 +695,6 @@
               "desc": "Q&A сессия с основателем Socialmedia.Market Дмитрием Шишовым. Во время трансляции Дмитрий расскажет об основных изменениях в экономике Social Media токена, нашей реферальной программе и ответит на все ваши вопросы! Будем рады пообщаться!"
             }
           ]
-        },
-        {
-          "id": "tokens",
-          "title": "如何购买代币？",
-          "videos": [
-            {
-              "channelName": "SocialMedia.Market",
-              "date": "06.12.17",
-              "country": "Kiev",
-              "video": "https://www.youtube.com/watch?v=dp5fiUwxScE",
-              "thumb": "https://img.youtube.com/vi/dp5fiUwxScE/maxresdefault.jpg",
-              "share": "https://www.youtube.com/watch?v=dp5fiUwxScE",
-              "title": "How to create new Ethereum wallet on MyEtherWallet?",
-              "desc": "Everything you need to know on how to create ETH wallet. Simple and quick guide from our team."
-            },
-            {
-              "channelName": "SocialMedia.Market",
-              "date": "06.12.17",
-              "country": "Kiev",
-              "video": "https://www.youtube.com/watch?v=TZfSnlXZCGg",
-              "thumb": "https://img.youtube.com/vi/TZfSnlXZCGg/mqdefault.jpg",
-              "share": "https://www.youtube.com/watch?v=TZfSnlXZCGg",
-              "title": "Как создать кошелек Ethereum на MyeEtherWallet? SocialMedia.Market",
-              "desc": "Все что нужно знать о том как создать кошелек MyeEtherWallet. Простой гайд от нашей команды."
-            }
-          ]
         }
       ],
       "share": "Share video",
@@ -844,7 +832,208 @@
       "sectionDesc": "现在有31个成员参与了这个项目的研发，我们同时也在招聘更多的市场专员，区块链工程师来壮大我们的研发团队，我们预计在接下来的4个月，我们的Socialmedia.Market研发团队人数会增加至70人。",
       "fullTeam": "完整的团队",
       "hideFullTeam": "隐藏整个团队",
+      "viewVideo": "View video",
       "teamList": [
+        {
+          "id": "keithTeare",
+          "name": "Keith Teare",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/keith-teare.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "http://linkedin.com/in/kteare/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "英国风险投资公司Accelerated Digital Ventures的执行主席. Keith Teare最近就ICOBox（4000 BTC）和Crypterium（5100万美元）成功进行ICO提供了建议。此前他是TechCrunch的创始人，也是欧洲第一家消费互联网服务提供商- EasyNet。EasyNet和RealNames在20世纪90年代后期都取得了独角兽的地位。",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/teare.jpg"
+            }
+          ],
+          "video": "https://www.youtube.com/embed/OrYQh_jpqt8"
+        },
+        {
+          "id": "andrewPlayford",
+          "name": "Andrew Playford",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/andrew-playford.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/andrewplayford/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Sonic Foundry公司的高级副总裁运营. 在加入Sonic Foundry之前，Andrew为Think New Ideas（另一家纳斯达克上市公司，即收购并整合数字营销和网络开发公司）开发业务。通过创新的想法最终获得超过2500万的资金。",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/sonic.jpg"
+            }
+          ],
+          "video": "https://www.youtube.com/embed/dX0n0k7yskg"
+        },
+        {
+          "id": "tatsunariOno",
+          "name": "Tatsunari Ono",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/tatsunari-ono.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-facebook",
+              "link": "https://www.facebook.com/tatsunari.ono.1?ref=br_rs/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Value Brain 有限公司。（日本）首席执行官Beducate.ltd首席执行官（香港） 作者“”担心赚钱“”角川森林“. 积极从事房地产，股权，Airbnb业务以及加密货币投资活动的商人。他为NEO，LISK，Quantum和Ardor等知名加密货币公司举办了在东京的线下聚会。",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/ono.jpg"
+            }
+          ],
+          "video": "https://www.youtube.com/embed/FUUcqxpOaAA"
+        },
+        {
+          "id": "gabrielZanko",
+          "name": "Gabriel Zanko",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/gabriel-zanko.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://co.linkedin.com/in/gabrielzanko/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "金融科技企业家顾问。MobileyourLife的创始人，并参与了在AI-Fintech空间提供B2B领域的解决方案。. ICO在筹资和国际业务发展方面的咨询。",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/zanko.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "dariaGeneralova",
+          "name": "Daria Generalova",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/daria-generalova.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/daria-generalova-842a3a85/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "ICOBox的联合创始人. 市场营销，公共关系和沟通专家，拥有10年的经验。 大约两年前加入行业大片后，他在Argon集团担任顾问，并帮助推出ICO平台Cryptonomos。",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/daria.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "chafikAbdellaoui",
+          "name": "Chafik Abdellaoui",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/chafik-abdellaoui.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/chafikabdellaouiacbmc/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "企业家，创始人ACBMC，Bizzant和XEDYAS IT融合解决方案. Chafic是一位成功的商业发展专家，且在电子商务、游戏和电子支付领域都有丰富的经验。同时也是Mobile Go ICO成功的贡献者。",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/chafic.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "peterZhalov",
+          "name": "Peter Zhalov",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/peter-zhalov.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/peter-zhalov-35149225/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "曾在Wargaming.net担任过营销和广告副总裁，电子竞技和区块链爱好者. ",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/jalov.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "dimaZaitsev",
+          "name": "Dima Zaitsev, PhD",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/dima-zaitsev.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/dima-zaitsev/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "国际公关与商务分析部门主管，ICOBox. 2017年迪马成为区块链和加密货币的爱好者，并开始在有限范围内进行市场调查。他在美国的几家媒体开设自己的专栏，包括FXStreet.com，CoinSpeaker.com等等。",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/dima.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "alexYastremski",
+          "name": "Alex Yastremski",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/alex-yastremski.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/alex-yastremski-b1889514/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "法律顾问 加州旧金山 区块链监管/合规专家Bitfury集团有限公司的总法律顾问 金融科技律师. Bingham McCutchen律师事务所",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/bitfury.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "slavikNenaydokh",
+          "name": "Slavik Nenaydokh",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/slavik-nenaydokh.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/slavik-nenaydokh-7785492/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "首席运营官，Centuria天然食品 旧金山，加州 投入资本并购新. 兴市场主管 德尔福软件<br/> 国际公司首席",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/slavik.jpg"
+            }
+          ],
+          "video": ""
+        },
         {
           "id": "dmitryShishov",
           "linkedIn": "https://www.linkedin.com/in/dmitryshyshov/",
@@ -1120,7 +1309,7 @@
               "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/sonic.jpg"
             }
           ],
-          "video": "https://www.youtube.com/embed/EHqMv284Bkc"
+          "video": "https://www.youtube.com/embed/dX0n0k7yskg"
         },
         {
           "id": "tatsunariOno",

@@ -37,7 +37,9 @@
     "buyTokens": "COMPRAR TOKENS",
     "shorter": "Shorter",
     "whitePaper": "White paper",
-    "smartContract": "Smart contract"
+    "smartContract": "Smart contract",
+    "becomeInfluencer": "Become influencer",
+    "becomeAdvertiser": "Become advertiser"
   },
   "presaleLive": {
     "headingLarge": "Presale is now live!",
@@ -94,6 +96,18 @@
     ]
   },
   "footer": {
+    "company": "Company",
+    "aboutUs": "About us",
+    "careers": "Careers",
+    "contactUs": "Contactanos",
+    "solutions": "Solutions",
+    "resources": "Resources",
+    "tipsForInfluencers": "Tips for influencers",
+    "tipsForAdvertisers": "Tips for advertisers",
+    "faqAndSupport": "FAQ & Support",
+    "blog": "Blog",
+    "webinars": "Webinars",
+    "aboutBlockchain": "About blockchain",
     "copyright": "Copyright © 2017 by SocialMedia.Market. All rights reserved."
   },
   "popup": {
@@ -157,8 +171,8 @@
     }
   },
   "firstScreen": {
-    "heading": "Monetize su influencia ",
-    "subheading": "Mercado de Publicidad para Influencers",
+    "heading": "Monetice su influencia",
+    "subheading": "Mercado de publicidad de Influencer DESCENTRALIZADO",
     "joinTokenSale": "Unirse a Venta de Tokens",
     "projectRatings": "Estadisticas del Proyecto",
     "subscribe": "SUSCRIBIRSE A NOTICIAS",
@@ -189,9 +203,9 @@
       "adv": "Become Advertizer"
     },
     "reson":{
-      "one":"No entry barrier for content monitization for influencer of any kind",
-      "two":"No entry barrier for content monitization for influencer of any kind",
-      "three":"Unlimited access to influencers all over the world for advertisers"
+      "one":"Ninguna barrera de entrada para monitización de contenido de Influencer de cualquier tipo",
+      "two":"Ninguna barrera de entrada para monitización de contenido de Influencer de cualquier tipo",
+      "three":"Acceso ilimitado a fuentes de Influencers en todo el mundo para los anunciantes"
     },
     "block1":{
       "header": "Unlimited opportunities for your business",
@@ -201,7 +215,7 @@
     "block2":{
       "header": "Security of transactions and operations",
       "body": "SM.M. excludes holdings and non-payments, providing only secure transactions. The platform operates on the basis of Ethereum and uses a fail-safe escrow payment system, which automatically keeps money transfers until the terms of the smart contract are fulfilled.",
-      "button": "Learn more"
+      "button": "Leer más"
     },
     "block3":{
       "header": "Easy to manage, simple to interact!",
@@ -211,10 +225,10 @@
     "block4":{
       "header": "Decentralized dispute solution system",
       "body": "The unique arbitration system of our platform will help objectively evaluate different points of view and resolve the conflict with the maximum benefit for both sides. We offer a system of independent dispute resolution for participants in the process of the involvement of independent experts.",
-      "button": "Learn more"
+      "button": "Leer más"
     },
     "trusted": {
-      "footer": "Our partners"
+      "footer": "NUESTROS SOCIOS"
     },
     "about": {
       "first": {
@@ -232,7 +246,7 @@
       }
     },
     "videos": {
-      "sectionTitle": "Ver Videos geniales de nosotros",
+      "sectionTitle": "Ver videos geniales de nosotros",
       "videosList": [
         {
           "id": "projectReviews",
@@ -356,7 +370,7 @@
               "thumb": "https://img.youtube.com/vi/tOHZr_xdynQ/maxresdefault.jpg",
               "share": "https://www.youtube.com/watch?v=tOHZr_xdynQ",
               "title": "Pro3xplain | شرح منصة SocialMedia Market للإستفادة ماديا من مواقع التواصل الإجتماعي و الإستثمار",
-              "desc": "موقع محترفو الشرح هو عبار عن مدونة جديدة في عالم الانترنات العربي عامة و التونسي خاصة تحتوي على العديد من الدروس التعليمية التقتية و المعلوماتية الى جانب العديد من الاخبار التي تهم الشباب العربي ."
+              "desc": "موقع محترفو الشرح هو عبار عن مدونة جديدة في عالم الانترنات العربي عامة و التونسي خاصة تحتوي على العديد من الدروس التعليمية التقتية و المعلوماتية الى جانب العديد من الاخبار التي تهم الشباب العربي."
             },
             {
               "channelName": "Krypto Raport",
@@ -625,7 +639,7 @@
               "date": "08.12.17",
               "country": "Kiev",
               "video": "https://www.youtube.com/watch?v=JUx6XMRUVwQ",
-              "thumb": "https://img.youtube.com/vi/JUx6XMRUVwQ/maxresdefault.jpg",
+              "thumb": "https://img.youtube.com/vi/JUx6XMRUVwQ/hqdefault.jpg",
               "share": "https://www.youtube.com/watch?v=JUx6XMRUVwQ",
               "title": "Q&A session with SocialMedia.Market CEO - Dmitry Shyshov and BDM - Viktor Perekhod",
               "desc": "Project news from founder and CEO - Dmitry Shyshov and business development manager - Viktor Perekhod"
@@ -635,7 +649,7 @@
               "date": "16.11.17",
               "country": "Kiev",
               "video": "https://www.youtube.com/watch?v=G4N-BDqYTX0",
-              "thumb": "https://img.youtube.com/vi/G4N-BDqYTX0/maxresdefault.jpg",
+              "thumb": "https://img.youtube.com/vi/G4N-BDqYTX0/hqdefault.jpg",
               "share": "https://www.youtube.com/watch?v=G4N-BDqYTX0",
               "title": "SocialMedia.Market - Первая децентрализованая площадка, объединяющая блогеров и рекламодателей",
               "desc": "Мы создаем первую децентрализованую площадку, которая объединит социальные медиа, блогеров и рекламодателей."
@@ -679,32 +693,6 @@
               "share": "https://www.youtube.com/watch?v=5qOB1MBYd14",
               "title": "Q&A сессия с основателем Socialmedia.Market — Дмитрием Шишовым",
               "desc": "Q&A сессия с основателем Socialmedia.Market Дмитрием Шишовым. Во время трансляции Дмитрий расскажет об основных изменениях в экономике Social Media токена, нашей реферальной программе и ответит на все ваши вопросы! Будем рады пообщаться!"
-            }
-          ]
-        },
-        {
-          "id": "tokens",
-          "title": "Cómo comprar Tokens",
-          "videos": [
-            {
-              "channelName": "SocialMedia.Market",
-              "date": "06.12.17",
-              "country": "Kiev",
-              "video": "https://www.youtube.com/watch?v=dp5fiUwxScE",
-              "thumb": "https://img.youtube.com/vi/dp5fiUwxScE/maxresdefault.jpg",
-              "share": "https://www.youtube.com/watch?v=dp5fiUwxScE",
-              "title": "How to create new Ethereum wallet on MyEtherWallet?",
-              "desc": "Everything you need to know on how to create ETH wallet. Simple and quick guide from our team."
-            },
-            {
-              "channelName": "SocialMedia.Market",
-              "date": "06.12.17",
-              "country": "Kiev",
-              "video": "https://www.youtube.com/watch?v=TZfSnlXZCGg",
-              "thumb": "https://img.youtube.com/vi/TZfSnlXZCGg/maxresdefault.jpg",
-              "share": "https://www.youtube.com/watch?v=TZfSnlXZCGg",
-              "title": "Как создать кошелек Ethereum на MyeEtherWallet? SocialMedia.Market",
-              "desc": "Все что нужно знать о том как создать кошелек MyeEtherWallet. Простой гайд от нашей команды."
             }
           ]
         }
@@ -828,11 +816,221 @@
       ]
     },
     "ourTeam": {
-      "sectionTitle": "Nuestro EQUIPO",
+      "sectionTitle": "Nuestro equipo",
       "sectionDesc": "31 miembros involucrados en el proyecto y estamos contratando más especialistas en marketing, ingenieros de blockchain y crecimiento de nuestro equipo de desarrollo. Estamos esperando incrementar el equipo de SocialMedia.Market hasta 70 personas en los próximos 4 meses.",
       "fullTeam": "Equipo Completo",
       "hideFullTeam": "Ocultar equipo completo",
+      "viewVideo": "View video",
       "teamList": [
+        {
+          "id": "keithTeare",
+          "name": "Keith Teare",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/keith-teare.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "http://linkedin.com/in/kteare/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Ejecutivo de UK venture Accelerated Digital Ventures. Keith Teare recientemente aconsejó en ICOs de ICOBox (4000 BTC) y Crypterium ($51mln+). Previamente fué el fundador de TechCrunch y el primer Proveedor De Servicios de Internet para Clientes en Europa - EasyNet. EasyNet y RealNames ambos alcanzaron estatus de Unicorn durante la decada de 1990s.",
+
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/teare.jpg"
+            }
+          ],
+          "video": "https://www.youtube.com/embed/OrYQh_jpqt8"
+        },
+        {
+          "id": "andrewPlayford",
+          "name": "Andrew Playford",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/andrew-playford.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/andrewplayford/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Vice Presidente Mayor de Operaciones, Sonic Foundry, Inc. Prior to Sonic Foundry, Andrew ran operations for Think New Ideas, another NASDAQ listed company that acquired and combined digital marketing and web development companies. Think New Ideas was ultimately acquired for more than $250mm.",
+
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/sonic.jpg"
+            }
+          ],
+          "video": "https://www.youtube.com/embed/dX0n0k7yskg"
+        },
+        {
+          "id": "tatsunariOno",
+          "name": "Tatsunari Ono",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/tatsunari-ono.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-facebook",
+              "link": "https://www.facebook.com/tatsunari.ono.1?ref=br_rs/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "CEO, Value Brain Co., Ltd. (Japan) <br/> CEO, Beducate.ltd (Hong Kong). Hombre de negocios que participa activamente en actividades de inversión en bienes raíces, acciones, operaciones de Airbnb así como cryptocurrency. Realizó encuentros de Tokio de firmas de cryptocurrency conocido como NEO, LISK, Quantum y Ardor.",
+
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/ono.jpg"
+            }
+          ],
+          "video": "https://www.youtube.com/embed/FUUcqxpOaAA"
+        },
+        {
+          "id": "gabrielZanko",
+          "name": "Gabriel Zanko",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/gabriel-zanko.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://co.linkedin.com/in/gabrielzanko/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Empresario Fintech -Consejero. Fundador de MobileyourLife e involucrado en AI-Fintech espacial dando soluciones a B2B space.. Consejero de ICO en Fundraising Capital e International Business Development.",
+
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/zanko.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "dariaGeneralova",
+          "name": "Daria Generalova",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/daria-generalova.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/daria-generalova-842a3a85/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Co-Founder, ICOBox. Mercadeo, PR y especialiesta en comunicaciones con más de 10 años  de experiencia. Trabajó como consultor en Argon Group y ayudó a lanzar la plataforma ICO Cryptonomos",
+
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/daria.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "chafikAbdellaoui",
+          "name": "Chafik Abdellaoui",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/chafik-abdellaoui.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/chafikabdellaouiacbmc/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Empresario, el fundador ACBMC, Bizzant, y XEDYAS IT HYBRID SOLUTIONS..   Chafic es un profesional del desarrollo de negocios con una dilatada experiencia en el comercio electrónico, pagos electrónicos y juegos de azar. así como contribuyente al éxito de móvil Go ICO.",
+
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/chafic.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "peterZhalov",
+          "name": "Peter Zhalov",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/peter-zhalov.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/peter-zhalov-35149225/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Anterior VP Marketing & Advertising en Wargaming.net, eSports y entuciasta blockchain. ",
+
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/jalov.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "dimaZaitsev",
+          "name": "Dima Zaitsev, PhD",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/dima-zaitsev.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/dima-zaitsev/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Jefe de International PR & Business Analytics Jefe Departamental, ICOBox. 2017 Dima se interesó en blockchain y criptomonedas y comenzó a realizar investigaciones de mercado de alcance limitado. Tiene su propia columna en varios medios de comunicación en los Estados Unidos incluyendo FXStreet.com, CoinSpeaker.com y otros.",
+
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/dima.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "alexYastremski",
+          "name": "Alex Yastremski",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/alex-yastremski.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/alex-yastremski-b1889514/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "COO, Centuria Natural Foods San Francisco, CA. Consejero General en Bitfury Group Ltd <br/> Fintech Consejal Bingham McCutchen LLP",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/bitfury.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "slavikNenaydokh",
+          "name": "Slavik Nenaydokh",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/slavik-nenaydokh.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/slavik-nenaydokh-7785492/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "COO, Centuria Natural Foods San Francisco, CA. Jefe de M&A Emerging Markets, Exigen Capital <br/> Principal, Delphi Software International",
+
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/slavik.jpg"
+            }
+          ],
+          "video": ""
+        },
         {
           "id": "dmitryShishov",
           "linkedIn": "https://www.linkedin.com/in/dmitryshyshov/",
@@ -1110,7 +1308,7 @@
               "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/sonic.jpg"
             }
           ],
-          "video": "https://www.youtube.com/embed/EHqMv284Bkc"
+          "video": "https://www.youtube.com/embed/dX0n0k7yskg"
         },
         {
           "id": "tatsunariOno",
@@ -1651,7 +1849,7 @@
           {
             "title": "How to create an ethereum wallet?",
             "id": "5",
-            "content": "<p>Here is a short guide on how to create a wallet in MyEtherWallet. The process for other wallets is similar.<br><br>STEP 1. Visit MyEtherWallet, enter a strong password and generate a wallet.<br><br>STEP 2. Now you need to store your Private Key. There are 3 ways to do this.<br><br>Download a .JSON file with an encrypted version of the private key. It is compatible with geth, mist and myetherwallet. Also it requires a password to decrypt (Keystore).<br><br>Store unencrypted version of your private key by downloading it in a .JSON file.<br><br>Copy paste a .JSON file from the website.<br><br>To get an additional level of security for your wallet you can use the Keystore (encrypted) feature.<br><br>STEP 3. Make sure to save your wallet address or the QR code. You have to give a sender a public key in order to receive transactions. You can copy the text format or the QR Code. Your QR code can also be used to create a paper wallet.<br><br>Also you can check our video:</p> <div class=\"iframe-wrapper\"><iframe src=\"https://youtube.com/embed/dp5fiUwxScE\"></iframe></div>"
+            "content": "<p>Here is a short guide on how to create a wallet in MyEtherWallet. The process for other wallets is similar.<br><br>STEP 1. Visit MyEtherWallet, enter a strong password and generate a wallet.<br><br>STEP 2. Now you need to store your Private Key. There are 3 ways to do this.<br><br>Download a.JSON file with an encrypted version of the private key. It is compatible with geth, mist and myetherwallet. Also it requires a password to decrypt (Keystore).<br><br>Store unencrypted version of your private key by downloading it in a.JSON file.<br><br>Copy paste a.JSON file from the website.<br><br>To get an additional level of security for your wallet you can use the Keystore (encrypted) feature.<br><br>STEP 3. Make sure to save your wallet address or the QR code. You have to give a sender a public key in order to receive transactions. You can copy the text format or the QR Code. Your QR code can also be used to create a paper wallet.<br><br>Also you can check our video:</p> <div class=\"iframe-wrapper\"><iframe src=\"https://youtube.com/embed/dp5fiUwxScE\"></iframe></div>"
           },
           {
             "title": "What are min/max purchases?",

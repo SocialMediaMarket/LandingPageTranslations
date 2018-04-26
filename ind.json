@@ -36,8 +36,10 @@
     "joinTokenSale": "bergabung dengan penjualan token",
     "buyTokens": "BELI TOKEN",
     "shorter": "Singkat",
-    "whitePaper": "Kertas putihr",
-    "smartContract": "SMART CONTRACT"
+    "whitePaper": "Kertas Putihr",
+    "smartContract": "SMART CONTRACT",
+    "becomeInfluencer": "Become influencer",
+    "becomeAdvertiser": "Become advertiser"
   },
   "presaleLive": {
     "headingLarge": "Presale is now live!",
@@ -62,7 +64,7 @@
     "heading": "Dokumen",
     "documents": [
       {
-        "id": "SMM_Singkat",
+        "id": "SMM_Shorter",
         "title": "Singkat",
         "languages": [
           "eng",
@@ -71,7 +73,7 @@
       },
       {
         "id": "SMM_White-Paper",
-        "title": "Kertas putihr",
+        "title": "Kertas Putihr",
         "languages": [
           "eng",
           "rus"
@@ -94,6 +96,18 @@
     ]
   },
   "footer": {
+    "company": "Company",
+    "aboutUs": "About us",
+    "careers": "Careers",
+    "contactUs": "Hubungi kami",
+    "solutions": "Solutions",
+    "resources": "Resources",
+    "tipsForInfluencers": "Tips for influencers",
+    "tipsForAdvertisers": "Tips for advertisers",
+    "faqAndSupport": "FAQ & Support",
+    "blog": "Blog",
+    "webinars": "Webinars",
+    "aboutBlockchain": "About blockchain",
     "copyright": "Copyright © 2017 by SocialMedia.Market. All rights reserved."
   },
   "popup": {
@@ -157,8 +171,8 @@
     }
   },
   "firstScreen": {
-    "heading": "monetisasi pengaruh anda",
-    "subheading": "Pasar periklanan influencer TERDESENTRALISASI",
+    "heading": "Monetisasi pengaruh anda",
+    "subheading": "Pasar periklanan influencer terdesentralisasi",
     "joinTokenSale": "bergabung dengan penjualan token",
     "projectRatings": "Peringkat proyek",
     "subscribe": "Subscribe to news",
@@ -189,9 +203,9 @@
       "adv": "Become Advertizer"
     },
     "reson":{
-      "one":"No entry barrier for content monitization for influencer of any kind",
-      "two":"No entry barrier for content monitization for influencer of any kind",
-      "three":"Unlimited access to influencers all over the world for advertisers"
+      "one":"Tidak ada penghalang masuk untuk konten monitisasi untuk influencer dalam bentuk apapun",
+      "two":"Tidak ada penghalang masuk untuk konten monitisasi untuk influencer dalam bentuk apapun",
+      "three":"Akses tak terbatas ke influencer di seluruh dunia untuk pengiklan"
     },
     "block1":{
       "header": "Unlimited opportunities for your business",
@@ -201,7 +215,7 @@
     "block2":{
       "header": "Security of transactions and operations",
       "body": "SM.M. excludes holdings and non-payments, providing only secure transactions. The platform operates on the basis of Ethereum and uses a fail-safe escrow payment system, which automatically keeps money transfers until the terms of the smart contract are fulfilled.",
-      "button": "Learn more"
+      "button": "Pelajari lagi"
     },
     "block3":{
       "header": "Easy to manage, simple to interact!",
@@ -211,10 +225,10 @@
     "block4":{
       "header": "Decentralized dispute solution system",
       "body": "The unique arbitration system of our platform will help objectively evaluate different points of view and resolve the conflict with the maximum benefit for both sides. We offer a system of independent dispute resolution for participants in the process of the involvement of independent experts.",
-      "button": "Learn more"
+      "button": "Pelajari lagi"
     },
     "trusted": {
-      "footer": "Our partners"
+      "footer": "MITRA KAMI"
     },
     "about": {
       "first": {
@@ -681,32 +695,6 @@
               "desc": "Q&A сессия с основателем Socialmedia.Market Дмитрием Шишовым. Во время трансляции Дмитрий расскажет об основных изменениях в экономике Social Media токена, нашей реферальной программе и ответит на все ваши вопросы! Будем рады пообщаться!"
             }
           ]
-        },
-        {
-          "id": "tokens",
-          "title": "Bagaimana cara membeli token?",
-          "videos": [
-            {
-              "channelName": "SocialMedia.Market",
-              "date": "06.12.17",
-              "country": "Kiev",
-              "video": "https://www.youtube.com/watch?v=dp5fiUwxScE",
-              "thumb": "https://img.youtube.com/vi/dp5fiUwxScE/maxresdefault.jpg",
-              "share": "https://www.youtube.com/watch?v=dp5fiUwxScE",
-              "title": "How to create new Ethereum wallet on MyEtherWallet?",
-              "desc": "Everything you need to know on how to create ETH wallet. Simple and quick guide from our team."
-            },
-            {
-              "channelName": "SocialMedia.Market",
-              "date": "06.12.17",
-              "country": "Kiev",
-              "video": "https://www.youtube.com/watch?v=TZfSnlXZCGg",
-              "thumb": "https://img.youtube.com/vi/TZfSnlXZCGg/mqdefault.jpg",
-              "share": "https://www.youtube.com/watch?v=TZfSnlXZCGg",
-              "title": "Как создать кошелек Ethereum на MyeEtherWallet? SocialMedia.Market",
-              "desc": "Все что нужно знать о том как создать кошелек MyeEtherWallet. Простой гайд от нашей команды."
-            }
-          ]
         }
       ],
       "share": "Share video",
@@ -832,7 +820,208 @@
       "sectionDesc": "31 anggota sekarang terlibat dalam proyek ini dan kami mempekerjakan lebih banyak spesialis pemasaran, insinyur blockchain dan menumbuhkan tim pengembangan kami. Kami mengharapkan untuk meningkatkan tim SocialMedia.Market hingga 70 orang dalam 4 bulan ke depan.",
       "fullTeam": "Tim penuh",
       "hideFullTeam": "Sembunyikan tim penuh",
+      "viewVideo": "View video",
       "teamList": [
+        {
+          "id": "keithTeare",
+          "name": "Keith Teare",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/keith-teare.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "http://linkedin.com/in/kteare/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Ketua Eksekutif perusahaan patungan Inggris Accelerated Digital Ventures. Keith Teare baru-baru ini menasihati ICO yang berhasil ICOBox (4000 BTC) dan Crypterium ($ 51mln +). Sebelumnya ia adalah pendiri TechCrunch dan Penyedia Layanan Internet konsumen pertama di Eropa - EasyNet. EasyNet dan RealNames meraih status Unicorn pada akhir 1990an.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/teare.jpg"
+            }
+          ],
+          "video": "https://www.youtube.com/embed/OrYQh_jpqt8"
+        },
+        {
+          "id": "andrewPlayford",
+          "name": "Andrew Playford",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/andrew-playford.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/andrewplayford/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Senior Vice President of Operations di Sonic Foundry, Inc . Sebelum Sonic Foundry, Andrew menjalankan operasi untuk Think New Ideas, perusahaan terdaftar di NASDAQ lainnya yang mengakuisisi dan menggabungkan pemasaran digital dan perusahaan pengembangan web. Think New Ideas akhirnya mendapatkan lebih dari $ 250mm.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/sonic.jpg"
+            }
+          ],
+          "video": "https://www.youtube.com/embed/dX0n0k7yskg"
+        },
+        {
+          "id": "tatsunariOno",
+          "name": "Tatsunari Ono",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/tatsunari-ono.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-facebook",
+              "link": "https://www.facebook.com/tatsunari.ono.1?ref=br_rs/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "CEO, Value Brain Co., Ltd. (Jepang) <br/> CEO, Beducate.ltd (Hong Kong). Pengusaha yang secara aktif terlibat dalam kegiatan investasi di bidang real estate, ekuitas, operasi Airbnb serta cryptocurrency. Dia mengadakan pertemuan di Tokyo dengan perusahaan cryptocurrency terkenal seperti NEO, LISK, Quantum dan Ardor.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/ono.jpg"
+            }
+          ],
+          "video": "https://www.youtube.com/embed/FUUcqxpOaAA"
+        },
+        {
+          "id": "gabrielZanko",
+          "name": "Gabriel Zanko",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/gabriel-zanko.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://co.linkedin.com/in/gabrielzanko/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Tax Manager & Advisor untuk Nokia Canada & Support untuk Nokia Chile. Fintech entrepreneur-Advisor. Pendiri MobileyourLife dan terlibat dalam AI-Fintech space yang menyediakan solusi di B2B space. ICO advisory dalam Fundraising Capital and International Business Development.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/zanko.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "dariaGeneralova",
+          "name": "Daria Generalova",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/daria-generalova.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/daria-generalova-842a3a85/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Co-Founder, ICOBox. Spesialis pemasaran, PR&komunikasi dengan pengalaman 10+ tahun. Setelah bergabung dengan industri blockchain hampir dua tahun lalu, bekerja sebagai konsultan untuk Argon Group dan membantu meluncurkan platform ICO Cryptonomos.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/daria.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "chafikAbdellaoui",
+          "name": "Chafik Abdellaoui",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/chafik-abdellaoui.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/chafikabdellaouiacbmc/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Pengusaha, pendiri ACBMC, Bizzant, dan XEDYAS IT HYBRID SOLUTIONS..  Chafik adalah pengembangan bisnis profesional terlengkap dengan pengalaman yang luas dalam eCommerce, game dan pembayaran elektronik. Sekaligus sebagai penyumbang kesuksesan ICO Mobile Go.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/chafic.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "peterZhalov",
+          "name": "Peter Zhalov",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/peter-zhalov.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/peter-zhalov-35149225/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Mantan VP Marketing & Advertising di Wargaming.net, eSports dan penggemar blockchain. Chief Executive Officer YANG Berpengalaman , Marketer dan Business Development profesional dengan riwayat kerja yang ditunjukkan di industri game komputer. Terampil dalam eSports, Blockchain, dan Advertising.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/jalov.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "dimaZaitsev",
+          "name": "Dima Zaitsev, PhD",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/dima-zaitsev.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/dima-zaitsev/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Kepala Kepala Bagian PR & Business Analytics Internasional di ICOBox. 2017 Dima tertarik pada blockchain dan cryptocurrencies dan mulai melakukan penelitian pasar limited-scope. Dia memiliki kolom sendiri di beberapa Media Outlets di A.S. termasuk FXStreet.com, CoinSpeaker.com, dan lainnya.",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/dima.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "alexYastremski",
+          "name": "Alex Yastremski",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/alex-yastremski.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/alex-yastremski-b1889514/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "Penasehat hukum San Francisco, California <br> Ahli peraturan / kepatuhan Blockchain. Nasihat umum di Bitfury Group Ltd <br/> Fintech counsel Bingham McCutchen LLP",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/bitfury.jpg"
+            }
+          ],
+          "video": ""
+        },
+        {
+          "id": "slavikNenaydokh",
+          "name": "Slavik Nenaydokh",
+          "avatar": "//d30l7y24ijbkbs.cloudfront.net/assets/img/advisors/slavik-nenaydokh.jpg",
+          "socialLinks": [
+            {
+              "socialIcon": "fa-linkedin",
+              "link": "https://www.linkedin.com/in/slavik-nenaydokh-7785492/"
+            }
+          ],
+          "jobTitle": "Adviser",
+          "description": "COO, Centuria Natural Foods San Francisco, CA. Kepala M & A Emerging Markets, Modal Exigen <br/> Kepala Sekolah, Delphi Software Internasional",
+          "logos": [
+            {
+              "alt": "",
+              "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/slavik.jpg"
+            }
+          ],
+          "video": ""
+        },
         {
           "id": "dmitryShishov",
           "linkedIn": "https://www.linkedin.com/in/dmitryshyshov/",
@@ -1108,7 +1297,7 @@
               "src": "//d30l7y24ijbkbs.cloudfront.net/assets/img/landing/companies-advisor/sonic.jpg"
             }
           ],
-          "video": "https://www.youtube.com/embed/EHqMv284Bkc"
+          "video": "https://www.youtube.com/embed/dX0n0k7yskg"
         },
         {
           "id": "tatsunariOno",
